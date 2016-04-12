@@ -46,7 +46,7 @@
         <h5 style="margin:0">Room: HSCI-336</h5>
         <h5 style="margin:0">Email: lindlinej@nmhu.edu</h5>
         <br>
-        <h5><strong>Role in PREM</strong> include the magnetic properties studies of the metal-organic frameworks (MOFs) and metal-organic aerogels (MOA) synthesized for applications in gas adsorption/separation and different sensors.</h5>
+        <h5><strong>Role in PREM</strong> includes the magnetic properties studies of the metal-organic frameworks (MOFs) and metal-organic aerogels (MOA) synthesized for applications in gas adsorption/separation and different sensors.</h5>
       </div>
       <!-- <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Research Group Members</h3>
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">

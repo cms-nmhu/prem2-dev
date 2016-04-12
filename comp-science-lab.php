@@ -41,7 +41,7 @@
         <p class="text-center">Dell Cluster</p>
       </div>
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-        <img width="100%" src="images/comp-lab-4.jpg">
+        <img width="100%" src="https://placehold.it/540x360">
         <p class="text-center">Graduate student Jared Leyba working on computational studies of plasmonic meta-materials</p>
       </div>
     </div>
