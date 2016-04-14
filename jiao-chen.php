@@ -46,7 +46,7 @@
         <h5 style="margin:0">Room: HSCI-234</h5>
         <h5 style="margin:0">Email: jiaochen@nmhu.edu</h5>
         <br>
-        <h5><strong>Research objectives</strong> include to develope an ensemble of metallic nanoparticle-modified graphene metamaterials and then study their unique properties for applications in different fields. Gold and silver nanoparticles are chosen as the two main metallic nanoparticles to be decorated on the graphene metamaterials.</h5>
+        <h5><strong>Role in PREM</strong> includes to develope an ensemble of metallic nanoparticle-modified graphene metamaterials and then study their unique properties for applications in different fields. Gold and silver nanoparticles are chosen as the two main metallic nanoparticles to be decorated on the graphene metamaterials.</h5>
       </div>
       <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Research Group Members</h3>
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12">
@@ -54,7 +54,9 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Narendra Boppana</h4>
         <br>
         <h5 style="display:inline">Graduate Student</h5>
-        <br>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
+		<br>
         <br>
         <h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
         <br>
@@ -65,18 +67,21 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Proity Akbar</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
         <br>
       </div>
-    </div>
 	
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px; margin-bottom:20px">
         <img style="margin-right:15px" class="pull-left" src="images/yueling-xiu.jpg">
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Yueling Xiu</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>

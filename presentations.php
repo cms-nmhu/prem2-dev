@@ -33,7 +33,7 @@
         <h4><strong style="color:purple">12th International Conference of Computational Methods in Sciences and Engineering (ICCMSE 2016)</strong>, Athens, Greece, March 17-20, 2016</h4>
         <ul>
           <li>Evgheni Jucov, Siyuan Zhang, Karttikay Moudgil, Benjamin D. Naab, Zhenan Bao, Marina Fonari, Stephen Barlow, Seth R. Marder, Tatiana V. Timofeeva. <em>“Structural and Computational Studies of n-Type Organometallic Dopants for Organic-Semiconductor Devices”</em></li>
-		  <li>Jared Leyba, Gil Gallegos. <em>“Computational Plasmonics: Modeling and Simulation”</em></li>
+		  <li>Gil R. Gallegos, Jared Leyba. <em>“Computational Plasmonics Utilizing Open-Source Electromagnetic Solvers for Analysis of Novel Metamaterial Geometries for Concentration of Photonic Energy”</em></li>
         </ul>
 		<div class="spacing"></div>
 		

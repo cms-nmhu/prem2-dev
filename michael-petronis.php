@@ -46,7 +46,7 @@
         <h5 style="margin:0">Room: HSCI-322</h5>
         <h5 style="margin:0">Email: mspetro@nmhu.edu</h5>
         <br>
-        <h5><strong>Role in PREM</strong> include the magnetic properties studies of the organic materials.</h5>
+        <h5><strong>Role in PREM</strong> includes the magnetic properties studies of the organic materials.</h5>
       </div>
       <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Research Group Members</h3>
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
@@ -54,6 +54,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Billy Romero</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in </h5>
         <br>
         <br>
         <h5 style="display:inline">Magnetic properties studies of the different compounds. Literature search</h5>
@@ -65,6 +67,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Onnica Pino</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">Magnetic properties studies of the different compounds. Literature search</h5>
@@ -76,6 +80,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Joslynn Rowin</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">Magnetic properties studies of the different compounds. Literature search</h5>

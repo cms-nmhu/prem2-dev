@@ -46,7 +46,7 @@
         <h5 style="margin:0">Room: HSCI-235</h5>
         <h5 style="margin:0">Email: tvtimofeeva@nmhu.edu</h5>
         <br>
-        <h5><strong>Role in PREM</strong> include X-ray diffraction studies of the compounds with specific physical properties (nonlinear optical materials, charge transport materials, metal-organic frameworks, liquid crystalline precursors, magnetic materials)</h5>
+        <h5><strong>Role in PREM</strong> includes X-ray diffraction studies of the compounds with specific physical properties (nonlinear optical materials, charge transport materials, metal-organic frameworks, liquid crystalline precursors, magnetic materials)</h5>
       </div>
       <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Research Group Members</h3>
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12">
@@ -55,7 +55,7 @@
         <br>
         <h5 style="display:inline">Synthesis of organic compounds for charge transport and magnetic materials</h5>
         <br>
-      </div>
+      </div> 
 	  
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12">
         <img style="margin-right:15px" class="pull-left" src="images/boris-averkiev.jpg">
@@ -70,6 +70,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
         <br>
         <h5 style="display:inline">Graduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Computer Science</h5>
         <br>
         <br>
         <h5 style="display:inline">X-ray structural studies of organometallic dopants for organic semiconductors</h5>
@@ -81,6 +83,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Bianca Valencia</h4>
         <br>
         <h5 style="display:inline">Graduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">Synthesis of organic compounds for charge transport and magnetic materials</h5>
@@ -92,6 +96,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Shabarinath Bejagam</h4>
         <br>
         <h5 style="display:inline">Graduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">Synthesis and physico-chemical studies of cocrystals for potential pharmaceutical applications</h5>
@@ -103,6 +109,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Xu Wang</h4>
         <br>
         <h5 style="display:inline">Graduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">X-ray structural studies of organometallic dopants for organic semiconductors</h5>
@@ -114,6 +122,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Michelle Tuineau</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">Synthesis of organic compounds for charge transport and magnetic materials</h5>
@@ -125,6 +135,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">James Foster</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">Synthesis of organic compounds for charge transport and magnetic materials</h5>
@@ -136,17 +148,21 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Kathryn Storms</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">Synthesis and physico-chemical studies of cocrystals for potential pharmaceutical applications</h5>
         <br>
       </div>	
 
-      <!--<div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
         <img src="images/logan-wolfel.jpg" class="pull-left" style="margin-right:15px">
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Logan Wolfel</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">X-ray structural studies</h5>
@@ -158,11 +174,26 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Johnny Tuineau</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline">X-ray structural studies</h5>
         <br>
-      </div>-->	  
+      </div>
+	  
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
+        <img src="images/johnny-tuineau.jpg" class="pull-left" style="margin-right:15px">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Geneva Poteet</h4>
+        <br>
+        <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
+        <br>
+        <br>
+        <h5 style="display:inline">Crystallographic Structural Database search</h5>
+        <br>
+      </div>	  
 	  
       <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Visiting Members</h3>
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12">

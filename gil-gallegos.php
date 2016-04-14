@@ -46,7 +46,7 @@
         <h5 style="margin:0">Room: HSCI-292</h5>
         <h5 style="margin:0">Email: grgallegos@nmhu.edu</h5>
         <br>
-        <h5><strong>Role in PREM</strong> include computational modeling and simulation of the plasmonic meta-materials</h5>
+        <h5><strong>Role in PREM</strong> includes computational modeling and simulation of the plasmonic meta-materials</h5>
       </div>
       <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Research Group Members</h3>
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
@@ -54,6 +54,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Jared Leyba</h4>
         <br>
         <h5 style="display:inline">Graduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Computer Science</h5>
 		<br>
 		<br>
         <h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
@@ -65,6 +67,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
         <br>
         <h5 style="display:inline">Graduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Computer Science</h5>
         <br>
         <br>
         <h5 style="display:inline">Creating PREM's Website and Database</h5>
@@ -76,6 +80,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Rosario Vasquez</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Computer Science</h5>
         <br>
         <br>
         <h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
@@ -87,6 +93,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Luis Garcia</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Computer Science</h5>
         <br>
         <br>
         <h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
@@ -98,6 +106,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Juan Guaba</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Computer Science</h5>
         <br>
         <br>
         <h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
@@ -109,35 +119,29 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Henry Chung</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Computer Science</h5>
         <br>
 		<br>
         <h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
         <br>
       </div>
 	  
-      <h3 class="col-md-10 col-md-offset-2 col-xs-12 text-center" style="color:purple">Affiliated Members</h3>
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-bottom:20px">
-        <img style="margin-right:15px" class="pull-left" src="images/miguel-maestas.jpg">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Miguel Maestas</h4>
-        <br>
-        <br>
-        <h5 style="display:inline">Elaboration of the Novel Control Interface for Mutlicopter Unmanned Aircraft Vehicle</h5>
-        <br>
-      </div>
-    </div>
-	
       <h3 class="col-md-10 col-md-offset-2 col-xs-12 text-center" style="color:purple">Former Members</h3>
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
-        <img style="margin-right:15px; width:180px" class="pull-left" src="images/ahmad-shabaneh.jpg">
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-bottom:20px">
+        <img style="margin-right:15px" class="pull-left" src="images/ahmad-shabaneh.jpg">
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Ahmad Shabaneh</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Computer Science</h5>
         <br>
         <br>
         <h5 style="display:inline">Creating PREM's Website</h5>
         <br>
       </div>
-	  
+    </div>
+		  
     <?php include "footer.html" ?>
     
     <!-- Bootstrap core JavaScript

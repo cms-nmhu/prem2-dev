@@ -30,57 +30,134 @@
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 	  
         <li class="col-md-12">
-          <img style="margin:0 3.5% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/chris-hammel.jpg">
-          <h3 style="display:inline; vertical-align:top">February 16, 2016</h3>
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/chris-hammel.jpg">
+          <h4 style="display:inline; vertical-align:top">February 16, 2016</h4>
           <br>
 		  <br>
-          <h3 style="display:inline"><b>PREM Co-PI Dr. P. Chris Hammel visits NMHU and gives a presentation on topic "Pure Spin Transport in Diverse Materials Systems"</b></h3>
+          <h4 style="display:inline"><b>PREM Co-PI Dr. P. Chris Hammel visits NMHU and gives a presentation on topic "Pure Spin Transport in Diverse Materials Systems"</b></h4>
           <br>
 		  <br>
-          <h4 style="display:inline">The Ohio State University - Columbus, OH</h4>
+          <h5 style="display:inline">The Ohio State University - Columbus, OH</h5>
           <br>
 		  <br>
-          <h4 style="display:inline"><a href="" data-toggle="modal" data-target="#feb16Modal">Pictures</a></h4>
+          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#feb16-2016">Pictures</a></h5>
         </li>
         <br>
         <br>	  			  
 	  
         <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/ezekiel-johnston-halperin.jpg">
-          <h3 style="display:inline; vertical-align:top">October 16, 2015</h3>
+          <h4 style="display:inline; vertical-align:top">October 16, 2015</h4>
           <br>
 		  <br>
-          <h3 style="display:inline"><b>PREM Co-PI Dr. Ezekiel Johnston-Halperin visits NMHU and gives a presentation on topic "Organic Spintronics: using organic-based magnets for flexible, low-cost, low-power electronics"</b></h3>
+          <h4 style="display:inline"><b>PREM Co-PI Dr. Ezekiel Johnston-Halperin visits NMHU and gives a presentation on topic "Organic Spintronics: using organic-based magnets for flexible, low-cost, low-power electronics"</b></h4>
           <br>
 		  <br>
-          <h4 style="display:inline">The Ohio State University - Columbus, OH</h4>
+          <h5 style="display:inline">The Ohio State University - Columbus, OH</h5>
           <br>
 		  <br>
-          <h4 style="display:inline"><a href="" data-toggle="modal" data-target="#oct16Modal">Pictures</a></h4>
+          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#oct16-2015">Pictures</a></h5>
         </li>
         <br>
         <br>
 		
-        <div class="spacing"></div>
         <li class="col-md-12">
           <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
-          <h3 style="display:inline; vertical-align:top">September 1, 2015</h3>
+          <h4 style="display:inline; vertical-align:top">September 1, 2015</h4>
           <br>
 		  <br>
-          <h3 style="display:inline"><b><a href="http://www.nmhu.edu/highlands-awarded-3-3-million-national-science-foundation-grant" target="_blank">Highlands awarded $3.3 million National Science Foundation Grant</a></b></h3>
+          <h4 style="display:inline"><b><a href="http://www.nmhu.edu/highlands-awarded-3-3-million-national-science-foundation-grant" target="_blank">Highlands awarded $3.3 million National Science Foundation Grant</a></b></h4>
           <br>
 		  <br>
-          <h4 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h4>
+          <h5 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h5>
           <br>
 		  <br>
-          <h4 style="display:inline"><a href="" data-toggle="modal" data-target="#sept1Modal">Pictures</a></h4>
+          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#sep1-2015">Pictures</a></h5>
         </li>
       </ul>
     </div>
 
     <?php include "footer.html" ?>
 
-    <div class="modal fade" id="sept1Modal" style="display:none" aria-hidden="true">
+    <div class="modal fade" id="feb16-2016" style="display:none" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div id="feb16images" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#feb16images" data-slide-to="0" class="active"></li>
+              <li data-target="#feb16images" data-slide-to="1"></li>
+              <li data-target="#feb16images" data-slide-to="2"></li>
+              <li data-target="#feb16images" data-slide-to="3"></li>
+              <li data-target="#feb16images" data-slide-to="4"></li>
+              <li data-target="#feb16images" data-slide-to="5"></li>
+              <li data-target="#feb16images" data-slide-to="6"></li>
+              <li data-target="#feb16images" data-slide-to="7"></li>
+              <li data-target="#feb16images" data-slide-to="8"></li>
+              <li data-target="#feb16images" data-slide-to="9"></li>
+              <li data-target="#feb16images" data-slide-to="10"></li>
+              <li data-target="#feb16images" data-slide-to="11"></li>
+              <li data-target="#feb16images" data-slide-to="12"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-01.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-02.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-03.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-04.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-05.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-06.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-07.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-08.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-09.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-10.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-11.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-12.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-02-16/chris-hammel-visits-nmhu-13.JPG">
+              </div>
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#feb16images" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#feb16images" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div><!-- end modal-content -->
+      </div> <!-- end modal-dialog -->
+    </div> <!-- end oct16Modal -->	
+	
+    <div class="modal fade" id="sep1-2015" style="display:none" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div id="sept1images" class="carousel slide" data-ride="carousel">
@@ -114,7 +191,7 @@
       </div> <!-- end modal-dialog -->
     </div> <!-- end sept1Modal -->
 
-    <div class="modal fade" id="oct16Modal" style="display:none" aria-hidden="true">
+    <div class="modal fade" id="oct16-2015" style="display:none" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div id="oct16images" class="carousel slide" data-ride="carousel">

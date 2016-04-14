@@ -33,6 +33,7 @@
         <br>
         <h5 style="display:inline">Co-Principle Investigator</h5>
         <br>
+		<br>
         <h4 style="display:inline">Department of Biology and Chemistry</h4>
         <br>
         <h5 style="display:inline">New Mexico Highlands University</h5>
@@ -43,7 +44,7 @@
         <h5 style="margin:0">Room: HSCI-135</h5>
         <h5 style="margin:0">Email: qwei@nmhu.edu</h5>
         <br>
-        <h5><strong>Role in PREM</strong> include the synthesis of the metal-organic frameworks (MOFs) and metal-organic aerogels (MOA) designed for applications in gas adsorption/separation and different sensors.</h5>
+        <h5><strong>Role in PREM</strong> includes the synthesis of the metal-organic frameworks (MOFs) and metal-organic aerogels (MOA) designed for applications in gas adsorption/separation and different sensors.</h5>
       </div>
       <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Research Group Members</h3>
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
@@ -51,6 +52,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Taoguang Qu</h4>
         <br>
         <h5 style="display:inline">Graduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
         <br>
         <br>
         <h5 style="display:inline"> Synthesis of the metal-organic frameworks (MOFs) and metal-organic aerogels (MOA) for applications in gas adsorption/separation and different sensors.</h5>
