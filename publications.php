@@ -29,6 +29,7 @@
       <div class="col-md-10 col-md-offset-1">
         <h4><strong style="color:purple">2016</strong></h4>
 		<ul>
+		  <li><h5>Carlos Ordonez, Marina S. Fonari, Qiang Wei, Tatiana V. Timofeeva. "Crystal structure of poly[bis(ammonium) [bis(<i>mu</i><sub>4</sub>-benzene-1,3,5-tricarboxylato)dizincate] 1-methyl-pyrrolidin-2-one disolvate]" <em>Acta Cryst.</em>, <strong>2016</strong>, E72, 764-767.</h5></li>
 		  <li><h5>Raul Castañeda, Marina S. Fonari, Chad Risko, Yulia A. Getmanenko, Tatiana V. Timofeeva. "Parallel and Perpendicular Packing in Mixed-Stack Cocrystals of Trimeric Perﬂuoro-<i>ortho</i>-phenylene Mercury and Benzo[1,2-<i>b</i>:6,5-<i>b′</i>]dithiophene-4,5-dione Derivatives," <em>Cryst. Growth Des.</em>, <strong>2016</strong>, 16, 2190-2200.</h5></li>
 		  <li><h5>Junxiang Zhang, Timothy C. Parker, Wayne Chen, LaRita Williams, Victor N. Khrustalev, Evgheni V. Jucov, Stephen Barlow, Tatiana V. Timofeeva, Seth R. Marder. "C−H-Activated Direct Arylation of Strong Benzothiadiazole and Quinoxaline-Based Electron Acceptors," <em>J. Org. Chem.</em>, <strong>2016</strong>, 81, 360-370.</h5></li>
           <li><h5>Tarek H. El-Assaad, Manuel Auer, Raul Castañeda, Kassem M. Hallal, Fadi M. Jradi, Lorenzo Mosca, Rony S. Khnayzer, Digambara Patra, Tatiana V. Timofeeva, Jean-Luc Brédas, Emil J. W. List-Kratochvil, Brigitte Wex, Bilal R. Kaafarani. "Tetraaryl pyrenes: photophysical properties, computational studies, crystal structures, and application in OLEDs," <em>J. Mater. Chem. C</em>, <strong>2016</strong>, 4, 3041-3058.</h5></li>

@@ -28,6 +28,54 @@
     <div class="container" style="background:white">
       <h2 class="text-center" style="color:purple">News and Events</h2>
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
+
+        <li class="col-md-12">
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
+          <h4 style="display:inline; vertical-align:top">April 29, 2016</h4>
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>NMHU's 14th Annual Research Day</b></h4>
+          <br>
+		  <br>
+          <h5 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h5>
+          <br>
+		  <br>
+          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#apr29-2016">Pictures</a></h5>
+        </li>
+        <br>
+        <br>	
+		
+        <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/jessica-winter.JPG">
+          <h4 style="display:inline; vertical-align:top">April 26, 2016</h4>
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>PREM Co-PI Dr. Jessica Winter visits NMHU and gives a presentation on topic "Ordered Templating in Nanoparticle Composites"</b></h4>
+          <br>
+		  <br>
+          <h5 style="display:inline">The Ohio State University - Columbus, OH</h5>
+          <br>
+		  <br>
+          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#apr26-2016">Pictures</a></h5>
+        </li>
+        <br>
+        <br>	
+
+        <li class="col-md-12">
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/rich-and-kristin.JPG">
+          <h4 style="display:inline; vertical-align:top">April 22, 2016</h4>
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>Dr. Richard Colbaugh and Dr. Kristin Glass visit NMHU and give a presentation on topic "Combining plasmonic biosensors and machine learning for human health applications"</b></h4>
+          <br>
+		  <br>
+          <h5 style="display:inline">Periander Ltd - Santa Fe, NM</h5>
+          <br>
+		  <br>
+          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#apr22-2016">Pictures</a></h5>
+        </li>
+        <br>
+        <br>			
 	  
         <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/chris-hammel.jpg">

@@ -56,8 +56,8 @@
         <h5 style="display:inline">Synthesis of organic compounds for charge transport and magnetic materials</h5>
         <br>
       </div> 
-	     
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12">
+	  
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
         <img style="margin-right:15px" class="pull-left" src="images/boris-averkiev.jpg">
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Boris Averkiev</h4>
         <br>
@@ -70,8 +70,8 @@
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
         <br>
         <h5 style="display:inline">Graduate Student</h5>
-		    <br>
-		    <h5 style="display:inline">Major in Computer Science</h5>
+		<br>
+		<h5 style="display:inline">Major in Computer Science</h5>
         <br>
         <br>
         <h5 style="display:inline">X-ray structural studies of organometallic dopants for organic semiconductors</h5>
@@ -183,7 +183,7 @@
       </div>
 	  
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
-        <img src="images/johnny-tuineau.jpg" class="pull-left" style="margin-right:15px">
+        <img src="images/geneva-poteet.JPG" class="pull-left" style="margin-right:15px">
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Geneva Poteet</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
