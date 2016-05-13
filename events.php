@@ -126,6 +126,204 @@
     </div>
 
     <?php include "footer.html" ?>
+	
+    <div class="modal fade" id="apr29-2016" style="display:none" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div id="apr29images" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#apr29images" data-slide-to="0" class="active"></li>
+              <li data-target="#apr29images" data-slide-to="1"></li>
+              <li data-target="#apr29images" data-slide-to="2"></li>
+              <li data-target="#apr29images" data-slide-to="3"></li>
+              <li data-target="#apr29images" data-slide-to="4"></li>
+              <li data-target="#apr29images" data-slide-to="5"></li>
+              <li data-target="#apr29images" data-slide-to="6"></li>
+              <li data-target="#apr29images" data-slide-to="7"></li>
+              <li data-target="#apr29images" data-slide-to="8"></li>
+              <li data-target="#apr29images" data-slide-to="9"></li>
+              <li data-target="#apr29images" data-slide-to="10"></li>
+              <li data-target="#apr29images" data-slide-to="11"></li>
+              <li data-target="#apr29images" data-slide-to="12"></li>
+              <li data-target="#apr29images" data-slide-to="13"></li>
+              <li data-target="#apr29images" data-slide-to="14"></li>
+              <li data-target="#apr29images" data-slide-to="15"></li>
+              <li data-target="#apr29images" data-slide-to="16"></li>
+              <li data-target="#apr29images" data-slide-to="17"></li>
+              <li data-target="#apr29images" data-slide-to="18"></li>
+              <li data-target="#apr29images" data-slide-to="19"></li>
+              <li data-target="#apr29images" data-slide-to="20"></li>
+              <li data-target="#apr29images" data-slide-to="21"></li>
+              <li data-target="#apr29images" data-slide-to="22"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="events/2016-04-29/14th-research-day-01.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-02.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-03.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-04.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-05.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-06.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-07.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-08.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-09.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-10.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-11.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-12.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-13.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-14.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-15.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-16.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-17.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-18.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-19.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-20.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-21.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-22.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-29/14th-research-day-23.JPG">
+              </div>
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#apr29images" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#apr29images" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div><!-- end modal-content -->
+      </div> <!-- end modal-dialog -->
+    </div> <!-- end oct16Modal -->	
+	
+    <div class="modal fade" id="apr26-2016" style="display:none" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div id="apr26images" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#apr26images" data-slide-to="0" class="active"></li>
+              <li data-target="#apr26images" data-slide-to="1"></li>
+              <li data-target="#apr26images" data-slide-to="2"></li>
+              <li data-target="#apr26images" data-slide-to="3"></li>
+              <li data-target="#apr26images" data-slide-to="4"></li>
+              <li data-target="#apr26images" data-slide-to="5"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="events/2016-04-26/jessica-winter-visits-nmhu-01.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-26/jessica-winter-visits-nmhu-02.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-26/jessica-winter-visits-nmhu-03.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-26/jessica-winter-visits-nmhu-04.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-26/jessica-winter-visits-nmhu-05.JPG">
+              </div>
+              <div class="item">
+                <img src="events/2016-04-26/jessica-winter-visits-nmhu-06.JPG">
+              </div>
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#apr26images" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#apr26images" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div><!-- end modal-content -->
+      </div> <!-- end modal-dialog -->
+    </div> <!-- end oct16Modal -->		
+	
+    <div class="modal fade" id="apr22-2016" style="display:none" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div id="sept1images" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#apr22images" data-slide-to="0" class="active"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="events/2016-04-22/rich-and-kristin-01.JPG">
+              </div>
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#apr22images" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#sept1images" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div><!-- end modal-content -->
+      </div> <!-- end modal-dialog -->
+    </div> <!-- end sept1Modal -->
 
     <div class="modal fade" id="feb16-2016" style="display:none" aria-hidden="true">
       <div class="modal-dialog">

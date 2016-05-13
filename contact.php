@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Tatiana Timofeeva</title>
+    <title>Contact</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/theme.css" rel="stylesheet">
