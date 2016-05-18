@@ -61,7 +61,7 @@
 	  
         <h4><strong style="color:purple">The International Chemical Congress of Pacific Basin Societies 2015</strong>, Honolulu, HI, December 15-20, 2015</h4>
         <ul>
-          <li>Tatiana V. Timofeeva. <em>“…”</em></li>
+          <li>Raul Castaneda, Marina Fonari, Yulia Getmanenko, Andrey Yakovenko, Tatiana Timofeeva. <em>“Structural diversity in donor-acceptor materials - adducts of trimeric perfluro-o-phenylene mercury”</em></li>
         </ul>
         <div class="spacing"></div>
 		
@@ -76,6 +76,12 @@
           <li>Evgheni Jucov, Siyuan Zhang, Karttikay Moudgil, Benjamin D. Naab, Zhenan Bao, Marina Fonari, Stephen Barlow, Seth R. Marder, Tatiana V. Timofeeva. <em>“X-ray Single Crystal Analysis of n-Type Organometallic Dopants for Organic Semiconductors”</em></li>
         </ul>
         <div class="spacing"></div>
+		
+        <h4><strong style="color:purple">NSF PREM Directors Meeting</strong>, Washington, DC, November 2, 2015</h4>
+        <ul>
+          <li>Tatiana V. Timofeeva. <em>“New Mexico Highlands University - Ohio State University PREM”</em></li>
+        </ul>
+        <div class="spacing"></div>		
 		
         <h4><strong style="color:purple">International Porous and Powder Materials Symposium and Exhibition, PPM 2015</strong>, Cesme, Izmir, Turkey, September 15-18, 2015</h4>
         <ul>

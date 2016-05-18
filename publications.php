@@ -39,8 +39,10 @@
         <h4><strong style="color:purple">2015</strong></h4>
 		<ul>
           <li><h5>Raul Castañeda, Tatiana V. Timofeeva, Victor N. Khrustalev. "Crystal structure of cyclo-tris­([mu]-3,4,5,6-tetrafluoro-o-phenylene-[kappa]<sup>2</sup>C<sup>1</sup>:C<sup>2</sup>)trimercury-tetracyanoethylene (1/1)," <em>Acta Cryst.</em>, <strong>2015</strong>, E71, 1375-1378. (<strong>Cover Illustration</strong>)</h5></li>
-          <li><h5>Flavien A. A. Toze, Dmitry S. Poplevin, Fedor I. Zubkov, Eugeniya V. Nikitina, Ciara Porras, Victor N. Khrustalev. “Crystal structure of methyl (3RS,4SR,4aRS,11aRS,11bSR)-5-oxo-3,4,4a,5,7,8,9,10,11,11a-decahydro-3,11b-epoxyazepino[2,1-a]isoindole-4-carboxylate,” <em>Acta Cryst.</em>, <strong>2015</strong>, E71, o729-o730</h5></li>
+          <li><h5>Flavien A. A. Toze, Dmitry S. Poplevin, Fedor I. Zubkov, Eugeniya V. Nikitina, Ciara Porras, Victor N. Khrustalev. "Crystal structure of methyl (3RS,4SR,4aRS,11aRS,11bSR)-5-oxo-3,4,4a,5,7,8,9,10,11,11a-decahydro-3,11b-epoxyazepino[2,1-a]isoindole-4-carboxylate," <em>Acta Cryst.</em>, <strong>2015</strong>, E71, o729-o730</h5></li>
           <li><h5>Alexander S. Romanov,  Alexey V. Shapovalov, Gary F. Angles, Tatiana V. Timofeeva, Maddalena Corsini, Stefania Fusi, Fabrizia Fabrizi de Biani. “Structures of the conformational isomers and polymorph modifications of N-substituted 2,6-(E,E)-bis(ferrocenylidene)piperid-4-ones: photo- and electrochemically induced E/Z isomerization,” <em>CrystEngComm</em>, <strong>2015</strong>, 17, 7564-7573</h5></li>
+		  <li><h5>Ilia M. Pavlovetc, Sergiu Draguta, Maria I. Fokina, Tatiana V. Timofeeva, Igor Y. Denisyuk. "Organic noncentrosymmetric complexes of 4-nitrophenol for second harmonic generation," <em>Proc. SPIE 9532, Pacific Rim Laser Damage 2015: Optical Materials for High-Power Lasers</em>, <strong>2015</strong>, 95320Y.</h5></li>
+		  <li><h5>Natalia A. Zulina, Igor Yu. Denisyuk, Tatiana V. Timofeeva. "Synthesis of 2,6-diaminopyridine-4-nitrophenol (2,6DAP4N) cocrystal nanoparticles by laser ablation method," <em>Scientific and Technical Journal of Information Technologies, Mechanics and Optics</em>, <strong>2015</strong>, 15(6), 1177-1180.</h5></li>
 		</ul>
       </div>
     </div>
