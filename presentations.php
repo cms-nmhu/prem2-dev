@@ -29,6 +29,15 @@
       <div class="col-md-10 col-md-offset-1">
 	  <h3><strong style="color:purple">2016</strong></h3>
 	  <div class="spacing"></div>
+
+        <h4><strong style="color:purple">66th Annual Meeting of the American Crystallographic Association</strong>, Denver, CO, July 22-26, 2016</h4>
+        <ul>
+          <li>Boris B. Averkiev, Logan Wolfel, Yulia A. Getmanenko, Tatiana V. Timofeeva. <em>“The crystal structure of the precursors for polymethine dyes with bulky groups”</em></li>
+		  <li>Bejagam Shabari Nath, Kathryn Storms, Marina S. Fonari, Jennifer Lindline, Tatiana V. Timofeeva. <em>“Structural similarities and diversity in a series of crystalline solids composed of 2-aminopyridines and glutaric acid”</em></li>
+		  <li>Marina S. Fonari, Sofia Antal, Raul Castaneda, Carlos Ordonez, Tatiana V. Timofeeva. <em>“Crystalline Products of CO2 Captue by Piperazine Aqueous Solutions”</em></li>
+		  <li>Bianca Valencia, Yulia A. Getmanenko, Boris B. Averkiev, Tatiana V. Timofeeva. <em>“Dithiazole[4,5-a:5',4'-c]Phenazines as Donors in Co-Crystals with Tetracyanoquinodimethane Derivatives”</em></li>
+        </ul>
+		<div class="spacing"></div>	
 	  
         <h4><strong style="color:purple">NMHU's 14th Annual Research Day</strong>, Las Vegas, NM, April 29, 2016</h4>
         <ul>
@@ -45,7 +54,6 @@
 		  <li>Rosario Vasquez, Luis Garcia, Juan Guaba, Henry Chung. <em>“Computational Plasmonics: Modeling and Simulation using MEEP (MIT Electromagnetic Equation Propagation)”</em></li>
 		  <li>Jiao Chen, Narendra Boppana, Proity Nayeeb Akbar, Yueling Xiu. <em>“Novel Method for the Synthesis of Gold Nanomaterials”</em></li>
 		  <li>Proity Nayeeb Akbar, Narendra Boppana, Yueling Xiu, Xu Wang, Jiao Chen. <em>“Development of a Novel Method for the Synthesis of Gold Nanostars”</em></li>
-		  
         </ul>
 		<div class="spacing"></div>	  
 	  

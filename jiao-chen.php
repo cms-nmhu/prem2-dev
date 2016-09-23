@@ -61,19 +61,6 @@
         <h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
         <br>
       </div>
-	  
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px; margin-bottom:20px">
-        <img style="margin-right:15px" class="pull-left" src="images/proity-akbar.jpg">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Proity Akbar</h4>
-        <br>
-        <h5 style="display:inline">Undergraduate Student</h5>
-		<br>
-		<h5 style="display:inline">Major in Chemistry</h5>
-        <br>
-        <br>
-        <h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
-        <br>
-      </div>
 	
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px; margin-bottom:20px">
         <img style="margin-right:15px" class="pull-left" src="images/yueling-xiu.jpg">
@@ -87,6 +74,20 @@
         <h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
         <br>
       </div>
+	  
+      <h3 class="col-md-10 col-md-offset-2 col-xs-12 text-center" style="color:purple">Former Members</h3>	  
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px; margin-bottom:20px">
+        <img style="margin-right:15px" class="pull-left" src="images/proity-akbar.jpg">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Proity Akbar</h4>
+        <br>
+        <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
+        <br>
+        <br>
+        <h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
+        <br>
+      </div>	  
     </div>
 
     <?php include "footer.html" ?>

@@ -93,7 +93,7 @@
 	  
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
         <img src="images/shabarinath-bejagam.jpg" class="pull-left" style="margin-right:15px">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Shabarinath Bejagam</h4>
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Shabari Nath Bejagam</h4>
         <br>
         <h5 style="display:inline">Graduate Student</h5>
 		<br>
@@ -115,8 +115,79 @@
         <br>
         <h5 style="display:inline">X-ray structural studies of organometallic dopants for organic semiconductors</h5>
         <br>
+      </div>	    
+	  
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
+        <img src="images/kathryn-storms.jpg" class="pull-left" style="margin-right:15px">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Kathryn Storms</h4>
+        <br>
+        <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
+        <br>
+        <br>
+        <h5 style="display:inline">Synthesis and physico-chemical studies of cocrystals for potential pharmaceutical applications</h5>
+        <br>
+      </div>	
+
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
+        <img src="images/logan-wolfel.jpg" class="pull-left" style="margin-right:15px">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Logan Wolfel</h4>
+        <br>
+        <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Biology</h5>
+        <br>
+        <br>
+        <h5 style="display:inline">X-ray structural studies</h5>
+        <br>
       </div>	  
 	  
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
+        <img src="images/johnny-tuineau.jpg" class="pull-left" style="margin-right:15px">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Johnny Tuineau</h4>
+        <br>
+        <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
+        <br>
+        <br>
+        <h5 style="display:inline">X-ray structural studies</h5>
+        <br>
+      </div>
+	  
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
+        <img src="images/victoria-sena.JPG" class="pull-left" style="margin-right:15px">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Victoria Sena</h4>
+        <br>
+        <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Chemistry</h5>
+        <br>
+        <br>
+        <h5 style="display:inline">X-ray structural studies</h5>
+        <br>
+      </div>	  
+	  
+      <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Visiting Members</h3>
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12">
+        <img style="margin-right:15px" class="pull-left" src="images/marina-fonari.jpg">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Marina Fonari</h4>
+        <br>
+        <h5>Institute of the Applied Physics, Academy of Sciences of Moldova, Chisinau, Moldova</h5>
+        <h5>X-ray structural studies of the charge-transfer, optoelectronic, electron-transport, and NLO materials</h5>
+        <br>
+      </div>
+	  
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px; margin-bottom:20px">
+        <img src="images/victor-khrustalev.jpg" class="pull-left" style="margin-right:15px">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Victor Khrustalev</h4>
+        <br>
+        <h5>A.N. Nesmeyanov Institute of Organoelement Compounds (INEOS), Russian Academy of Sciences, Moscow, Russia</h5>
+        <h5>Structural studies of various types of organic, organoelement and inorganic compounds, investigations of specific non-valent interactions, the nature of the chemical bond and pseudosymmetry</h5>
+      </div>
+	  
+      <h3 class="col-md-10 col-md-offset-2 col-xs-12 text-center" style="color:purple">Former Members</h3>
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
         <img src="images/michelle-tuineau.jpg" class="pull-left" style="margin-right:15px">
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Michelle Tuineau</h4>
@@ -144,45 +215,6 @@
       </div>	  
 	  
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
-        <img src="images/kathryn-storms.jpg" class="pull-left" style="margin-right:15px">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Kathryn Storms</h4>
-        <br>
-        <h5 style="display:inline">Undergraduate Student</h5>
-		<br>
-		<h5 style="display:inline">Major in Chemistry</h5>
-        <br>
-        <br>
-        <h5 style="display:inline">Synthesis and physico-chemical studies of cocrystals for potential pharmaceutical applications</h5>
-        <br>
-      </div>	
-
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
-        <img src="images/logan-wolfel.jpg" class="pull-left" style="margin-right:15px">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Logan Wolfel</h4>
-        <br>
-        <h5 style="display:inline">Undergraduate Student</h5>
-		<br>
-		<h5 style="display:inline">Major in Chemistry</h5>
-        <br>
-        <br>
-        <h5 style="display:inline">X-ray structural studies</h5>
-        <br>
-      </div>	  
-	  
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
-        <img src="images/johnny-tuineau.jpg" class="pull-left" style="margin-right:15px">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Johnny Tuineau</h4>
-        <br>
-        <h5 style="display:inline">Undergraduate Student</h5>
-		<br>
-		<h5 style="display:inline">Major in Chemistry</h5>
-        <br>
-        <br>
-        <h5 style="display:inline">X-ray structural studies</h5>
-        <br>
-      </div>
-	  
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
         <img src="images/geneva-poteet.JPG" class="pull-left" style="margin-right:15px">
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Geneva Poteet</h4>
         <br>
@@ -193,25 +225,8 @@
         <br>
         <h5 style="display:inline">Crystallographic Structural Database search</h5>
         <br>
-      </div>	  
+      </div>		  
 	  
-      <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Visiting Members</h3>
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12">
-        <img style="margin-right:15px" class="pull-left" src="images/marina-fonari.jpg">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Marina Fonari</h4>
-        <br>
-        <h5>Institute of the Applied Physics, Academy of Sciences of Moldova, Chisinau, Moldova</h5>
-        <h5>X-ray structural studies of the charge-transfer, optoelectronic, electron-transport, and NLO materials</h5>
-        <br>
-      </div>
-	  
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px; margin-bottom:20px">
-        <img src="images/victor-khrustalev.jpg" class="pull-left" style="margin-right:15px">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Victor Khrustalev</h4>
-        <br>
-        <h5>A.N. Nesmeyanov Institute of Organoelement Compounds (INEOS), Russian Academy of Sciences, Moscow, Russia</h5>
-        <h5>Structural studies of various types of organic, organoelement and inorganic compounds, investigations of specific non-valent interactions, the nature of the chemical bond and pseudosymmetry</h5>
-      </div>
     </div>
 
     <?php include "footer.html" ?>

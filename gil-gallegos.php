@@ -71,15 +71,28 @@
 		<h5 style="display:inline">Major in Computer Science</h5>
         <br>
         <br>
-        <h5 style="display:inline">Creating PREM's Website and Database</h5>
+        <h5 style="display:inline">Administrating of the PREM's website. Creating of a fully searchable and publicly accessible online innovative research equipment database which will be used to locate and request access to research equipment and facilities across the US and around the world</h5>
         <br>
       </div>
+	  
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
+        <img style="margin-right:15px" class="pull-left" src="images/jhansirani-munukuri.jpg">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Jhansirani Munukuri</h4>
+        <br>
+        <h5 style="display:inline">Graduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Computer Science</h5>
+        <br>
+        <br>
+        <h5 style="display:inline">Creating of a fully searchable and publicly accessible online innovative research equipment database which will be used to locate and request access to research equipment and facilities across the US and around the world</h5>
+        <br>
+      </div>	  
 	  
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
         <img style="margin-right:15px" class="pull-left" src="images/rosario-vasquez.jpg">
         <h4 style="display:inline; vertical-align:top; font-weight:bold">Rosario Vasquez</h4>
         <br>
-        <h5 style="display:inline">Undergraduate Student</h5>
+        <h5 style="display:inline">Graduate Student</h5>
 		<br>
 		<h5 style="display:inline">Major in Computer Science</h5>
         <br>
@@ -102,8 +115,8 @@
       </div>
 	  
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
-        <img style="margin-right:15px" class="pull-left" src="images/juan-guaba.jpg">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Juan Guaba</h4>
+        <img style="margin-right:15px" class="pull-left" src="images/zhengyu-pan.jpg">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Zhengyu Pan</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
 		<br>
@@ -140,6 +153,19 @@
         <h5 style="display:inline">Creating PREM's Website</h5>
         <br>
       </div>
+	  
+      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
+        <img style="margin-right:15px" class="pull-left" src="images/juan-guaba.jpg">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">Juan Guaba</h4>
+        <br>
+        <h5 style="display:inline">Undergraduate Student</h5>
+		<br>
+		<h5 style="display:inline">Major in Computer Science</h5>
+        <br>
+        <br>
+        <h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
+        <br>
+      </div>	  
     </div>
 		  
     <?php include "footer.html" ?>

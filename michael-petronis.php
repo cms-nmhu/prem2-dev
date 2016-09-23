@@ -55,7 +55,7 @@
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
 		<br>
-		<h5 style="display:inline">Major in </h5>
+		<h5 style="display:inline">Major in Geology</h5>
         <br>
         <br>
         <h5 style="display:inline">Magnetic properties studies of the different compounds. Literature search</h5>
@@ -63,25 +63,12 @@
       </div>
 	  
       <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
-        <img style="margin-right:15px" class="pull-left" src="images/onnica-pino.jpg">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Onnica Pino</h4>
+        <img style="margin-right:15px" class="pull-left" src="images/david-atencio.jpg">
+        <h4 style="display:inline; vertical-align:top; font-weight:bold">David Atencio</h4>
         <br>
         <h5 style="display:inline">Undergraduate Student</h5>
 		<br>
-		<h5 style="display:inline">Major in Chemistry</h5>
-        <br>
-        <br>
-        <h5 style="display:inline">Magnetic properties studies of the different compounds. Literature search</h5>
-        <br>
-      </div>
-      
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
-        <img style="margin-right:15px" class="pull-left" src="images/joslynn-rowin.jpg">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Joslynn Rowin</h4>
-        <br>
-        <h5 style="display:inline">Undergraduate Student</h5>
-		<br>
-		<h5 style="display:inline">Major in Chemistry</h5>
+		<h5 style="display:inline">Major in Geology</h5>
         <br>
         <br>
         <h5 style="display:inline">Magnetic properties studies of the different compounds. Literature search</h5>

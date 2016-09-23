@@ -34,7 +34,7 @@
       </div>
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
         <img width="100%" src="images/analytical-lab-2.jpg">
-        <p class="text-center">Interior view of the Sorvall Legend X1 Centrifuge</p>
+        <p class="text-center">Bruker NMR</p>
       </div>
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
         <img width="100%" src="images/analytical-lab-3.jpg">
@@ -49,8 +49,8 @@
         <p class="text-center">Thermo Scientific High Performance Liquid Chromatography (HPLC)</p>
       </div>
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-        <img width="100%" src="images/analytical-lab-6.jpg">
-        <p class="text-center">Bruker NMR</p>
+        <img width="100%" src="images/analytical-lab-6.JPG">
+        <p class="text-center">FT-IR Spectrometer Spectrum Two</p>
       </div>
     </div>
 

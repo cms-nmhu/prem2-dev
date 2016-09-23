@@ -30,6 +30,41 @@
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 	  
         <li class="col-md-12">
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
+          <h4 style="display:inline; vertical-align:top">Summer 2016</h4>
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>Chemistry Summer Camp for High School Students</b></h4>
+          <br>
+		  <br>
+          <h5 style="display:inline">High school students Sofia Antal, Victoria Sena, and Omar Ocano participated at the Chemistry Summer Camp where they performed the research on synthesis and characterization of organic materials</h5>
+          <br>		  
+          <br>			  
+          <h5 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h5>
+          <br>
+		  <br>
+          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#sum-2016">Pictures</a></h5>
+        </li>
+        <br>
+        <br>
+
+        <li class="col-md-12">
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
+          <h4 style="display:inline; vertical-align:top">March 5, 2016</h4>
+          <br>
+		  <br>
+          <h4 style="display:inline"><b><a href="http://www.nmhu.edu/northeastern-new-mexico-science-and-engineering-fair/" target="_blank">Northeastern New Mexico Science and Engineering Fair</a></b></h4>
+          <br>
+		  <br>
+          <h5 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h5>
+          <br>
+		  <br>
+          <!--<h5 style="display:inline"><a href="" data-toggle="modal" data-target="#nov12-2015">Pictures</a></h5>-->
+        </li>
+        <br>
+        <br>		
+	  
+        <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/tatiana-timofeeva.jpg">
           <h4 style="display:inline; vertical-align:top">November 19, 2015</h4>
           <br>
@@ -78,6 +113,44 @@
 
     <?php include "footer.html" ?>
 
+    <div class="modal fade" id="sum-2016" style="display:none" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div id="sum16images" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#sum16images" data-slide-to="0" class="active"></li>
+              <li data-target="#sum16images" data-slide-to="1"></li>
+              <li data-target="#sum16images" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="outreach/2016-summer/summer-camp-2016-1.jpg">
+              </div>
+              <div class="item">
+                <img src="outreach/2016-summer/summer-camp-2016-2.jpg">
+              </div>
+              <div class="item">
+                <img src="outreach/2016-summer/summer-camp-2016-3.jpg">
+              </div>
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#sum16images" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#sum16images" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div><!-- end modal-content -->
+      </div> <!-- end modal-dialog -->
+    </div> <!-- end oct16Modal -->		
+	
     <div class="modal fade" id="nov19-2015" style="display:none" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">

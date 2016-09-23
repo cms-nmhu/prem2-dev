@@ -28,14 +28,15 @@
     <div class="container" style="background:white">
       <h2 class="text-center" style="color:purple">Paleomagnetic - Rock Magnetic Laboratory</h2>
       <p class="col-md-12 col-xs-12">Paleomagnetic - Rock Magnetic Laboratory at NMHU allows to perform a series of magnetic studies of the different compounds. The main laboratory's equipment includes: Thermal Demagnetizer, Alternating Field Demagnetizer and Multi-Function Kappabridge.</p>
+	  
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-        <img width="100%" src="images/rock-lab-1.jpg">
-        <p class="text-center">Thermal Demagnetizer Model TD-48-SC</p>
-      </div>
+        <img width="100%" src="images/rock-lab-1.JPG">
+        <p class="text-center">7-Tesla Cryogenic Quantum Design Magnetic Measurement System (MPMS-7)</p>
+      </div>	
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-        <img width="100%" src="images/rock-lab-2.jpg">
-        <p class="text-center">D-Tech Model D-2000. Alternating field demagnetizer with ARM/PARM capabilities</p>
-      </div>
+        <img width="100%" src="images/rock-lab-2.JPG">
+        <p class="text-center">Dynamic 15.6 m<sup>3</sup> magnetically shielded low-field room (Magnetic Measurements Ltd.)</p>
+      </div>	  
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
         <img width="100%" src="images/rock-lab-3.jpg">
         <p class="text-center">Undergraduate student Billy Romero working with Thermal Demagnetizer Model TD-48-SC</p>
@@ -47,6 +48,18 @@
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
         <img width="100%" src="images/rock-lab-5.jpg">
         <p class="text-center">MFK1-A Multi-Function Kappabridge with CS-4 attachment for low-field susceptibility versus temperature experiments</p>
+      </div>
+      <div class="col-md-6 col-xs-12" style="margin:0 0 35px 0">
+        <img width="100%" src="images/rock-lab-6.JPG">
+        <p class="text-center">JR-6A Spinner Magnetometer</p>
+      </div>	  
+	  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+        <img width="100%" src="images/rock-lab-7.jpg">
+        <p class="text-center">Thermal Demagnetizer Model TD-48-SC</p>
+      </div>
+      <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+        <img width="100%" src="images/rock-lab-8.jpg">
+        <p class="text-center">D-Tech Model D-2000. Alternating field demagnetizer with ARM/PARM capabilities</p>
       </div>
     </div>
 
