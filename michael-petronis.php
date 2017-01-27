@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="">
 
     <title>Michael Petronis</title>
 
@@ -48,32 +48,54 @@
         <br>
         <h5><strong>Role in PREM</strong> includes the magnetic properties studies of the organic materials.</h5>
       </div>
-      <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Research Group Members</h3>
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
-        <img style="margin-right:15px" class="pull-left" src="images/billy-romero.jpg">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Billy Romero</h4>
-        <br>
-        <h5 style="display:inline">Undergraduate Student</h5>
-		<br>
-		<h5 style="display:inline">Major in Geology</h5>
-        <br>
-        <br>
-        <h5 style="display:inline">Magnetic properties studies of the different compounds. Literature search</h5>
-        <br>
-      </div>
 	  
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
-        <img style="margin-right:15px" class="pull-left" src="images/david-atencio.jpg">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">David Atencio</h4>
-        <br>
-        <h5 style="display:inline">Undergraduate Student</h5>
-		<br>
-		<h5 style="display:inline">Major in Geology</h5>
-        <br>
-        <br>
-        <h5 style="display:inline">Magnetic properties studies of the different compounds. Literature search</h5>
-        <br>
-      </div>
+	  <h3 class="col-md-12 text-center" style="color:purple" style="margin-top:30px">Research Highlights</h3>
+	  <div class="row">
+		  <div class="col-md-12 col-xs-12">
+			<center><a href="posters/billy-romero-poster.png" target="_blank"><img width="50%" src="posters/billy-romero-poster_resize.png"></a></center>
+		  </div>
+	  </div>	  
+	  
+      <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
+	  <div class="col-md-6 content">	
+	  	<div class="row">		  
+		  <div class="col-md-3 content">
+			<img style="margin-right:15px" class="pull-left" src="images/billy-romero.jpg" width="120px">
+		  </div> 	
+		  <div class="col-md-9 content">
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Billy Romero</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Geology</h5>
+			<br>
+			<br>			
+			<h5 style="display:inline">Magnetic properties studies of the different compounds</h5>
+			<br>
+		  </div>
+		</div>  
+	    <br>
+	  </div>	
+
+	  <div class="col-md-6 content">	
+	  	<div class="row">		  
+		  <div class="col-md-3 content">
+			<img style="margin-right:15px" class="pull-left" src="images/david-atencio.jpg" width="120px">
+		  </div> 	
+		  <div class="col-md-9 content">
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">David Atencio</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Geology</h5>
+			<br>
+			<br>			
+			<h5 style="display:inline">Magnetic properties studies of the different compounds</h5>
+			<br>
+		  </div>
+		</div>  
+	    <br>
+	  </div>	  
     </div>
 
     <?php include "footer.html" ?>

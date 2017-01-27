@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="">
 
     <title>X-Ray Diffraction Laboratory</title>
 
@@ -42,23 +42,31 @@
 	  </ul>
 	  
 	  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-        <img width="100%" src="images/xray-1.jpg">
+		<a class="popupimage" href="images/xray-1.jpg"><img width="100%" src="images/xray-1.jpg"></a>
         <p class="text-center">Bruker single-crystal X-ray diffractometer</p>
       </div>
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-        <img width="100%" src="images/xray-2.jpg">
+        <a class="popupimage" href="images/xray-2.jpg"><img width="100%" src="images/xray-2.jpg"></a>
         <p class="text-center">Close-up look of the diffractometer's interior including APEX II CCD detector, goniometer, digital camera and cooling system</p>
       </div>
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-        <img width="100%" src="images/xray-3.jpg">
+        <a class="popupimage" href="images/xray-3.jpg"><img width="100%" src="images/xray-3.jpg"></a>
         <p class="text-center">Polarizing microscope equipped with digital camera</p>
       </div>
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-        <img width="100%" src="images/xray-4.jpg">
+        <a class="popupimage" href="images/xray-4.jpg"><img width="100%" src="images/xray-4.jpg"></a>
         <p class="text-center">Dr. Yulia Getmanenko and graduate student Bianca Valencia working on synthesis of organic compounds for charge transport and magnetic materials</p>
       </div>
     </div>
 
+    <div class="modal fade">
+      <div class="modal-dialog">
+        <div class="modal-content">	
+			<img width="110%" src="">
+		</div>
+	  </div>
+	</div> 	
+	
     <?php include "footer.html" ?>
 
     <!-- Bootstrap core JavaScript
@@ -66,5 +74,14 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
+	<script>
+	$(document).ready(function(){
+		$('.popupimage').click(function(event){
+			event.preventDefault();
+			$('.modal img').attr('src', $(this).attr('href'));
+			$('.modal').modal('show');
+		});
+	});
+	</script>	
   </body>
 </html>

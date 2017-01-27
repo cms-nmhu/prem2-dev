@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="">
 
     <title>Outreach</title>
 
@@ -30,8 +30,22 @@
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 	  
         <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/michelle-mccombs.jpg">
+          <h4 style="display:inline; vertical-align:top">January 25, 2017    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#jan25-2017"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
+          <br>
+		  <br>
+          <h4 style="display:inline"><b><a href="assets/michelle-mccombs.pdf" target="_blank">Michelle McCombs (Center for Emergent Materials (CEM) Program Manager, Education and Outreach Coordinator at The Ohio State University) gives a presentation at ARMAS on topic "The REU Opportunities at Ohio State University"</a></b></h4>
+          <br>
+		  <br>
+		  <br>
+		  <br>
+        </li>
+        <br>
+        <br>		  
+	  
+        <li class="col-md-12">
           <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
-          <h4 style="display:inline; vertical-align:top">Summer 2016</h4>
+          <h4 style="display:inline; vertical-align:top">Summer 2016    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#sum-2016"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
           <h4 style="display:inline"><b>Chemistry Summer Camp for High School Students</b></h4>
@@ -39,59 +53,45 @@
 		  <br>
           <h5 style="display:inline">High school students Sofia Antal, Victoria Sena, and Omar Ocano participated at the Chemistry Summer Camp where they performed the research on synthesis and characterization of organic materials</h5>
           <br>		  
-          <br>			  
-          <h5 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h5>
-          <br>
 		  <br>
-          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#sum-2016">Pictures</a></h5>
         </li>
         <br>
         <br>
 
         <li class="col-md-12">
           <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
-          <h4 style="display:inline; vertical-align:top">March 5, 2016</h4>
+          <h4 style="display:inline; vertical-align:top">March 5, 2016</h4> 
           <br>
 		  <br>
           <h4 style="display:inline"><b><a href="http://www.nmhu.edu/northeastern-new-mexico-science-and-engineering-fair/" target="_blank">Northeastern New Mexico Science and Engineering Fair</a></b></h4>
           <br>
 		  <br>
-          <h5 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h5>
-          <br>
-		  <br>
-          <!--<h5 style="display:inline"><a href="" data-toggle="modal" data-target="#nov12-2015">Pictures</a></h5>-->
         </li>
         <br>
         <br>		
 	  
         <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/tatiana-timofeeva.jpg">
-          <h4 style="display:inline; vertical-align:top">November 19, 2015</h4>
+          <h4 style="display:inline; vertical-align:top">November 19, 2015    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#nov19-2015"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
           <h4 style="display:inline"><b><a href="assets/tatiana-timofeeva-armas.pdf" target="_blank">Dr. Tatiana V. Timofeeva gives a presentation at ARMAS on topic "Organic Materials for Curiosity and Life"</a></b></h4>
           <br>
 		  <br>
-          <h5 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h5>
-          <br>
 		  <br>
-          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#nov19-2015">Pictures</a></h5>
+		  <br>
         </li>
         <br>
         <br>	  			  
 	  
         <li class="col-md-12">
           <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
-          <h4 style="display:inline; vertical-align:top">November 12, 2015</h4>
+          <h4 style="display:inline; vertical-align:top">November 12, 2015    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#nov12-2015"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
           <h4 style="display:inline"><b><a href="http://www.nmhu.edu/sixth-graders-visit-highlands-for-science-day/" target="_blank">NMHU STEM Day</a></b></h4>
           <br>
 		  <br>
-          <h5 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h5>
-          <br>
-		  <br>
-          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#nov12-2015">Pictures</a></h5>
         </li>
         <br>
         <br>
@@ -102,9 +102,6 @@
           <br>
 		  <br>
           <h4 style="display:inline"><b><a href="http://www.nmhu.edu/conference-showcases-local-geology-and-highlands-research" target="_blank">Conference showcases local Geology and Highlands Research</a></b></h4>
-          <br>
-		  <br>
-          <h5 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h5>
           <br>
 		  <br>
         </li>

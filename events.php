@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="">
 
     <title>Events</title>
 
@@ -26,101 +26,90 @@
     <?php include "header.html" ?>
 
     <div class="container" style="background:white">
+      <h2 class="text-center" style="color:purple">Upcoming Events</h2>	
+	  <div class="row">
+		<center><iframe src="https://calendar.google.com/calendar/embed?src=s9e3064n3dabsst4j0raqu7ud8%40group.calendar.google.com&ctz=America/Denver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></center>
+	  </div>
+	
       <h2 class="text-center" style="color:purple">News and Events</h2>
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 
         <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
-          <h4 style="display:inline; vertical-align:top">April 29, 2016</h4>
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/inna-dubchak.JPG">
+          <h4 style="display:inline; vertical-align:top">January 27, 2017    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#jan27-2017"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>Dr. Inna Dubchak (Senior Scientist at Genomics Division & DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA) gives a presentation on topic "Computational analysis of genomic data"</b></h4>
+          <br>
+        </li>
+        <br>
+        <br>	  
+	  
+        <li class="col-md-12">
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="images/nmhulogoEvents.jpg">
+          <h4 style="display:inline; vertical-align:top">April 29, 2016    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#apr29-2016"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
           <h4 style="display:inline"><b>NMHU's 14th Annual Research Day</b></h4>
           <br>
 		  <br>
-          <h5 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h5>
-          <br>
-		  <br>
-          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#apr29-2016">Pictures</a></h5>
         </li>
         <br>
         <br>	
 		
         <li class="col-md-12">
-          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/jessica-winter.JPG">
-          <h4 style="display:inline; vertical-align:top">April 26, 2016</h4>
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/jessica-winter.JPG">
+          <h4 style="display:inline; vertical-align:top">April 26, 2016    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#apr26-2016"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>PREM Co-PI Dr. Jessica Winter visits NMHU and gives a presentation on topic "Ordered Templating in Nanoparticle Composites"</b></h4>
+          <h4 style="display:inline"><b>PREM Co-PI Dr. Jessica Winter from The Ohio State University visits NMHU and gives a presentation on topic "Ordered Templating in Nanoparticle Composites"</b></h4>
           <br>
-		  <br>
-          <h5 style="display:inline">The Ohio State University - Columbus, OH</h5>
-          <br>
-		  <br>
-          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#apr26-2016">Pictures</a></h5>
         </li>
         <br>
         <br>	
 
         <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/rich-and-kristin.JPG">
-          <h4 style="display:inline; vertical-align:top">April 22, 2016</h4>
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="images/rich-and-kristin.JPG">
+          <h4 style="display:inline; vertical-align:top">April 22, 2016    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#apr22-2016"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>Dr. Richard Colbaugh and Dr. Kristin Glass visit NMHU and give a presentation on topic "Combining plasmonic biosensors and machine learning for human health applications"</b></h4>
+          <h4 style="display:inline"><b>Dr. Richard Colbaugh and Dr. Kristin Glass (Periander Ltd, Santa Fe, NM) visit NMHU and give a presentation on topic "Combining plasmonic biosensors and machine learning for human health applications"</b></h4>
           <br>
-		  <br>
-          <h5 style="display:inline">Periander Ltd - Santa Fe, NM</h5>
-          <br>
-		  <br>
-          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#apr22-2016">Pictures</a></h5>
         </li>
         <br>
         <br>			
 	  
         <li class="col-md-12">
-          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/chris-hammel.jpg">
-          <h4 style="display:inline; vertical-align:top">February 16, 2016</h4>
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/chris-hammel.jpg">
+          <h4 style="display:inline; vertical-align:top">February 16, 2016    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#feb16-2016"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>PREM Co-PI Dr. P. Chris Hammel visits NMHU and gives a presentation on topic "Pure Spin Transport in Diverse Materials Systems"</b></h4>
+          <h4 style="display:inline"><b>PREM Co-PI Dr. P. Chris Hammel from The Ohio State University visits NMHU and gives a presentation on topic "Pure Spin Transport in Diverse Materials Systems"</b></h4>
           <br>
-		  <br>
-          <h5 style="display:inline">The Ohio State University - Columbus, OH</h5>
-          <br>
-		  <br>
-          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#feb16-2016">Pictures</a></h5>
         </li>
         <br>
-        <br>	  			  
+        <br>	
+		<br>	
 	  
         <li class="col-md-12">
-          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/ezekiel-johnston-halperin.jpg">
-          <h4 style="display:inline; vertical-align:top">October 16, 2015</h4>
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/ezekiel-johnston-halperin.jpg">
+          <h4 style="display:inline; vertical-align:top">October 16, 2015    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#oct16-2015"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>PREM Co-PI Dr. Ezekiel Johnston-Halperin visits NMHU and gives a presentation on topic "Organic Spintronics: using organic-based magnets for flexible, low-cost, low-power electronics"</b></h4>
+          <h4 style="display:inline"><b>PREM Co-PI Dr. Ezekiel Johnston-Halperin from The Ohio State University visits NMHU and gives a presentation on topic "Organic Spintronics: using organic-based magnets for flexible, low-cost, low-power electronics"</b></h4>
           <br>
-		  <br>
-          <h5 style="display:inline">The Ohio State University - Columbus, OH</h5>
-          <br>
-		  <br>
-          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#oct16-2015">Pictures</a></h5>
         </li>
         <br>
         <br>
+		<br>
 		
         <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
-          <h4 style="display:inline; vertical-align:top">September 1, 2015</h4>
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="images/nmhulogoEvents.jpg">
+          <h4 style="display:inline; vertical-align:top">September 1, 2015    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#sep1-2015"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
           <h4 style="display:inline"><b><a href="http://www.nmhu.edu/highlands-awarded-3-3-million-national-science-foundation-grant" target="_blank">Highlands awarded $3.3 million National Science Foundation Grant</a></b></h4>
           <br>
-		  <br>
-          <h5 style="display:inline">New Mexico Highlands University - Las Vegas, NM</h5>
-          <br>
-		  <br>
-          <h5 style="display:inline"><a href="" data-toggle="modal" data-target="#sep1-2015">Pictures</a></h5>
         </li>
       </ul>
     </div>

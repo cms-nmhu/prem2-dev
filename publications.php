@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="">
 
     <title>Publications</title>
 
@@ -30,6 +30,8 @@
         <h4><strong style="color:purple">2016</strong></h4>
 		<ul>
 		  
+		  <li><h5>Boris B. Averkiev, Bianca C. Valencia, Yulia A. Getmanenko, Tatiana V. Timofeeva. "Crystal structure of <i>N</i>,<i>N</i>,<i>N</i>-triethylhydroxyl-ammonium chloride," <em>Acta Cryst.</em>, <strong>2016</strong>, E72, 1607-1609.</h5></li>
+		  <li><h5>Bruce Robinson, Meghana Rawal, Kerry Garrett, Lewis Johnson, Werner Kaminsky, Evgheni Jucov, Tatiana Timofeeva, Bruce Eichinger, Andreas Tillack, Delwin Elder, Larry Dalton, David Shelton. "Alternative Bridging Architecures in Organic Nonlinear Optical Materials: Comparison of π and χ type structures," <em>Journal of the Optical Society of America B</em>, <strong>2016</strong>, 33(12), E160-E170.</h5></li>
 		  <li><h5>Marina S. Fonari, Sofia Antal, Raul Castañeda, Carlos Ordonez, Tatiana V. Timofeeva. "Crystalline products of CO<sub>2</sub> capture by piperazine aqueous solutions," <em>CrystEngComm</em>, <strong>2016</strong>, 18, 6282-6289.</h5></li>
 		  <li><h5>Iryna Davydenko, Stephen Barlow, Rajesh Sharma, Sepehr Benis, Janos Simon, Taylor G. Allen, Matthew W. Cooper, Victor Khrustalev, Evgheni V. Jucov, Raúl Castañeda, Carlos Ordonez, Zhong’an Li, San-Hui Chi, Sei-Hum Jang, Timothy C. Parker, Tatiana V. Timofeeva, Joseph W. Perry, Alex K.-Y. Jen, David J. Hagan, Eric W. Van Stryland, Seth R. Marder. "Facile Incorporation of Pd(PPh<sub>3</sub>)<sub>2</sub>Hal Substituents into Polymethines, Merocyanines, and Perylene Diimides as a Means of Suppressing Intermolecular Interactions," <em>J. Am. Chem. Soc.</em>, <strong>2016</strong>, 138 (32), 10112-10115.</h5></li>
 		  <li><h5>Arcadius V. Krivoshein, Carlos Ordonez, Victor N. Khrustalev, Tatiana V. Timofeeva. "Distinct molecular structures and hydrogen bond patterns of &alpha;,&alpha;-diethyl-substituted cyclic imide, lactam, and acetamide derivatives in crystalline phase," <em>Journal of Molecular Structure</em>, <strong>2016</strong>, 1121, 196-202.</h5></li>

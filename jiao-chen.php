@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="">
 
     <title>Jiao Chen</title>
 
@@ -35,7 +35,7 @@
         <br>
         <h5><a href="analytical-chemistry-lab.php" target="_blank">Analytical Chemistry Laboratory Supervisor</a></h5>
         <br>
-        <h4 style="display:inline">Department of Biology and Chemistry</h4>
+        <h4 style="display:inline">Department of Chemistry</h4>
         <br>
         <h5 style="display:inline">New Mexico Highlands University</h5>
         <br>
@@ -48,46 +48,81 @@
         <br>
         <h5><strong>Role in PREM</strong> includes to develope an ensemble of metallic nanoparticle-modified graphene metamaterials and then study their unique properties for applications in different fields. Gold and silver nanoparticles are chosen as the two main metallic nanoparticles to be decorated on the graphene metamaterials.</h5>
       </div>
-      <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Research Group Members</h3>
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12">
-        <img style="margin-right:15px" class="pull-left" src="images/narendra-boppana.jpg">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Narendra Boppana</h4>
-        <br>
-        <h5 style="display:inline">Graduate Student</h5>
-		<br>
-		<h5 style="display:inline">Major in Chemistry</h5>
-		<br>
-        <br>
-        <h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
-        <br>
-      </div>
-	
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px; margin-bottom:20px">
-        <img style="margin-right:15px" class="pull-left" src="images/yueling-xiu.jpg">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Yueling Xiu</h4>
-        <br>
-        <h5 style="display:inline">Undergraduate Student</h5>
-		<br>
-		<h5 style="display:inline">Major in Chemistry</h5>
-        <br>
-        <br>
-        <h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
-        <br>
-      </div>
 	  
-      <h3 class="col-md-10 col-md-offset-2 col-xs-12 text-center" style="color:purple">Former Members</h3>	  
-      <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px; margin-bottom:20px">
-        <img style="margin-right:15px" class="pull-left" src="images/proity-akbar.jpg">
-        <h4 style="display:inline; vertical-align:top; font-weight:bold">Proity Akbar</h4>
-        <br>
-        <h5 style="display:inline">Undergraduate Student</h5>
-		<br>
-		<h5 style="display:inline">Major in Chemistry</h5>
-        <br>
-        <br>
-        <h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
-        <br>
-      </div>	  
+	  <h3 class="col-md-12 text-center" style="color:purple">Research Highlights</h3>
+	  <div class="row">
+		  <div class="col-md-12 col-xs-12" style="margin:0 0 10px 0">
+			<center><a href="posters/narendra-boppana-poster.png" target="_blank"><img width="50%" src="posters/narendra-boppana-poster_resize.png"></a></center>
+		  </div>
+	  </div>	  
+	  
+      <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
+	  <div class="row">
+		  <div class="col-md-9 content">	  
+			<div class="row">	  
+			  <div class="col-md-2 content">
+				<img style="margin-right:25px" class="pull-left" src="images/narendra-boppana.jpg" width="120px">
+			  </div>
+			  <div class="col-md-10 content">		  
+				<h4 style="display:inline; vertical-align:top; font-weight:bold">Narendra Boppana</h4>
+				<br>
+				<h6 style="display:inline">BS in Chemistry,  University</h6>		
+				<br>
+				<br>			
+				<h5 style="display:inline">Graduate Student</h5>
+				<br>
+				<h5 style="display:inline">Major in Chemistry</h5>
+				<br>
+				<br>
+				<h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
+				<br>	
+			  </div> 
+			</div>
+		  </div>		 
+		  <div class="col-md-3 content">	  
+			<div class="row">	  
+			</div>
+		  </div>	
+	  </div>	  
+	  
+      <h3 class="col-md-12 text-center" style="color:purple">Former Members</h3> 	  
+	  
+	  <div class="col-md-6 content">	  
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/yueling-xiu.jpg" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Yueling Xiu</h4>
+			<br>		
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>	
+		  </div>
+		</div>  	  
+	  </div>		  
+	  <div class="col-md-6 content">	  
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/proity-akbar.jpg" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Proity Akbar</h4>
+			<br>		
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>	
+		  </div>
+		</div>  	  
+	  </div>		  	  
     </div>
 
     <?php include "footer.html" ?>

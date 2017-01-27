@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="">
 
     <title>Presentations</title>
 
@@ -30,11 +30,38 @@
 	  <h3><strong style="color:purple">2016</strong></h3>
 	  <div class="spacing"></div>
 
+        <h4><strong style="color:purple">1st International Conference on Optics, Photonics & Materials "NICE OPTICS 2016"</strong>, Nice, France, October 26-28, 2016</h4>
+        <ul>
+          <li>Tatiana V. Timofeeva, Sergiu Draguta, Ilia M. Pavlovetc, Igor Yu. Denisyuk. <em>“Organic Mixed Crystalline Materials for NLO and THz Applications”</em></li>
+        </ul>
+		<div class="spacing"></div>	
+
+        <h4><strong style="color:purple">Global Congress & Expo on Materials Science & Nanoscience</strong>, Dubai, UAE, October 24-26, 2016</h4>
+        <ul>
+          <li>Evgheni Jucov, Raghunath R. Dasari, Xu Wang, Boris Averkiev, Stephen Barlow, Seth R. Marder, Tatiana V. Timofeeva. <em>“X-ray Analysis of New Donor-Acceptor Charge-Transfer Co-Crystals for Charge-Transport and Ferroelectric Applications”</em></li>
+        </ul>
+		<div class="spacing"></div>			
+	  
+        <h4><strong style="color:purple">NSF PREM Directors Meeting</strong>, Washington, DC, October 19, 2016</h4>
+        <ul>
+          <li>Rosario Vasquez, Jared Leyba, Luis Garcia, Gil Gallegos. <em>“Classification Utilizing Autoencoders and Ensemble Learning”</em></li>
+		  <li>Billy Romero, Taoguang Qu, Onnica Pino, Joslynn Rowin, Michael S. Petronis, Qiang Wei, Jennifer Lindline. <em>“Crystal Chemistry and Magnetic Behavior of Zn-BTC System Organic Framework Molecules”</em></li>
+		  <li>Bianca Valencia, Yulia A. Getmanenko, Boris B. Averkiev, Tatiana V. Timofeeva. <em>“Synthesis and X-Ray Single Crystal Analysis of Dithiazole[4,5-a:5',4'-c]Phenazines Donors”</em></li>
+        </ul>
+		<div class="spacing"></div>		 
+
+        <h4><strong style="color:purple">Herald's International Conference and Exhibition on Nanomedicine and Nanotechnology</strong>, Baltimore, MD, October 12-14, 2016</h4>
+        <ul>
+          <li>Narendra Boppana, Yueling Xiu, Xu Wang, Jiao Chen. <em>“Novel Method for the Synthesis of Gold Nanostars”</em></li>
+        </ul>
+		<div class="spacing"></div>			
+	  
         <h4><strong style="color:purple">66th Annual Meeting of the American Crystallographic Association</strong>, Denver, CO, July 22-26, 2016</h4>
         <ul>
+		  <li>Raul Castaneda, Marina S. Fonari, Chad Risko, Yulia A. Getmanenko, Tatiana V. Timofeeva. <em>“Different Packing Patterns in the Mixed Donor-Acceptor Co-Crystals of Trimeric Perfluro-ortho-phenylene Mercury with Benzo[1,2-b:6,5-b']dithiophene-5-dione Derivatives”</em> <b>(Oral Presentation)</b></li>
           <li>Boris B. Averkiev, Logan Wolfel, Yulia A. Getmanenko, Tatiana V. Timofeeva. <em>“The crystal structure of the precursors for polymethine dyes with bulky groups”</em></li>
 		  <li>Bejagam Shabari Nath, Kathryn Storms, Marina S. Fonari, Jennifer Lindline, Tatiana V. Timofeeva. <em>“Structural similarities and diversity in a series of crystalline solids composed of 2-aminopyridines and glutaric acid”</em></li>
-		  <li>Marina S. Fonari, Sofia Antal, Raul Castaneda, Carlos Ordonez, Tatiana V. Timofeeva. <em>“Crystalline Products of CO2 Captue by Piperazine Aqueous Solutions”</em></li>
+		  <li>Marina S. Fonari, Sofia Antal, Raul Castaneda, Carlos Ordonez, Tatiana V. Timofeeva. <em>“Crystalline Products of CO<sub>2</sub> Captue by Piperazine Aqueous Solutions”</em> <b>(Undergraduate Poster Prize)</b></li>
 		  <li>Bianca Valencia, Yulia A. Getmanenko, Boris B. Averkiev, Tatiana V. Timofeeva. <em>“Dithiazole[4,5-a:5',4'-c]Phenazines as Donors in Co-Crystals with Tetracyanoquinodimethane Derivatives”</em></li>
         </ul>
 		<div class="spacing"></div>	

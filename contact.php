@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="shortcut icon" href="">
 
     <title>Contact</title>
 
@@ -29,7 +29,7 @@
       <div class="col-md-9 col-xs-12 col-md-offset-3">
         <h4>Dr. Tatiana V. Timofeeva</h4>
         <h5 class="indented">Principle Investigator, PREM Director</h5>
-        <h5 class="indented">Department of Biology and Chemistry</h5>
+        <h5 class="indented">Department of Chemistry</h5>
         <h5 class="indented">New Mexico Highlands University</h5>
         <h5 class="indented">Las Vegas, NM 87701</h5>
         <h5 class="indented">Phone: 505-454-3362</h5>
