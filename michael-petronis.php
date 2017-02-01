@@ -26,6 +26,7 @@
     <?php include "header.html" ?>
 
     <div class="container col-md-12 col-xs-12" style="background:white">
+	 <div class="row">
       <div class="col-md-10 col-xs-12 col-md-offset-2" style="margin-top:10px; margin-bottom:20px">
         <img style="display:inline; margin-right:15px" class="pull-left" src="images/michael-petronis.jpg">
         <h3 style="display:inline; vertical-align:top; font-weight:bold">Dr. Michael Petronis</h3>
@@ -48,8 +49,9 @@
         <br>
         <h5><strong>Role in PREM</strong> includes the magnetic properties studies of the organic materials.</h5>
       </div>
+	 </div>
 	  
-	  <h3 class="col-md-12 text-center" style="color:purple" style="margin-top:30px">Research Highlights</h3>
+	  <h3 class="col-md-12 text-center" style="color:purple">Research Highlights</h3>
 	  <div class="row">
 		  <div class="col-md-12 col-xs-12">
 			<center><a href="posters/billy-romero-poster.png" target="_blank"><img width="50%" src="posters/billy-romero-poster_resize.png"></a></center>

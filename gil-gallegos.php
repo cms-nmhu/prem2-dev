@@ -26,6 +26,7 @@
     <?php include "header.html" ?>
 
     <div class="container col-md-12 col-xs-12" style="background:white">
+	 <div class="row">
       <div class="col-md-10 col-xs-12 col-md-offset-2" style="margin-top:10px">
         <img style="display:inline; margin-right:15px" class="pull-left" src="images/gil-gallegos.jpg">
         <h3 style="display:inline; vertical-align:top; font-weight:bold">Dr. Gil R. Gallegos</h3>
@@ -48,8 +49,9 @@
         <br>
         <h5><strong>Role in PREM</strong> includes computational modeling and simulation of the plasmonic meta-materials</h5>
       </div>
+	 </div>
 	  
-	  <h3 class="col-md-12 text-center" style="color:purple" style="margin-top:30px">Research Highlights</h3>
+	  <h3 class="col-md-12 text-center" style="color:purple">Research Highlights</h3>
 	  <div class="row">
 		  <div class="col-md-12 col-xs-12">
 			<center><a href="posters/rosario-vasquez-poster.png" target="_blank"><img width="50%" src="posters/rosario-vasquez-poster_resize.png"></a></center>
@@ -136,8 +138,8 @@
 			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
 			<br>
 		  </div>	
-		</div>
-		<br>			
+		</div>		
+		<br>
 	  </div>
 	  
 	  <div class="col-md-6 content">	
@@ -177,7 +179,6 @@
 			<br>
 		  </div>
 		</div>  
-		<br>
 		<br>
 		<div class="row">
 		  <div class="col-md-3">

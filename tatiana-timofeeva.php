@@ -26,6 +26,7 @@
     <?php include "header.html" ?>
 
     <div class="container col-md-12 col-xs-12" style="background:white">
+	 <div class="row">
       <div class="col-md-10 col-xs-12 col-md-offset-2" style="margin-top:10px">
         <img style="display:inline; margin-right:15px" class="pull-left" src="images/tatiana-timofeeva.jpg">
         <h3 style="display:inline; vertical-align:top; font-weight:bold">Dr. Tatiana V. Timofeeva</h3>
@@ -48,6 +49,7 @@
         <br>
         <h5><strong>Role in PREM</strong> includes X-ray diffraction studies of the compounds with specific physical properties (nonlinear optical materials, charge transport materials, metal-organic frameworks, liquid crystalline precursors, magnetic materials)</h5>
       </div>
+	 </div> 
 	  
 	  <h3 class="col-md-12 text-center" style="color:purple">Research Highlights</h3>
 	  <div class="row">
@@ -78,9 +80,8 @@
 	  </div>
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
-	  
+	  <div class="row">
 	  <div class="col-md-6 content">
-	  
 	  	<div class="row">	  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/yulia-getmanenko.jpg" width="120px">
@@ -88,7 +89,7 @@
           <div class="col-md-9 content">		  
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Yulia Getmanenko</h4>
 			<br>
-		    <h6 style="display:inline">PhD in Chemistry, Kent State University</h6>		
+		    <h6 style="display:inline">PhD in Organic Chemistry, Kent State University</h6>		
 			<br>	
 			<br>
 			<h5 style="display:inline">Synthesis of organic compounds for charge transport and magnetic materials</h5>
@@ -137,6 +138,7 @@
 			<br>
 		  </div>
 		</div>
+		<br>
 		<br>
 	  	<div class="row">			
 		  <div class="col-md-3">
@@ -196,7 +198,7 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Xu Wang</h4>
 			<br>
-		    <h6 style="display:inline">BS in Chemistry,  University</h6>		
+		    <h6 style="display:inline">BS in Polymer Science and Engineering, Hebei University of Technology, Tianjin, China</h6>		
 			<br>
 			<br>	
 			<h5 style="display:inline">Graduate Student</h5>
@@ -209,7 +211,6 @@
 		  </div>
 		</div>  
 		<br>
-		<br>
 		<div class="row">
 		  <div class="col-md-3">
 			<img src="images/shabarinath-bejagam.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -217,7 +218,7 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Shabari Nath Bejagam</h4>
 			<br>
-		    <h6 style="display:inline">BS in Chemistry,  University</h6>		
+		    <h6 style="display:inline">BS in Pharmacy, Talla Padmavathi College of Pharmacy, Warangal, India</h6>		
 			<br>
 			<br>	
 			<h5 style="display:inline">Graduate Student</h5>
@@ -229,7 +230,6 @@
 			<br>
 		  </div>	
 		</div>  
-		<br>
 		<br>
 		<div class="row">
 		  <div class="col-md-3">
@@ -248,7 +248,6 @@
 		  </div>			
 	    </div>
 		<br>
-		<br>
 		<div class="row">		 	   
 		  <div class="col-md-3">
 			<img src="images/johnny-tuineau.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -266,9 +265,10 @@
 		  </div>
 		</div>  
 	  </div>
-	  <div class="spacing"></div>
+	  </div>
 	  
-      <h3 class="col-md-12 text-center" style="color:purple" style="margin-top:30px">Visiting Members</h3>	  
+      <h3 class="col-md-12 text-center" style="color:purple">Visiting Members</h3>	  
+	  <div class="row">
 	  <div class="col-md-6 content">	  
 	  	<div class="row">	  
 		  <div class="col-md-3 content">
@@ -295,6 +295,7 @@
             <h5>Structural studies of various types of organic, organoelement and inorganic compounds, investigations of specific non-valent interactions, the nature of the chemical bond and pseudosymmetry</h5>
 		  </div>
 		</div>  	  
+	  </div>
 	  </div>
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Former Members</h3>

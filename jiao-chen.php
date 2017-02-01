@@ -26,6 +26,7 @@
     <?php include "header.html" ?>
 
     <div class="container col-md-12 col-xs-12" style="background:white">
+	 <div class="row">
       <div class="col-md-10 col-xs-12 col-md-offset-2" style="margin-top:10px">
         <img style="display:inline; margin-right:15px" class="pull-left" src="images/jiao-chen.jpg">
         <h3 style="display:inline; vertical-align:top; font-weight:bold">Dr. Jiao Chen</h3>
@@ -48,6 +49,7 @@
         <br>
         <h5><strong>Role in PREM</strong> includes to develope an ensemble of metallic nanoparticle-modified graphene metamaterials and then study their unique properties for applications in different fields. Gold and silver nanoparticles are chosen as the two main metallic nanoparticles to be decorated on the graphene metamaterials.</h5>
       </div>
+	 </div>
 	  
 	  <h3 class="col-md-12 text-center" style="color:purple">Research Highlights</h3>
 	  <div class="row">
