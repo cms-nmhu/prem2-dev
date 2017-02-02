@@ -180,9 +180,10 @@
 		  </div>
 		</div>  
 		<br>
+		<br>
 		<div class="row">
 		  <div class="col-md-3">
-			<img src="images/jhansirani-munukuri.JPG" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/jhansirani-munukuri.jpg" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jhansirani Munukuri</h4>
