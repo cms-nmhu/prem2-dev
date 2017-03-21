@@ -27,6 +27,23 @@
     
     <div class="container" style="background:white">
       <div class="col-md-10 col-md-offset-1">
+	  <h3><strong style="color:purple">2017</strong></h3>
+	  <div class="spacing"></div>
+	  
+        <h4><strong style="color:purple">13th International Conference of Computational Methods in Sciences and Engineering (ICCMSE 2017)</strong>, Thessaloniki, Greece, April 21-25, 2017</h4>
+        <ul>
+          <li>Evgheni Jucov, Boris Averkiev, Victor N. Khrustalev, Christian Kloc, Tatiana V. Timofeeva. <em>“Structural and Computational Studies of the New Polymorph of Tetracene-TCNQ”</em></li>
+		  <li>Gil R. Gallegos, Jared Leyba. <em>“Computational Plasmonics Utilizing Open-Source Electromagnetic Solvers for Analysis of Novel Metamaterial Geometries for Concentration of Photonic Energy”</em></li>
+        </ul>
+		<div class="spacing"></div>	  
+	  
+        <h4><strong style="color:purple">Pittcon 2017 Conference & Expo</strong>, Chicago, IL, March 5-9, 2017</h4>
+        <ul>
+		  <li>Jiao Chen and Julia Zhao. <em>“Nanoscience and Nanotechnology (NANT) Education”</em><b> (Network Session)</b></li>
+          <li>Onnica Pino, Xu Wang, Jiao Chen. <em>“Preparation, Characterization, and Antibacterial Properties of Silver Nanoparticles-Modified Reduced Graphene Oxide”</em></li>
+        </ul>
+		<div class="spacing"></div>		  
+	  
 	  <h3><strong style="color:purple">2016</strong></h3>
 	  <div class="spacing"></div>
 

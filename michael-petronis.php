@@ -82,10 +82,10 @@
 	  <div class="col-md-6 content">	
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
-			<img style="margin-right:15px" class="pull-left" src="images/david-atencio.jpg" width="120px">
+			<img style="margin-right:15px" class="pull-left" src="images/sindy-lauricella.JPG" width="120px">
 		  </div> 	
 		  <div class="col-md-9 content">
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">David Atencio</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sindy Lauricella</h4>
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>

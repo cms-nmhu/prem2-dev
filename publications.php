@@ -27,9 +27,15 @@
     
     <div class="container" style="background:white">
       <div class="col-md-10 col-md-offset-1">
+        <h4><strong style="color:purple">2017</strong></h4>
+		<ul>
+		  <li><h5>Boris B. Averkiev, Iryna Davydenko, Xu Wang, Stephen Barlow, Seth R. Marder. "Crystal structure of 5,6-bis­(9<i>H</i>-carbazol-9-yl)benzo[<i>c</i>][1,2,5]thia­diazole: distortion from a hypothetical higher-symmetry structure," <em>Acta Cryst.</em>, <strong>2017</strong>, C73, .</h5></li>
+		  <li><h5>Konstantin A. Krasnov, Pavel V. Dorovatovskii, Yan V. Zubavichus, Tatiana V. Timofeeva, Victor N. Khrustalev. "Hydride transfer reactions of 5-(2-alkohybenzylidene) barbituric acids: Synthesis of 2,4,6-trioxoperhydropyrimidine-5-spiro-3'-chromanes," <em>Tetrahedron</em>, <strong>2017</strong>, 73, 542-549.</h5></li>	  
+        </ul>
+		<div class="spacing"></div>		  
+		  
         <h4><strong style="color:purple">2016</strong></h4>
 		<ul>
-		  
 		  <li><h5>Boris B. Averkiev, Bianca C. Valencia, Yulia A. Getmanenko, Tatiana V. Timofeeva. "Crystal structure of <i>N</i>,<i>N</i>,<i>N</i>-triethylhydroxyl-ammonium chloride," <em>Acta Cryst.</em>, <strong>2016</strong>, E72, 1607-1609.</h5></li>
 		  <li><h5>Bruce Robinson, Meghana Rawal, Kerry Garrett, Lewis Johnson, Werner Kaminsky, Evgheni Jucov, Tatiana Timofeeva, Bruce Eichinger, Andreas Tillack, Delwin Elder, Larry Dalton, David Shelton. "Alternative Bridging Architecures in Organic Nonlinear Optical Materials: Comparison of π and χ type structures," <em>Journal of the Optical Society of America B</em>, <strong>2016</strong>, 33(12), E160-E170.</h5></li>
 		  <li><h5>Marina S. Fonari, Sofia Antal, Raul Castañeda, Carlos Ordonez, Tatiana V. Timofeeva. "Crystalline products of CO<sub>2</sub> capture by piperazine aqueous solutions," <em>CrystEngComm</em>, <strong>2016</strong>, 18, 6282-6289.</h5></li>

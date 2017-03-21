@@ -51,41 +51,83 @@
       </div>
 	 </div>
 	  
-	  <h3 class="col-md-12 text-center" style="color:purple">Research Highlights</h3>
+	  <h3 class="col-md-12 text-center" style="color:purple">Research Highlights</h3> 
 	  <div class="row">
-		  <div class="col-md-12 col-xs-12" style="margin:0 0 10px 0">
-			<center><a href="posters/narendra-boppana-poster.png" target="_blank"><img width="50%" src="posters/narendra-boppana-poster_resize.png"></a></center>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/narendra-boppana-poster.png" target="_blank"><img width="100%" src="posters/narendra-boppana-poster_resize.png"></a>
+		  </div>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/onnica-pino-poster.png" target="_blank"><img width="100%" src="posters/onnica-pino-poster_resize.png"></a>
 		  </div>
 	  </div>	  
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
-	  <div class="row">
-		  <div class="col-md-9 content">	  
-			<div class="row">	  
-			  <div class="col-md-2 content">
-				<img style="margin-right:25px" class="pull-left" src="images/narendra-boppana.jpg" width="120px">
-			  </div>
-			  <div class="col-md-10 content">		  
-				<h4 style="display:inline; vertical-align:top; font-weight:bold">Narendra Boppana</h4>
-				<br>
-				<h6 style="display:inline">BS in Chemistry,  University</h6>		
-				<br>
-				<br>			
-				<h5 style="display:inline">Graduate Student</h5>
-				<br>
-				<h5 style="display:inline">Major in Chemistry</h5>
-				<br>
-				<br>
-				<h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
-				<br>	
-			  </div> 
-			</div>
-		  </div>		 
-		  <div class="col-md-3 content">	  
-			<div class="row">	  
-			</div>
+	  <div class="row">	  
+	  <div class="col-md-6 content"> 
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/narendra-boppana.jpg" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Narendra Boppana</h4>
+			<br>
+		    <h6 style="display:inline">BS in Pharmacy, The Erode College of Pharmacy and Research Institute, Erode, India</h6>						
+			<br>
+			<br>
+			<h5 style="display:inline">Graduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
+			<br>
+		  </div>
+		</div> 
+		<br>
+	  	<div class="row">			
+		  <div class="col-md-3">
+			<img src="images/diego-trujillo.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Diego Trujillo</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Synthesis of strongly fluorescent graphene quantum dots</h5>
+			<br>
 		  </div>	
-	  </div>	  
+		</div>		
+		<br>
+	  </div>
+	  
+	  <div class="col-md-6 content">	
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/onnica-pino.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Onnica Pino</h4>
+			<br>	
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Biology</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Preparation and characterization of silver nanoparticle-decorated reduced graphene oxide and its antibacterial application</h5>
+			<br>
+		  </div>	
+		</div>  
+		<br>
+		<br>
+		<div class="row">			
+	    </div>
+		<br>
+		<br> 
+	  </div>
+	  </div>	    
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Former Members</h3> 	  
 	  

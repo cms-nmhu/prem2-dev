@@ -67,6 +67,7 @@
         </li>
         <br>
         <br>	
+		<br>
 
         <li class="col-md-12">
           <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="images/rich-and-kristin.JPG">
@@ -90,6 +91,7 @@
         <br>
         <br>	
 		<br>	
+		<br>
 	  
         <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/ezekiel-johnston-halperin.jpg">

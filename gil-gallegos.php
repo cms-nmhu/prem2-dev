@@ -47,7 +47,7 @@
         <h5 style="margin:0">Room: HSCI-292</h5>
         <h5 style="margin:0">Email: grgallegos@nmhu.edu</h5>
         <br>
-        <h5><strong>Role in PREM</strong> includes computational modeling and simulation of the plasmonic meta-materials</h5>
+        <h5><strong>Role in PREM</strong> includes computational modeling and simulation of the plasmonic meta-materials, and conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>
       </div>
 	 </div>
 	  
@@ -78,6 +78,8 @@
 			<br>			
 			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
 			<br>
+			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>
+			<br>
 		  </div> 
 		</div>
 		<br>			  
@@ -97,6 +99,8 @@
 			<br>
 			<br>
 			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
+			<br>
+			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
 			<br>
 		  </div>
 		</div>  
@@ -137,6 +141,8 @@
 			<br>
 			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
 			<br>
+			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
+			<br>
 		  </div>	
 		</div>		
 		<br>
@@ -160,6 +166,8 @@
 			<br>	
 			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
 			<br>
+			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
+			<br>
 		  </div>
 		</div>  
 	    <br>
@@ -177,8 +185,11 @@
 			<br>
 			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
 			<br>
+			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
+			<br>
 		  </div>
 		</div>  
+		<br>
 		<br>
 		<br>
 		<div class="row">

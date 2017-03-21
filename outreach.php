@@ -30,11 +30,23 @@
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 	  
         <li class="col-md-12">
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
+          <h4 style="display:inline; vertical-align:top">March 11, 2017    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#mar11-2017"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>Northeastern N.M. Regional Science and Engineering Fair</b></h4>
+          <br>
+		  <br>
+        </li>
+        <br>
+        <br>	  
+	  
+        <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/michelle-mccombs.JPG">
           <h4 style="display:inline; vertical-align:top">January 25, 2017    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#jan25-2017"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b><a href="assets/michelle-mccombs.pdf" target="_blank">Michelle McCombs (Center for Emergent Materials (CEM) Program Manager, Education and Outreach Coordinator at The Ohio State University) gives a presentation at ARMAS on topic "The REU Opportunities at Ohio State University"</a></b></h4>
+          <h4 style="display:inline"><b>Michelle McCombs (Center for Emergent Materials (CEM) Program Manager, Education and Outreach Coordinator at The Ohio State University) gives a presentation at ARMAS on topic "The REU Opportunities at Ohio State University"</b></h4>
           <br>
 		  <br>
         </li>
@@ -49,7 +61,7 @@
           <h4 style="display:inline"><b>Chemistry Summer Camp for High School Students</b></h4>
           <br>
 		  <br>
-          <h5 style="display:inline">High school students Sofia Antal, Victoria Sena, and Omar Ocano participated at the Chemistry Summer Camp where they performed the research on synthesis and characterization of organic materials</h5>
+          <h5 style="display:inline">High school students Sofia Antal, Victoria Sena, and Omar Cano participated at the Chemistry Summer Camp where they performed the research on synthesis and characterization of organic materials</h5>
           <br>		  
 		  <br>
         </li>
@@ -69,7 +81,7 @@
         <br>		
 	  
         <li class="col-md-12">
-          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/tatiana-timofeeva.jpg">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/tatiana-timofeeva.JPG">
           <h4 style="display:inline; vertical-align:top">November 19, 2015    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#nov19-2015"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
@@ -151,6 +163,333 @@
         </div>
       </div> 
     </div>-->	
+	
+    <div class="modal fade" id="mar11-2017" style="display:none" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div id="mar11images" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#mar11images" data-slide-to="0" class="active"></li>
+              <li data-target="#mar11images" data-slide-to="1"></li>
+              <li data-target="#mar11images" data-slide-to="2"></li>
+              <li data-target="#mar11images" data-slide-to="3"></li>
+              <li data-target="#mar11images" data-slide-to="4"></li>
+              <li data-target="#mar11images" data-slide-to="5"></li>
+              <li data-target="#mar11images" data-slide-to="6"></li>
+              <li data-target="#mar11images" data-slide-to="7"></li>
+              <li data-target="#mar11images" data-slide-to="8"></li>
+              <li data-target="#mar11images" data-slide-to="9"></li>
+              <li data-target="#mar11images" data-slide-to="10"></li>
+              <li data-target="#mar11images" data-slide-to="11"></li>
+              <li data-target="#mar11images" data-slide-to="12"></li>
+              <li data-target="#mar11images" data-slide-to="13"></li>
+              <li data-target="#mar11images" data-slide-to="14"></li>
+              <li data-target="#mar11images" data-slide-to="15"></li>
+              <li data-target="#mar11images" data-slide-to="16"></li>
+              <li data-target="#mar11images" data-slide-to="17"></li>
+              <li data-target="#mar11images" data-slide-to="18"></li>
+              <li data-target="#mar11images" data-slide-to="19"></li>
+              <li data-target="#mar11images" data-slide-to="20"></li>
+              <li data-target="#mar11images" data-slide-to="21"></li>
+              <li data-target="#mar11images" data-slide-to="22"></li>
+              <li data-target="#mar11images" data-slide-to="23"></li>
+              <li data-target="#mar11images" data-slide-to="24"></li>
+              <li data-target="#mar11images" data-slide-to="25"></li>
+              <li data-target="#mar11images" data-slide-to="26"></li>
+              <li data-target="#mar11images" data-slide-to="27"></li>
+              <li data-target="#mar11images" data-slide-to="28"></li>
+              <li data-target="#mar11images" data-slide-to="29"></li>
+              <li data-target="#mar11images" data-slide-to="30"></li>
+              <li data-target="#mar11images" data-slide-to="31"></li>
+              <li data-target="#mar11images" data-slide-to="32"></li>
+              <li data-target="#mar11images" data-slide-to="33"></li>
+              <li data-target="#mar11images" data-slide-to="34"></li>
+              <li data-target="#mar11images" data-slide-to="35"></li>
+              <li data-target="#mar11images" data-slide-to="36"></li>
+              <li data-target="#mar11images" data-slide-to="37"></li>
+              <li data-target="#mar11images" data-slide-to="38"></li>
+              <li data-target="#mar11images" data-slide-to="39"></li>
+              <li data-target="#mar11images" data-slide-to="40"></li>
+			  <li data-target="#mar11images" data-slide-to="41"></li>
+              <li data-target="#mar11images" data-slide-to="42"></li>
+              <li data-target="#mar11images" data-slide-to="43"></li>
+              <li data-target="#mar11images" data-slide-to="44"></li>
+              <li data-target="#mar11images" data-slide-to="45"></li>
+              <li data-target="#mar11images" data-slide-to="46"></li>
+              <li data-target="#mar11images" data-slide-to="47"></li>
+              <li data-target="#mar11images" data-slide-to="48"></li>
+              <li data-target="#mar11images" data-slide-to="49"></li>
+              <li data-target="#mar11images" data-slide-to="50"></li>
+              <li data-target="#mar11images" data-slide-to="51"></li>
+              <li data-target="#mar11images" data-slide-to="52"></li>
+              <li data-target="#mar11images" data-slide-to="53"></li>
+              <li data-target="#mar11images" data-slide-to="54"></li>
+              <li data-target="#mar11images" data-slide-to="55"></li>
+              <li data-target="#mar11images" data-slide-to="56"></li>
+              <li data-target="#mar11images" data-slide-to="57"></li>
+              <li data-target="#mar11images" data-slide-to="58"></li>
+              <li data-target="#mar11images" data-slide-to="59"></li>
+              <li data-target="#mar11images" data-slide-to="60"></li>
+              <li data-target="#mar11images" data-slide-to="61"></li>
+              <li data-target="#mar11images" data-slide-to="62"></li>
+              <li data-target="#mar11images" data-slide-to="63"></li>
+              <li data-target="#mar11images" data-slide-to="64"></li>
+              <li data-target="#mar11images" data-slide-to="65"></li>
+              <li data-target="#mar11images" data-slide-to="66"></li>
+              <li data-target="#mar11images" data-slide-to="67"></li>
+              <li data-target="#mar11images" data-slide-to="68"></li>
+              <li data-target="#mar11images" data-slide-to="69"></li>
+              <li data-target="#mar11images" data-slide-to="70"></li>
+              <li data-target="#mar11images" data-slide-to="71"></li>
+              <li data-target="#mar11images" data-slide-to="72"></li>		
+              <li data-target="#mar11images" data-slide-to="73"></li>
+              <li data-target="#mar11images" data-slide-to="74"></li>
+              <li data-target="#mar11images" data-slide-to="75"></li>			  
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="outreach/2017-03-11/science-fair-01.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-02.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-03.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-04.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-05.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-06.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-07.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-08.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-09.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-10.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-11.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-12.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-13.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-14.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-15.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-16.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-17.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-18.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-19.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-20.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-21.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-22.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-23.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-24.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-25.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-26.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-27.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-28.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-29.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-30.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-31.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-32.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-33.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-34.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-35.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-36.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-37.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-38.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-39.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-40.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-41.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-42.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-43.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-44.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-45.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-46.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-47.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-48.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-49.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-50.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-51.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-52.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-53.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-54.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-55.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-56.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-57.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-58.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-59.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-60.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-61.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-62.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-63.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-64.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-65.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-66.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-67.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-68.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-69.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-70.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-71.JPG">
+              </div>			  
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-72.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-73.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-74.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2017-03-11/science-fair-75.JPG">
+              </div>			  
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#mar11images" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#mar11images" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div><!-- end modal-content -->
+      </div> <!-- end modal-dialog -->
+    </div> <!-- end oct16Modal -->	
 
     <div class="modal fade" id="jan25-2017" style="display:none" aria-hidden="true">
       <div class="modal-dialog">

@@ -49,14 +49,14 @@
         <h5><strong>Role in PREM</strong> includes the magnetic properties studies of the metal-organic frameworks (MOFs) and metal-organic aerogels (MOA) synthesized for applications in gas adsorption/separation and different sensors.</h5>
       </div>
 	  
-      <h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Research Group Members</h3>
+      <!--<h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Research Group Members</h3>
 		  <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
 			<img style="margin-right:15px" class="pull-left" src="images/trevor-anthony.jpg">
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Trevor Anthony</h4>
 			<br>
 			<h5 style="display:inline">Magnetic properties studies of the metal-organic frameworks (MOFs)</h5>
 			<br>
-		  </div>
+		  </div>-->
       </div>
     </div>
 

@@ -28,7 +28,7 @@
     <div class="container col-md-12 col-xs-12" style="background:white">
 	 <div class="row">
       <div class="col-md-10 col-xs-12 col-md-offset-2" style="margin-top:10px">
-        <img style="display:inline; margin-right:15px" class="pull-left" src="images/tatiana-timofeeva.jpg">
+        <img style="display:inline; margin-right:15px" class="pull-left" src="images/tatiana-timofeeva.jpg" width="226px">
         <h3 style="display:inline; vertical-align:top; font-weight:bold">Dr. Tatiana V. Timofeeva</h3>
         <button type="button" class="btn btn-default btn-sm" onclick="window.open('assets/CV-TVT-090514.pdf')"><span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span> Resume</button>
         <br>
@@ -96,7 +96,8 @@
 			<br>
 		  </div> 
 		</div>
-		<br>			  
+		<br>	
+		<br>	
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img style="margin-right:15px" class="pull-left" src="images/evgheni-jucov.jpg" width="120px">
@@ -119,6 +120,7 @@
 		  </div>
 		</div>  
 		<br>  
+		<br>		
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img src="images/bianca-valencia.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -126,7 +128,7 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Bianca Valencia</h4>
 			<br>
-		    <h6 style="display:inline">BS in Chemistry, New Mexico Highlands University</h6>		
+		    <h6 style="display:inline">BS in Biology, New Mexico Highlands University</h6>		
 			<br>	
 			<br>	
 			<h5 style="display:inline">Graduate Student</h5>
@@ -139,6 +141,25 @@
 		  </div>
 		</div>
 		<br>
+	  	<div class="row">			
+		  <div class="col-md-3">
+			<img src="images/naseer-ali.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Naseer Ali</h4>
+			<br>
+		    <h6 style="display:inline">BS in Biology, University of New Mexico</h6>		
+			<br>
+			<br>			
+			<h5 style="display:inline">Graduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Computational studies of the compounds with specific physical properties</h5>
+			<br>
+		  </div>	
+		</div>	
 		<br>
 	  	<div class="row">			
 		  <div class="col-md-3">
@@ -248,22 +269,25 @@
 		  </div>			
 	    </div>
 		<br>
-		<div class="row">		 	   
-		  <div class="col-md-3">
-			<img src="images/johnny-tuineau.jpg" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Johnny Tuineau</h4>
+	  	<div class="row">		  
+		  <div class="col-md-3 content">
+			<img style="margin-right:15px" class="pull-left" src="images/james-foster.jpg" width="120px">
+		  </div> 	
+		  <div class="col-md-9 content">
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">James Foster</h4>
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
 			<h5 style="display:inline">Major in Chemistry</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">X-ray structural studies</h5>
+			<h5 style="display:inline">Synthesis of organic compounds for charge transport and magnetic materials</h5>
+			<br>			
+			<br>			
+			<h5 style="display:inline"></h5>
 			<br>
 		  </div>
-		</div>  
+		</div> 		 
 	  </div>
 	  </div>
 	  
@@ -317,6 +341,8 @@
 		  </div>
 		</div>  
 	    <br>
+		<br>
+		<br>
 		<div class="row">		
 		  <div class="col-md-3">
 			<img src="images/geneva-poteet.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -336,22 +362,20 @@
 	  </div>	
 
 	  <div class="col-md-6 content">	
-	  	<div class="row">		  
-		  <div class="col-md-3 content">
-			<img style="margin-right:15px" class="pull-left" src="images/james-foster.jpg" width="120px">
-		  </div> 	
-		  <div class="col-md-9 content">
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">James Foster</h4>
+		<div class="row">		 	   
+		  <div class="col-md-3">
+			<img src="images/johnny-tuineau.jpg" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Johnny Tuineau</h4>
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
 			<h5 style="display:inline">Major in Chemistry</h5>
 			<br>
-			<br>			
-			<h5 style="display:inline"></h5>
 			<br>
 		  </div>
-		</div>  
+		</div>  	   
 	    <br>
 		<div class="row">		
 		  <div class="col-md-3">
