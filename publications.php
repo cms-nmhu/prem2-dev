@@ -29,6 +29,7 @@
       <div class="col-md-10 col-md-offset-1">
         <h4><strong style="color:purple">2017</strong></h4>
 		<ul>
+		  <li><h5> Ananda S. Amarasekara, Uyen Ha, Marina S. Fonari, Shabari Nath Bejagam, Davor Margetić. "Sulfuric acid and Amberlyst-H<sup>+</sup> catalyzed condensation reactions of renewable keto acids with paraformaldehyde: synthesis of a new dispiro bis-lactone ring system 2,9,13-trioxadispiro[4.1.4.3]tetradecane-3,6,10-trione," <em>RSC Adv.</em>, <strong>2017</strong>, 7, 23917-23923.</h5></li>
 		  <li><h5>Boris B. Averkiev, Iryna Davydenko, Xu Wang, Stephen Barlow, Seth R. Marder. "Crystal structure of 5,6-bis­(9<i>H</i>-carbazol-9-yl)benzo[<i>c</i>][1,2,5]thia­diazole: distortion from a hypothetical higher-symmetry structure," <em>Acta Cryst.</em>, <strong>2017</strong>, C73, .</h5></li>
 		  <li><h5>Konstantin A. Krasnov, Pavel V. Dorovatovskii, Yan V. Zubavichus, Tatiana V. Timofeeva, Victor N. Khrustalev. "Hydride transfer reactions of 5-(2-alkohybenzylidene) barbituric acids: Synthesis of 2,4,6-trioxoperhydropyrimidine-5-spiro-3'-chromanes," <em>Tetrahedron</em>, <strong>2017</strong>, 73, 542-549.</h5></li>	  
         </ul>

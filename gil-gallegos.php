@@ -53,17 +53,103 @@
 	  
 	  <h3 class="col-md-12 text-center" style="color:purple">Research Highlights</h3>
 	  <div class="row">
+		<div class="col-md-12 col-xs-12">
+		 <center>
+          <div id="gil-site-visit" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#gil-site-visit" data-slide-to="0"></li>
+              <li data-target="#gil-site-visit" data-slide-to="1"></li>
+              <li data-target="#gil-site-visit" data-slide-to="2"></li>
+              <li data-target="#gil-site-visit" data-slide-to="3"></li>
+              <li data-target="#gil-site-visit" data-slide-to="4"></li>
+              <li data-target="#gil-site-visit" data-slide-to="5"></li>
+              <li data-target="#gil-site-visit" data-slide-to="6"></li>
+              <li data-target="#gil-site-visit" data-slide-to="7"></li>
+              <li data-target="#gil-site-visit" data-slide-to="8"></li>
+              <li data-target="#gil-site-visit" data-slide-to="9"></li>
+              <li data-target="#gil-site-visit" data-slide-to="10"></li>
+              <li data-target="#gil-site-visit" data-slide-to="11"></li>
+              <li data-target="#gil-site-visit" data-slide-to="12"></li>
+              <li data-target="#gil-site-visit" data-slide-to="13"></li>			  
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_001.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_002.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_003.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_004.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_005.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_006.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_007.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_008.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_009.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_010.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_011.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_012.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_013.png">
+              </div>
+              <div class="item">
+                <img src="talks/gil-gallegos-nsf-site-visit/gil-gallegos-nsf-site-visit_014.png">
+              </div>		  
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#gil-site-visit" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#gil-site-visit" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+		 </center>
+		</div>
+	  </div>	
+	  <br>			  
+	  
+	  <div class="row">
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/gil-gallegos-poster.png" target="_blank"><img width="100%" src="posters/gil-gallegos-poster_resize.png"></a>
+		  </div>	  
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
 			<a href="posters/rosario-vasquez-poster.png" target="_blank"><img width="100%" src="posters/rosario-vasquez-poster_resize.png"></a>
 		  </div>
+	  </div>	
+	  <div class="row">		
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
 			<a href="posters/luis-garcia-poster.png" target="_blank"><img width="100%" src="posters/luis-garcia-poster_resize.png"></a>
-		  </div>
-	  </div>	
-	  <div class="row">
-		  <div class="col-md-12 col-xs-12">
-			<center><a href="posters/henry-chung-poster.png" target="_blank"><img width="50%" src="posters/henry-chung-poster_resize.png"></a></center>
-		  </div>
+		  </div>	
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/henry-chung-poster.png" target="_blank"><img width="100%" src="posters/henry-chung-poster_resize.png"></a>
+		  </div>		  	  
 	  </div>	  
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>

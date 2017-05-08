@@ -30,12 +30,35 @@
 	  <h3><strong style="color:purple">2017</strong></h3>
 	  <div class="spacing"></div>
 	  
+        <h4><strong style="color:purple">67th Annual Meeting of the American Crystallographic Association</strong>, New Orleans, LA, May 26-30, 2017</h4>
+        <ul>
+		  <li>Raul Castaneda, Yulia Getmanenko, Marina Fonari, Tatiana Timofeeva. <em>“Co-Crystals of Dithieno[3,2-a:2',3'-c]phenazine Derivatives and Trimeric Perfluoro-ortho-Phenylene Mercury”</em></li>
+          <li>Kathryn Storms, Boris B. Averkiev, Yulia A. Getmanenko, Tatiana V. Timofeeva. <em>“Crystal Structure of the Chalcogen-Containing Precursors for Polymethine Dyes”</em></li>
+		  <li>Victoria Sena, Marina S. Fonari, Sofia Antal, Omar Caro, Raul Castaneda, Carlos Ordonez, Tatiana V. Timofeeva. <em>“Crystalline Products of CO<sub>2</sub> Capture by Amine Aqueous Solutions”</em></li>
+        </ul>
+		<div class="spacing"></div>	  
+	  
         <h4><strong style="color:purple">13th International Conference of Computational Methods in Sciences and Engineering (ICCMSE 2017)</strong>, Thessaloniki, Greece, April 21-25, 2017</h4>
         <ul>
           <li>Evgheni Jucov, Boris Averkiev, Victor N. Khrustalev, Christian Kloc, Tatiana V. Timofeeva. <em>“Structural and Computational Studies of the New Polymorph of Tetracene-TCNQ”</em></li>
-		  <li>Gil R. Gallegos, Jared Leyba. <em>“Computational Plasmonics Utilizing Open-Source Electromagnetic Solvers for Analysis of Novel Metamaterial Geometries for Concentration of Photonic Energy”</em></li>
+		  <li>Gil R. Gallegos. <em>“Computational Plasmonics and Hybrid Ensemble Deep Neural Network Machine Learning Methods Utilized for Predictive Response of a Randomly Distributed Nanostar Substrate with Applications in Biosensor Design”</em></li>
         </ul>
 		<div class="spacing"></div>	  
+		
+        <h4><strong style="color:purple">NMHU's 15th Annual Research Day</strong>, Las Vegas, NM, April 21, 2017</h4>
+        <ul>
+          <li>Naseer Ali, Boris Averkiev, Tatiana Timofeeva. <em>“Fluorinated Molecules for Materials and Medicine”</em></li>
+		  <li>Henry Chung, Zhengyu Pan. <em>“Computational Analysis of Magnetic, Electric, and Electromagnetic Fields”</em></li>
+		  <li>Luis Garcia, Boris Averkiev, Taylor Herrera, Gil Gallegos. <em>“Maintenance and Utilization of Supercomputer Cluster for Density Functional Theory”</em></li>
+		  <li>Onnica Pino, Xu Wang, Jiao Chen. <em>“Preparation, Characterization and Antibacterial Properties of Silver Nanomaterials-Modified Reduced Graphene Oxide”</em></li>
+		  <li>Victoria Sena, Sofia Antal, Omar Cano, Boris Averkiev, Tatiana Timofeeva. <em>“Crystalline Products of CO<sub>2</sub> Capture by Amines”</em></li>
+		  <li>Shabari Nath Bejagam, Marina S. Fonari, Tatiana V. Timofeeva. <em>“Adducts of N-heterocyclic drugs, niacin, allopurinole and amiloride with pyridine-2,4-dicarboxylic acid co-former”</em></li>
+		  <li>Kathryn Storms, Boris B. Averkiev, Yulia A. Getmanenko, Tatiana V. Timofeeva. <em>“Crystal Structure of the Chalcogen-Containing Precursors for Polymethine Dyes”</em></li>	  
+		  <li>Diego Trujillo, Jiao Chen. <em>“Synthesis of Gold Nanorods and Their Applications in Computational Plasmonics Study”</em></li>
+		  <li>Bianca Valencia, Yulia A. Getmanenko, Boris B. Averkiev, Tatiana V. Timofeeva. <em>“Synthesis and X-Ray Single Crystal Analysis of Dithiazole Phenazine Donor Derivatives”</em></li>
+		  <li>Rosario Vasquez, Jared Leyba, Luis Garcia. <em>“Classification Utilizing Autoencoders and Ensemble Learning”</em></li>
+        </ul>
+		<div class="spacing"></div>	 		
 	  
         <h4><strong style="color:purple">Pittcon 2017 Conference & Expo</strong>, Chicago, IL, March 5-9, 2017</h4>
         <ul>
@@ -78,7 +101,7 @@
 		  <li>Raul Castaneda, Marina S. Fonari, Chad Risko, Yulia A. Getmanenko, Tatiana V. Timofeeva. <em>“Different Packing Patterns in the Mixed Donor-Acceptor Co-Crystals of Trimeric Perfluro-ortho-phenylene Mercury with Benzo[1,2-b:6,5-b']dithiophene-5-dione Derivatives”</em> <b>(Oral Presentation)</b></li>
           <li>Boris B. Averkiev, Logan Wolfel, Yulia A. Getmanenko, Tatiana V. Timofeeva. <em>“The crystal structure of the precursors for polymethine dyes with bulky groups”</em></li>
 		  <li>Bejagam Shabari Nath, Kathryn Storms, Marina S. Fonari, Jennifer Lindline, Tatiana V. Timofeeva. <em>“Structural similarities and diversity in a series of crystalline solids composed of 2-aminopyridines and glutaric acid”</em></li>
-		  <li>Marina S. Fonari, Sofia Antal, Raul Castaneda, Carlos Ordonez, Tatiana V. Timofeeva. <em>“Crystalline Products of CO<sub>2</sub> Captue by Piperazine Aqueous Solutions”</em> <b>(Undergraduate Poster Prize)</b></li>
+		  <li>Marina S. Fonari, Sofia Antal, Raul Castaneda, Carlos Ordonez, Tatiana V. Timofeeva. <em>“Crystalline Products of CO<sub>2</sub> Capture by Piperazine Aqueous Solutions”</em> <b>(Undergraduate Poster Prize)</b></li>
 		  <li>Bianca Valencia, Yulia A. Getmanenko, Boris B. Averkiev, Tatiana V. Timofeeva. <em>“Dithiazole[4,5-a:5',4'-c]Phenazines as Donors in Co-Crystals with Tetracyanoquinodimethane Derivatives”</em></li>
         </ul>
 		<div class="spacing"></div>	

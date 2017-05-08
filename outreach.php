@@ -167,10 +167,11 @@
     <div class="modal fade" id="mar11-2017" style="display:none" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
-          <div id="mar11images" class="carousel slide" data-ride="carousel">
+		 <div>
+          <div id="mar11images" class="carousel slide" data-ride="carousel" data-interval="false">
             <!-- Indicators -->
             <ol class="carousel-indicators">
-              <li data-target="#mar11images" data-slide-to="0" class="active"></li>
+              <li data-target="#mar11images" data-slide-to="0"></li>
               <li data-target="#mar11images" data-slide-to="1"></li>
               <li data-target="#mar11images" data-slide-to="2"></li>
               <li data-target="#mar11images" data-slide-to="3"></li>
@@ -487,6 +488,7 @@
               <span class="sr-only">Next</span>
             </a>
           </div>
+		  </div>
         </div><!-- end modal-content -->
       </div> <!-- end modal-dialog -->
     </div> <!-- end oct16Modal -->	
@@ -494,7 +496,7 @@
     <div class="modal fade" id="jan25-2017" style="display:none" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
-          <div id="jan25images" class="carousel slide" data-ride="carousel">
+          <div id="jan25images" class="carousel slide" data-ride="carousel" data-interval="false">
             <!-- Indicators -->
             <ol class="carousel-indicators">
               <li data-target="#jan25images" data-slide-to="0" class="active"></li>
