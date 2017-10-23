@@ -486,45 +486,7 @@
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
 	  <div class="row">
 	  <div class="col-md-6 content">
-	  	<div class="row">	  
-		  <div class="col-md-3 content">
-			<img style="margin-right:15px" class="pull-left" src="images/yulia-getmanenko.jpg" width="120px">
-		  </div>
-          <div class="col-md-9 content">		  
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Yulia Getmanenko</h4>
-			<br>
-		    <h6 style="display:inline">PhD in Organic Chemistry, Kent State University</h6>		
-			<br>	
-			<br>
-			<h5 style="display:inline">Synthesis of organic compounds for charge transport and magnetic materials</h5>
-			<br>
-		  </div> 
-		</div>
-		<br>	
-		<br>	
-	  	<div class="row">		  
-		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/evgheni-jucov.jpg" width="120px">
-		  </div>
-          <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
-			<br>
-		    <h6 style="display:inline">BS and MS in Physics, Moldova State University</h6>		
-			<br>			
-		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>		
-			<br>				
-			<br>
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Computer Science</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">X-ray structural studies of organometallic dopants for organic semiconductors</h5>
-			<br>
-		  </div>
-		</div>  
-		<br>  
-		<br>		
+	
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img src="images/bianca-valencia.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -545,25 +507,6 @@
 		  </div>
 		</div>
 		<br>
-	  	<div class="row">			
-		  <div class="col-md-3">
-			<img src="images/naseer-ali.JPG" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Naseer Ali</h4>
-			<br>
-		    <h6 style="display:inline">BS in Biology, University of New Mexico</h6>		
-			<br>
-			<br>			
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Computational studies of the compounds with specific physical properties</h5>
-			<br>
-		  </div>	
-		</div>	
 		<br>
 	  	<div class="row">			
 		  <div class="col-md-3">
@@ -581,6 +524,7 @@
 			<br>
 		  </div>	
 		</div>
+		<br>
 		<br>
 	  	<div class="row">			
 		  <div class="col-md-3">
@@ -601,21 +545,6 @@
 	  </div>
 	  
 	  <div class="col-md-6 content">	
-	  	<div class="row">		  
-		  <div class="col-md-3 content">
-			<img style="margin-right:15px" class="pull-left" src="images/boris-averkiev.jpg" width="120px">
-		  </div> 	
-		  <div class="col-md-9 content">
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Boris Averkiev</h4>
-			<br>
-		    <h6 style="display:inline">PhD in Chemistry, Utah State University</h6>		
-			<br>	
-			<br>	
-			<h5 style="display:inline">X-ray structural and computational studies of the compounds with specific physical properties</h5>
-			<br>
-		  </div>
-		</div>  
-	    <br>
 		<div class="row">		
 		  <div class="col-md-3">
 			<img src="images/xu-wang.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -638,26 +567,6 @@
 		<br>
 		<div class="row">
 		  <div class="col-md-3">
-			<img src="images/shabarinath-bejagam.jpg" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Shabari Nath Bejagam</h4>
-			<br>
-		    <h6 style="display:inline">BS in Pharmacy, Talla Padmavathi College of Pharmacy, Warangal, India</h6>		
-			<br>
-			<br>	
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Synthesis and physico-chemical studies of cocrystals for potential pharmaceutical applications</h5>
-			<br>
-		  </div>	
-		</div>  
-		<br>
-		<div class="row">
-		  <div class="col-md-3">
 			<img src="images/victoria-sena.JPG" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
@@ -672,6 +581,7 @@
 			<br>
 		  </div>			
 	    </div>
+		<br>
 		<br>
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
@@ -728,6 +638,67 @@
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Former Members</h3>
 	  <div class="col-md-6 content">	
+	  	<div class="row">	  
+		  <div class="col-md-3 content">
+			<img style="margin-right:15px" class="pull-left" src="images/yulia-getmanenko.jpg" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Yulia Getmanenko</h4>
+			<br>
+		    <h6 style="display:inline">PhD in Organic Chemistry, Kent State University</h6>		
+			<br>	
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+		  </div> 
+		</div>
+		<br>	
+		<br>	
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/evgheni-jucov.jpg" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
+			<br>
+		    <h6 style="display:inline">BS and MS in Physics, Moldova State University</h6>		
+			<br>			
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>	
+			<br>			
+		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>			
+			<br>				
+			<br>
+			<h5 style="display:inline">Graduate Student</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Now PhD student in Materials Science and Engineering at North Carolina State University, Raleigh, NC</h5>
+			<br>
+		  </div>
+		</div>  
+		<br>  
+		<br>		
+	  	<div class="row">			
+		  <div class="col-md-3">
+			<img src="images/naseer-ali.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Naseer Ali</h4>
+			<br>
+		    <h6 style="display:inline">BS in Biology, University of New Mexico</h6>	
+			<br>			
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>			
+			<br>
+			<br>			
+			<h5 style="display:inline">Graduate Student</h5>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+		  </div>	
+		</div>	
+		<br>		
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/michelle-tuineau.jpg" width="120px">
@@ -737,7 +708,7 @@
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
+			<h5 style="display:inline"></h5>
 			<br>
 			<br>			
 			<h5 style="display:inline"></h5>
@@ -745,6 +716,7 @@
 		  </div>
 		</div>  
 	    <br>
+		<br>
 		<br>
 		<br>
 		<div class="row">		
@@ -756,7 +728,7 @@
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
+			<h5 style="display:inline"></h5>
 			<br>
 			<br>
 			<h5 style="display:inline"></h5>
@@ -766,6 +738,45 @@
 	  </div>	
 
 	  <div class="col-md-6 content">	
+	  	<div class="row">		  
+		  <div class="col-md-3 content">
+			<img style="margin-right:15px" class="pull-left" src="images/boris-averkiev.jpg" width="120px">
+		  </div> 	
+		  <div class="col-md-9 content">
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Boris Averkiev</h4>
+			<br>
+		    <h6 style="display:inline">PhD in Chemistry, Utah State University</h6>		
+			<br>	
+			<br>	
+			<h5 style="display:inline">Now teaching at Stockton University, Galloway, NJ</h5>
+			<br>
+		  </div>
+		</div>  
+	    <br>
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/shabarinath-bejagam.jpg" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Shabari Nath Bejagam</h4>
+			<br>
+		    <h6 style="display:inline">BS in Pharmacy, Talla Padmavathi College of Pharmacy, Warangal, India</h6>		
+			<br>			
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>			
+			<br>
+			<br>	
+			<h5 style="display:inline">Graduate Student</h5>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+		  </div>	
+		</div>  
+		<br>	  
+		<br>
+		<br>
 		<div class="row">		 	   
 		  <div class="col-md-3">
 			<img src="images/johnny-tuineau.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -775,7 +786,7 @@
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
+			<h5 style="display:inline"></h5>
 			<br>
 			<br>
 		  </div>
@@ -791,7 +802,7 @@
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Biology</h5>
+			<h5 style="display:inline"></h5>
 			<br>
 			<br>
 			<h5 style="display:inline"></h5>

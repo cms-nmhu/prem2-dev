@@ -30,6 +30,25 @@
 	  <h3><strong style="color:purple">2017</strong></h3>
 	  <div class="spacing"></div>
 	  
+
+		<h4><strong style="color:purple">Frontiers in Optics/Laser Science Conference (FiO/LS)</strong>, Washington, D.C., September 17-21, 2017</h4>
+        <ul>
+		  <li>Taylor Allen, Yulia Getmanenko, Hyeongue Kim, Joel Hales, Bhupinder Sandhu, Marina Fonari, Kyrill Suponitsky, Yadong Zhang, Jonathan Matichak, Victor Khrustalev, Tatiana Timofeeva, Stephen Barlow, San-Hui Chi, Joseph Perry, Seth Marder. <em>“Nonlinear Optical Properties of Chalcogenopyrylium-Terminated Heptamethine Dyes in Multiple Polymer Hosts”</em></li>
+        </ul>
+		<div class="spacing"></div>		  
+	  
+		<h4><strong style="color:purple">24th Congress and General Assambly of the International Union of Crystallography</strong>, Hyderabad, India, August 21-28, 2017</h4>
+        <ul>
+		  <li>Tatiana Timofeeva, Qiang Wei, Michael Petronis. <em>“Structural Regulation of Luminescent and Magnetic Properties of MOFs”</em><b> (Invited Talk)</b></li>
+        </ul>
+		<div class="spacing"></div>	
+
+		<h4><strong style="color:purple">International Conference on Chemical Bonding</strong>, Kauai, HI, June 22-26, 2017</h4>
+        <ul>
+		  <li>Tatiana Timofeeva, Boris Averkiev, Victor Khrustalev, Konstantin Lyssenko. <em>“Intramolecular Interactions from X-ray Diffraction Data as a Tool of Understanding Crystal Properties”</em><b> (Invited Talk)</b></li>
+        </ul>
+		<div class="spacing"></div>			
+	  
         <h4><strong style="color:purple">67th Annual Meeting of the American Crystallographic Association</strong>, New Orleans, LA, May 26-30, 2017</h4>
         <ul>
 		  <li>Raul Castaneda, Yulia Getmanenko, Marina Fonari, Tatiana Timofeeva. <em>“Co-Crystals of Dithieno[3,2-a:2',3'-c]phenazine Derivatives and Trimeric Perfluoro-ortho-Phenylene Mercury”</em></li>
@@ -37,6 +56,12 @@
 		  <li>Victoria Sena, Marina S. Fonari, Sofia Antal, Omar Caro, Raul Castaneda, Carlos Ordonez, Tatiana V. Timofeeva. <em>“Crystalline Products of CO<sub>2</sub> Capture by Amine Aqueous Solutions”</em></li>
         </ul>
 		<div class="spacing"></div>	  
+		
+        <h4><strong style="color:purple">The Fourth International Scientific Conference: Advances in Synthesis and Complexing</strong>, Moscow, Russia, April 24-28, 2017</h4>
+        <ul>
+		  <li>Tatiana Timofeeva, Carlos Ordonez, Taoguang Qu, Jennifer Lindline, Michael Petronis, Qiang Wei. <em>“Structural Tuning of Luminescent and Magnetic Properties of Porous Metal Organic Frameworks”</em><b> (Invited Talk)</b></li>
+        </ul>
+		<div class="spacing"></div>			
 	  
         <h4><strong style="color:purple">13th International Conference of Computational Methods in Sciences and Engineering (ICCMSE 2017)</strong>, Thessaloniki, Greece, April 21-25, 2017</h4>
         <ul>

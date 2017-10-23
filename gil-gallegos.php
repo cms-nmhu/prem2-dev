@@ -154,29 +154,30 @@
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
 	  <div class="row">	  
-	  <div class="col-md-6 content">
-	  	<div class="row">	  
-		  <div class="col-md-3 content">
-			<img style="margin-right:15px" class="pull-left" src="images/jared-leyba.jpg" width="120px">
+	  <div class="col-md-6 content">	
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/jhansirani-munukuri.jpg" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
-          <div class="col-md-9 content">		  
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jared Leyba</h4>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jhansirani Munukuri</h4>
 			<br>
-		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>		
+		    <h6 style="display:inline">B.Tech and M.Tech in Computer Science Engineering, Jawaharlal Nehru Technological University, India</h6>		
 			<br>
-			<br>			
+			<br>	
 			<h5 style="display:inline">Graduate Student</h5>
-			<br>			
+			<br>
 			<h5 style="display:inline">Major in Computer Science</h5>
-			<br>				
+			<br>
+			<br>
+			<h5 style="display:inline">PREM webmaster</h5>
 			<br>			
-			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
+			<h5 style="display:inline">Creating of a fully searchable and publicly accessible online innovative research equipment database which will be used to locate and request access to research equipment and facilities across the US and around the world</h5>
 			<br>
-			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>
-			<br>
-		  </div> 
-		</div>
-		<br>			  
+		  </div>	
+		</div>  
+		<br>
+		<br>	  
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img style="margin-right:15px" class="pull-left" src="images/luis-garcia.jpg" width="120px">
@@ -198,47 +199,7 @@
 			<br>
 		  </div>
 		</div>  
-		<br>  
-	  	<div class="row">		  
-		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/evgheni-jucov.jpg" width="120px">
-		  </div>
-          <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
-			<br>
-		    <h6 style="display:inline">BS and MS in Physics, Moldova State University</h6>		
-			<br>			
-		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>		
-			<br>				
-			<br>
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Computer Science</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Administrating of the PREM's website. Creating of a fully searchable and publicly accessible online innovative research equipment database which will be used to locate and request access to research equipment and facilities across the US and around the world</h5>
-			<br>
-		  </div>
-		</div> 
-		<br>
-	  	<div class="row">			
-		  <div class="col-md-3">
-			<img src="images/henry-chung.jpg" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Henry Chung</h4>
-			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Computer Science</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
-			<br>
-			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
-			<br>
-		  </div>	
-		</div>		
+		<br>  	
 		<br>
 	  </div>
 	  
@@ -265,13 +226,16 @@
 		  </div>
 		</div>  
 	    <br>
-		<div class="row">		
+		<br>
+		<br>
+		<br>
+	  	<div class="row">			
 		  <div class="col-md-3">
-			<img src="images/zhengyu-pan.JPG" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/henry-chung.jpg" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Zhengyu Pan</h4>
-			<br>	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Henry Chung</h4>
+			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
 			<h5 style="display:inline">Major in Computer Science</h5>
@@ -281,32 +245,8 @@
 			<br>
 			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
 			<br>
-		  </div>
-		</div>  
-		<br>
-		<br>
-		<br>
-		<div class="row">
-		  <div class="col-md-3">
-			<img src="images/jhansirani-munukuri.jpg" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jhansirani Munukuri</h4>
-			<br>
-		    <h6 style="display:inline">B.Tech and M.Tech in Computer Science Engineering, Jawaharlal Nehru Technological University, India</h6>		
-			<br>
-			<br>	
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Computer Science</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Creating of a fully searchable and publicly accessible online innovative research equipment database which will be used to locate and request access to research equipment and facilities across the US and around the world</h5>
-			<br>
 		  </div>	
-		</div>  
-		<br>
-		<br>
+		</div>	
 		<div class="row">			
 	    </div>
 		<br>
@@ -317,6 +257,28 @@
       <h3 class="col-md-12 text-center" style="color:purple">Former Members</h3>
 	  <div class="col-md-6 content">	
 	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/evgheni-jucov.jpg" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
+			<br>
+		    <h6 style="display:inline">BS and MS in Physics, Moldova State University</h6>		
+			<br>			
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>	
+			<br>			
+		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>			
+			<br>				
+			<br>
+			<h5 style="display:inline">Graduate Student</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Now PhD student in Materials Science and Engineering at North Carolina State University, Raleigh, NC</h5>
+			<br>
+		  </div>
+		</div>  
+		<br>	  
+	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/ahmad-shabaneh.jpg" width="120px">
 		  </div> 	
@@ -325,17 +287,54 @@
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Computer Science</h5>
-			<br>
 			<br>			
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Working as web-developer</h5>
 			<br>
 		  </div>
 		</div>  
 	    <br>
-	  </div>	
+	
+
+		<div class="row">		
+		  <div class="col-md-3">
+			<img src="images/zhengyu-pan.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Zhengyu Pan</h4>
+			<br>	
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+		  </div>
+		</div>  
+		<br>
+		<br>
+		<br>	  
+	  </div>		
 
 	  <div class="col-md-6 content">	
+	  	<div class="row">	  
+		  <div class="col-md-3 content">
+			<img style="margin-right:15px" class="pull-left" src="images/jared-leyba.jpg" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jared Leyba</h4>
+			<br>
+		    <h6 style="display:inline">BS and MS in Computer Science, New Mexico Highlands University</h6>								
+			<br>
+			<br>			
+			<h5 style="display:inline">Graduate Student</h5>
+			<br>				
+			<br>			
+			<h5 style="display:inline">Now teaching at NMHU</h5>
+			<br>
+		  </div> 
+		</div>
+		<br>	  
+		<br>
+		<br>
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/juan-guaba.jpg" width="120px">
@@ -345,10 +344,8 @@
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Computer Science</h5>
-			<br>
 			<br>			
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Working as IT-specialist</h5>
 			<br>
 		  </div>
 		</div>  
