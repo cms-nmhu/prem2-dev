@@ -189,10 +189,10 @@
 		<br>
 	  	<div class="row">			
 		  <div class="col-md-3">
-			<img src="images/diego-trujillo.JPG" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/zack-schroer.jpg" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Diego Trujillo</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Zack Schroer</h4>
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
@@ -204,9 +204,47 @@
 		  </div>	
 		</div>		
 		<br>
+	  	<div class="row">			
+		  <div class="col-md-3">
+			<img src="images/yuliya-ti.png" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Yuliya Ti</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Biochemistry, Minor in Computer Science</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Synthesis of gold nanorods using seed-mediated growth solution</h5>
+			<br>
+		  </div>	
+		</div>		
+		<br>			
 	  </div>
 	  
 	  <div class="col-md-6 content">	
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/yuwei-zhang.jpg" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Yuwei Zhang</h4>
+			<br>
+		    <h6 style="display:inline">BS in Chemical Engineering and Technology, North China University of Science and Technology, Tangshan, China</h6>						
+			<br>
+			<br>
+			<h5 style="display:inline">Graduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Graphene quantum dots fluorescence quenching study by various sizes of gold and silver nanoparticles</h5>
+			<br>
+		  </div>
+		</div> 
+		<br>
+		<br>	
 		<div class="row">
 		  <div class="col-md-3">
 			<img src="images/onnica-pino.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -244,14 +282,33 @@
 			<br>		
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
+			<h5 style="display:inline"></h5>
 			<br>
 			<br>
 			<h5 style="display:inline"></h5>
 			<br>	
 		  </div>
-		</div>  	  
-	  </div>		  
+		</div>  	 
+		<br>	
+	  	<div class="row">			
+		  <div class="col-md-3">
+			<img src="images/diego-trujillo.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Diego Trujillo</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+		  </div>	
+		</div>		
+		<br>			
+	  </div>	
+	  
 	  <div class="col-md-6 content">	  
 	  	<div class="row">		  
 		  <div class="col-md-3">
@@ -262,7 +319,7 @@
 			<br>		
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
+			<h5 style="display:inline"></h5>
 			<br>
 			<br>
 			<h5 style="display:inline"></h5>
