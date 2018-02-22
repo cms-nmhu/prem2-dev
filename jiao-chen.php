@@ -169,12 +169,12 @@
 	  <div class="col-md-6 content"> 
 	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/narendra-boppana.jpg" width="120px">
+			<img style="margin-right:15px" class="pull-left" src="images/yuwei-zhang.jpg" width="120px">
 		  </div>
           <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Narendra Boppana</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Yuwei Zhang</h4>
 			<br>
-		    <h6 style="display:inline">BS in Pharmacy, The Erode College of Pharmacy and Research Institute, Erode, India</h6>						
+		    <h6 style="display:inline">BS in Chemical Engineering and Technology, North China University of Science and Technology, Tangshan, China</h6>						
 			<br>
 			<br>
 			<h5 style="display:inline">Graduate Student</h5>
@@ -182,7 +182,7 @@
 			<h5 style="display:inline">Major in Chemistry</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">Working on a novel method to synthesize the gold nanostars, taking into account several different factors such as the amount of silver nitrate, pH, the presence of gold nanoseeds, etc</h5>
+			<h5 style="display:inline">Graphene quantum dots fluorescence quenching study by various sizes of gold and silver nanoparticles</h5>
 			<br>
 		  </div>
 		</div> 
@@ -204,6 +204,11 @@
 		  </div>	
 		</div>		
 		<br>
+	
+		<br>			
+	  </div>
+	  
+	  <div class="col-md-6 content">	
 	  	<div class="row">			
 		  <div class="col-md-3">
 			<img src="images/yuliya-ti.png" width="120px" class="pull-left" style="margin-right:15px">
@@ -219,30 +224,9 @@
 			<h5 style="display:inline">Synthesis of gold nanorods using seed-mediated growth solution</h5>
 			<br>
 		  </div>	
-		</div>		
-		<br>			
-	  </div>
-	  
-	  <div class="col-md-6 content">	
-	  	<div class="row">		  
-		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/yuwei-zhang.jpg" width="120px">
-		  </div>
-          <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Yuwei Zhang</h4>
-			<br>
-		    <h6 style="display:inline">BS in Chemical Engineering and Technology, North China University of Science and Technology, Tangshan, China</h6>						
-			<br>
-			<br>
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Graphene quantum dots fluorescence quenching study by various sizes of gold and silver nanoparticles</h5>
-			<br>
-		  </div>
-		</div> 
+		</div>			
+		<br>
+		<br>
 		<br>
 		<br>	
 		<div class="row">
@@ -272,23 +256,23 @@
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Former Members</h3> 	  
 	  
-	  <div class="col-md-6 content">	  
+	  <div class="col-md-6 content">	    
 	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/yueling-xiu.jpg" width="120px">
+			<img style="margin-right:15px" class="pull-left" src="images/narendra-boppana.jpg" width="120px">
 		  </div>
           <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Yueling Xiu</h4>
-			<br>		
-			<h5 style="display:inline">Undergraduate Student</h5>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Narendra Boppana</h4>
 			<br>
-			<h5 style="display:inline"></h5>
+		    <h6 style="display:inline">BS in Pharmacy, The Erode College of Pharmacy and Research Institute, Erode, India</h6>		
+			<br>			
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>			
 			<br>
 			<br>
-			<h5 style="display:inline"></h5>
-			<br>	
+			<h5 style="display:inline">Chemist at Greenwell Energy Solutions, Odessa, TX</h5>
+			<br>
 		  </div>
-		</div>  	 
+		</div> 		
 		<br>	
 	  	<div class="row">			
 		  <div class="col-md-3">
@@ -297,7 +281,7 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Diego Trujillo</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
 			<br>
 			<h5 style="display:inline"></h5>
 			<br>
@@ -317,7 +301,7 @@
           <div class="col-md-9 content">		  	
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Proity Akbar</h4>
 			<br>		
-			<h5 style="display:inline">Undergraduate Student</h5>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
 			<br>
 			<h5 style="display:inline"></h5>
 			<br>
@@ -325,7 +309,25 @@
 			<h5 style="display:inline"></h5>
 			<br>	
 		  </div>
-		</div>  	  
+		</div> 
+		<br>
+		<br>
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/yueling-xiu.jpg" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Yueling Xiu</h4>
+			<br>		
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>	
+		  </div>
+		</div>		
 	  </div>		  	  
     </div>
 

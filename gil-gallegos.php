@@ -201,6 +201,24 @@
 		</div>  
 		<br>  	
 		<br>
+	  	<div class="row">			
+		  <div class="col-md-3">
+			<img src="images/henry-chung.jpg" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Henry Chung</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Computer Science</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
+			<br>
+			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
+			<br>
+		  </div>	
+		</div>			
 	  </div>
 	  
 	  <div class="col-md-6 content">	
@@ -229,24 +247,24 @@
 		<br>
 		<br>
 		<br>
-	  	<div class="row">			
+	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img src="images/henry-chung.jpg" width="120px" class="pull-left" style="margin-right:15px">
+			<img style="margin-right:15px" class="pull-left" src="images/frederick-sena.JPG" width="120px">
 		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Henry Chung</h4>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Frederick Sena</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
+		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>						
+			<br>
+			<br>
+			<h5 style="display:inline">Graduate Student</h5>
 			<br>
 			<h5 style="display:inline">Major in Computer Science</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
-			<br>
-			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
-			<br>
-		  </div>	
-		</div>	
+			<h5 style="display:inline">Visualization of crystal structure through computer programming</h5>
+		  </div>
+		</div> 
 		<div class="row">			
 	    </div>
 		<br>
@@ -268,12 +286,9 @@
 		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>	
 			<br>			
 		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>			
-			<br>				
-			<br>
-			<h5 style="display:inline">Graduate Student</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">Now PhD student in Materials Science and Engineering at North Carolina State University, Raleigh, NC</h5>
+			<h5 style="display:inline">PhD student in Materials Science and Engineering at North Carolina State University, Raleigh, NC</h5>
 			<br>
 		  </div>
 		</div>  
@@ -285,7 +300,7 @@
 		  <div class="col-md-9 content">
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Ahmad Shabaneh</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
 			<br>
 			<br>			
 			<h5 style="display:inline">Working as web-developer</h5>
@@ -302,7 +317,7 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Zhengyu Pan</h4>
 			<br>	
-			<h5 style="display:inline">Undergraduate Student</h5>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
 			<br>
 			<br>
 			<h5 style="display:inline"></h5>
@@ -323,18 +338,13 @@
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jared Leyba</h4>
 			<br>
 		    <h6 style="display:inline">BS and MS in Computer Science, New Mexico Highlands University</h6>								
-			<br>
-			<br>			
-			<h5 style="display:inline">Graduate Student</h5>
 			<br>				
 			<br>			
-			<h5 style="display:inline">Now teaching at NMHU</h5>
+			<h5 style="display:inline">Visiting Professor of Computer Science at NMHU</h5>
 			<br>
 		  </div> 
 		</div>
 		<br>	  
-		<br>
-		<br>
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/juan-guaba.jpg" width="120px">
@@ -342,10 +352,8 @@
 		  <div class="col-md-9 content">
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Juan Guaba</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
-			<br>
 			<br>			
-			<h5 style="display:inline">Working as IT-specialist</h5>
+			<h5 style="display:inline">IT and User Support specialist at New Mexico Department of Health, Santa Fe, NM</h5>
 			<br>
 		  </div>
 		</div>  

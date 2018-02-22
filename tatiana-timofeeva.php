@@ -489,6 +489,27 @@
 	
 	  	<div class="row">		  
 		  <div class="col-md-3">
+			<img src="images/deepak-patil.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Deepak Patil</h4>
+			<br>
+		    <h6 style="display:inline">PhD in Chemistry, University of Pardubice, Pardubice, Czech Republic</h6>		
+			<br>
+			<br>
+			<h5 style="display:inline">Post-doctoral research associate at NMHU</h5>
+			<br>			
+			<h5 style="display:inline">Visiting Scholar at Washington State University</h5>
+			<br>					
+			<br>
+			<h5 style="display:inline">Synthesis of metal organic framework (MOF): study of their optical and magnetic properties</h5>
+			<br>
+		  </div>
+		</div>
+		<br>
+		<br>
+	  	<div class="row">		  
+		  <div class="col-md-3">
 			<img src="images/bianca-valencia.jpg" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
@@ -508,63 +529,27 @@
 		</div>
 		<br>
 		<br>
-	  	<div class="row">			
+	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img src="images/kathryn-storms.jpg" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/georgii-bogdanov.JPG" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Kathryn Storms</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Georgii Bogdanov</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Synthesis and physico-chemical studies of cocrystals for potential pharmaceutical applications</h5>
-			<br>
-		  </div>	
-		</div>
-		<br>
-		<br>
-	  	<div class="row">			
-		  <div class="col-md-3">
-			<img src="images/sofia-antal.JPG" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sofia Antal</h4>
-			<br>
-			<h5 style="display:inline">Undergraduate Student, University of Colorado Boulder</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Synthesis and physico-chemical studies of cocrystals for potential pharmaceutical applications</h5>
-			<br>
-		  </div>	
-		</div>			
-	  </div>
-	  
-	  <div class="col-md-6 content">	
-		<div class="row">		
-		  <div class="col-md-3">
-			<img src="images/xu-wang.jpg" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Xu Wang</h4>
-			<br>
-		    <h6 style="display:inline">BS in Polymer Science and Engineering, Hebei University of Technology, Tianjin, China</h6>		
-			<br>
+		    <h6 style="display:inline">BS in Optical Engineering, University of Information Technologies, Mechanics and Optics (ITMO University), Saint-Petersburg, Russia</h6>		
+			<br>	
 			<br>	
 			<h5 style="display:inline">Graduate Student</h5>
 			<br>
 			<h5 style="display:inline">Major in Chemistry</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">X-ray structural studies of organometallic dopants for organic semiconductors</h5>
+			<h5 style="display:inline">Development of new mechanisms of crystal growth, technical studies of crystallography, X-ray analysis of different types of crystals</h5>
 			<br>
 		  </div>
-		</div>  
+		</div>		
 		<br>
+		<br>		
 		<div class="row">
 		  <div class="col-md-3">
 			<img src="images/victoria-sena.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -580,28 +565,88 @@
 			<h5 style="display:inline">X-ray structural studies</h5>
 			<br>
 		  </div>			
-	    </div>
-		<br>
-		<br>
-	  	<div class="row">		  
-		  <div class="col-md-3 content">
-			<img style="margin-right:15px" class="pull-left" src="images/james-foster.jpg" width="120px">
-		  </div> 	
-		  <div class="col-md-9 content">
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">James Foster</h4>
+	    </div>		
+	  </div>
+	  
+	  <div class="col-md-6 content">	
+		<div class="row">		
+		  <div class="col-md-3">
+			<img src="images/xu-wang.jpg" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Xu Wang</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
+		    <h6 style="display:inline">BS in Polymer Science and Engineering, Hebei University of Technology, Tianjin, China</h6>
+			<br>	
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>				
+			<br>
+			<br>	
+			<h5 style="display:inline">Stockroom Manager</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">X-ray structural studies of organometallic dopants for organic semiconductors</h5>
+			<br>
+		  </div>
+		</div>  
+		<br>
+		<div class="row">		
+		  <div class="col-md-3">
+			<img src="images/chibuike-maximillian-ifeanyi.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Chibuike Maximillian Ifeanyi</h4>
+			<br>
+		    <h6 style="display:inline">B.Tech in Industrial Chemistry, Federal University of Technology Owerri, Nigeria</h6>		
+			<br>
+			<br>	
+			<h5 style="display:inline">Graduate Student</h5>
 			<br>
 			<h5 style="display:inline">Major in Chemistry</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">Synthesis of organic compounds for charge transport and magnetic materials</h5>
-			<br>			
-			<br>			
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Metal Organic Framework (MOF) Synthesis and Analysis</h5>
 			<br>
 		  </div>
-		</div> 		 
+		</div> 
+		<br>
+		<br>
+		<div class="row">		
+		  <div class="col-md-3">
+			<img src="images/sergei-rigin.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sergei Rigin</h4>
+			<br>
+		    <h6 style="display:inline">BS in Laser Technologies and Instrumentation, University of Information Technologies, Mechanics and Optics (ITMO University), Saint-Petersburg, Russia</h6>		
+			<br>
+			<br>	
+			<h5 style="display:inline">Graduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Synthesis methods and calculation of organic charge-transfer complexes</h5>
+			<br>
+		  </div>
+		</div> 	 
+		<br>
+		<br>		
+	  	<div class="row">			
+		  <div class="col-md-3">
+			<img src="images/sofia-antal.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sofia Antal</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student at University of Colorado Boulder</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Synthesis and physico-chemical studies of cocrystals for potential pharmaceutical applications</h5>
+			<br>
+		  </div>	
+		</div>	
 	  </div>
 	  </div>
 	  
@@ -648,7 +693,7 @@
 		    <h6 style="display:inline">PhD in Organic Chemistry, Kent State University</h6>		
 			<br>	
 			<br>
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Visiting Research Scientist at Ohio State University, Columbus, OH</h5>
 			<br>
 		  </div> 
 		</div>
@@ -666,12 +711,9 @@
 		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>	
 			<br>			
 		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>			
-			<br>				
-			<br>
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Now PhD student in Materials Science and Engineering at North Carolina State University, Raleigh, NC</h5>
+			<br>			
+			<br>	
+			<h5 style="display:inline">PhD student in Materials Science and Engineering at North Carolina State University, Raleigh, NC</h5>
 			<br>
 		  </div>
 		</div>  
@@ -688,13 +730,8 @@
 			<br>			
 		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>			
 			<br>
-			<br>			
-			<h5 style="display:inline">Graduate Student</h5>
 			<br>
-			<h5 style="display:inline"></h5>
-			<br>
-			<br>
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Chemistry Instructor at Hamadeh Educational Services, Dearborn Highest, MI</h5>
 			<br>
 		  </div>	
 		</div>	
@@ -706,7 +743,7 @@
 		  <div class="col-md-9 content">
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Michelle Tuineau</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
 			<br>
 			<h5 style="display:inline"></h5>
 			<br>
@@ -726,7 +763,7 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Geneva Poteet</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
 			<br>
 			<h5 style="display:inline"></h5>
 			<br>
@@ -735,6 +772,20 @@
 			<br>
 		  </div>
 		</div> 
+		<br>
+	  	<div class="row">		  
+		  <div class="col-md-3 content">
+			<img style="margin-right:15px" class="pull-left" src="images/james-foster.jpg" width="120px">
+		  </div> 	
+		  <div class="col-md-9 content">
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">James Foster</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
+		  </div>
+		</div> 			
 	  </div>	
 
 	  <div class="col-md-6 content">	
@@ -748,7 +799,7 @@
 		    <h6 style="display:inline">PhD in Chemistry, Utah State University</h6>		
 			<br>	
 			<br>	
-			<h5 style="display:inline">Now teaching at Stockton University, Galloway, NJ</h5>
+			<h5 style="display:inline">Chemistry Instructor at Stockton University, Galloway, NJ</h5>
 			<br>
 		  </div>
 		</div>  
@@ -764,18 +815,12 @@
 			<br>			
 		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>			
 			<br>
-			<br>	
-			<h5 style="display:inline">Graduate Student</h5>
 			<br>
-			<h5 style="display:inline"></h5>
-			<br>
-			<br>
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Analytical Chemist at Evaric Pharmaceuticals Inc, Hauppage, NY</h5>
 			<br>
 		  </div>	
 		</div>  
 		<br>	  
-		<br>
 		<br>
 		<div class="row">		 	   
 		  <div class="col-md-3">
@@ -784,7 +829,7 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Johnny Tuineau</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
 			<br>
 			<h5 style="display:inline"></h5>
 			<br>
@@ -800,7 +845,7 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Logan Wolfel</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
 			<br>
 			<h5 style="display:inline"></h5>
 			<br>
@@ -809,6 +854,21 @@
 			<br>
 		  </div>
 		</div> 
+		<br>
+	  	<div class="row">			
+		  <div class="col-md-3">
+			<img src="images/kathryn-storms.jpg" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Kathryn Storms</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student at Luna Community College, Las Vegas, NM</h5>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+		  </div>	
+		</div>		
 	  </div>		  
     </div>
 
