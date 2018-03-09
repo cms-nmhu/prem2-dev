@@ -26,14 +26,39 @@
     <?php include "header.html" ?>
 
     <div class="container" style="background:white">
-      <h2 class="text-center" style="color:purple">Upcoming Events</h2>	
+      <!--<h2 class="text-center" style="color:purple">Upcoming Events</h2>	
 	  <div class="row">
 		<center><iframe src="https://calendar.google.com/calendar/embed?src=s9e3064n3dabsst4j0raqu7ud8%40group.calendar.google.com&ctz=America/Denver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></center>
-	  </div>
+	  </div>-->
 	
       <h2 class="text-center" style="color:purple">News and Events</h2>
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 
+        <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/ying-bing-jiang.png">
+          <h4 style="display:inline; vertical-align:top">November 1, 2017    </h4> 
+		  <br>
+		  <br>
+          <h4 style="display:inline"><b>Dr. Ying-Bing Jiang from University of New Mexico gives a presentation on topic "Atomic layer deposition and its application in high-performance membranes"</b></h4>
+          <br>
+        </li>
+        <br>
+		<br>
+        <br>
+
+        <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/ilia-guzei.jpg">
+          <h4 style="display:inline; vertical-align:top">October 21-22, 2017    </h4> 
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>Dr. Ilia A. Guzei conducts a workshop "OLEX2 Software for Crystal Structure Solution"</b></h4>
+          <br>
+        </li>
+        <br>
+        <br>
+		<br>
+		<br>		
+	  
         <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/inna-dubchak.JPG">
           <h4 style="display:inline; vertical-align:top">January 27, 2017    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#jan27-2017"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 

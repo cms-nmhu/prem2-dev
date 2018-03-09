@@ -38,8 +38,19 @@
           <br>
 		  <br>
         </li>
-        <br>
         <br>		  
+	  
+        <li class="col-md-12">
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
+          <h4 style="display:inline; vertical-align:top">July 14, 2017    </h4> 
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>Live Adobe Connect with OSU: What Can I do with a PhD?</b></h4>
+          <br>
+		  <br>
+        </li>
+        <br>
+        <br>	  
 	  
         <li class="col-md-12">
           <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
@@ -93,7 +104,7 @@
         <br>		
 	  
         <li class="col-md-12">
-          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/tatiana-timofeeva.JPG">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/tatiana-timofeeva.jpg">
           <h4 style="display:inline; vertical-align:top">November 19, 2015    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#nov19-2015"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
