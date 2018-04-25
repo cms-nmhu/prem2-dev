@@ -52,6 +52,9 @@
           <h4 style="display:inline; vertical-align:top">April 5, 2018    </h4>
       <br>
 		  <br>
+      <br>
+      <br>
+      
           <h4 style="display:inline"><b>PhD student Adam Ahmed from Ohio State University gives a presentation on topic "Skyrmion formation and stabilization in novel chiral magnetic materials"</b></h4>
           <br>
         </li>
