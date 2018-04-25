@@ -113,13 +113,7 @@
 		 </center>
 		</div>
 	  </div>	
-	  <br>			  
-	  
-	  <div class="row">
-		  <div class="col-md-12 col-xs-12">
-			<center><a href="posters/billy-romero-poster.png" target="_blank"><img width="50%" src="posters/billy-romero-poster_resize.png"></a></center>
-		  </div>
-	  </div>	  
+	  <br>			  	  
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
 	  <div class="col-md-6 content">	

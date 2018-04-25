@@ -133,24 +133,7 @@
 		 </center>
 		</div>
 	  </div>	
-	  <br>			  
-	  
-	  <div class="row">
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/gil-gallegos-poster.png" target="_blank"><img width="100%" src="posters/gil-gallegos-poster_resize.png"></a>
-		  </div>	  
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/rosario-vasquez-poster.png" target="_blank"><img width="100%" src="posters/rosario-vasquez-poster_resize.png"></a>
-		  </div>
-	  </div>	
-	  <div class="row">		
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/luis-garcia-poster.png" target="_blank"><img width="100%" src="posters/luis-garcia-poster_resize.png"></a>
-		  </div>	
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/henry-chung-poster.png" target="_blank"><img width="100%" src="posters/henry-chung-poster_resize.png"></a>
-		  </div>		  	  
-	  </div>	  
+	  <br>			  	  
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
 	  <div class="row">	  

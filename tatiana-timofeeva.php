@@ -437,51 +437,7 @@
 		</div>
 	  </div>
 	  
-	  <!-- Posters -->
-	  <div class="row">
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/evgheni-jucov-poster.png" target="_blank"><img width="100%" src="posters/evgheni-jucov-poster_resize.png"></a>
-		  </div>
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/evgheni-jucov-xu-wang-poster.png" target="_blank"><img width="100%" src="posters/evgheni-jucov-xu-wang-poster_resize.png"></a>
-		  </div>
-	  </div>
-	  
-	  <div class="row">
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/evgheni-jucov-singapore-poster.png" target="_blank"><img width="100%" src="posters/evgheni-jucov-singapore-poster_resize.png"></a>
-		  </div>
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/naseer-ali-poster.png" target="_blank"><img width="100%" src="posters/naseer-ali-poster_resize.png"></a>
-		  </div>
-	  </div>	  
-
-	  <div class="row">	  
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/bianca-valencia-poster.png" target="_blank"><img width="100%" src="posters/bianca-valencia-poster_resize.png"></a>
-		  </div>
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/shabari-nath-bejagam-poster.png" target="_blank"><center><img width="100%" src="posters/shabari-nath-bejagam-poster_resize.png"></center></a>
-		  </div>	
-	  </div>
-	  
-	  <div class="row">	  
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/victoria-sena-poster.png" target="_blank"><img width="100%" src="posters/victoria-sena-poster_resize.png"></a>
-		  </div>
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/johnny-tuineau-poster.png" target="_blank"><img width="100%" src="posters/johnny-tuineau-poster_resize.png"></a>
-		  </div>
-	  </div>
-	  
-	  <div class="row">	  
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/kathryn-storms-poster.png" target="_blank"><img width="100%" src="posters/kathryn-storms-poster_resize.png"></a>
-		  </div>
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/james-foster-poster.png" target="_blank"><img width="100%" src="posters/james-foster-poster_resize.png"></a>
-		  </div>
-	  </div>	  
+  
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
 	  <div class="row">

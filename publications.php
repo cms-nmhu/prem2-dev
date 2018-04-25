@@ -27,8 +27,17 @@
     
     <div class="container" style="background:white">
       <div class="col-md-10 col-md-offset-1">
+        <h4><strong style="color:purple">2018</strong></h4>
+        <ul>
+		  <li><h5>James E. Yarnell, Iryna Davydenko, Pavel V. Dorovatovskii, Victor N. Khrustalev, Tatiana V. Timofeeva, Felix N. Castellano, Seth R. Marder, Chad Risko, Stephen Barlow. "Positional Effects from σ-Bonded Platinum(II) on Intersystem Crossing Rates in Perylenediimide Complexes: Synthesis, Structures, and Photophysical Properties," <em>J. Phys. Chem. C</em>, <strong>2018</strong>, , .</h5></li>
+		  <li><h5>Taoguang Qu, Qiang Wei, Carlos Ordonez, Jennifer Lindline, Michael Petronis, Marina S. Fonari, Tatiana Timofeeva. "Tuning of Luminescent and Magnetic Properties via Metal Doping of Zn-BTC Systems," <em>Crystals</em>, <strong>2018</strong>, 8, 162.</h5></li>		
+		  <li><h5>Renuka Devi Tammisetti, Ilya V. Kosilkin, Ilia A. Guzei, Victor N. Khrustalev, Larry Dalton, Tatiana V. Timofeeva. "<i>Z/E</i>-Isomerism of 3-[4-(dimethylamino)phenyl]-2-(2,4,6-tribromophenyl)acrylonitrile: crystal structures and secondary intermolecular interactions," <em>Acta Cryst.</em>, <strong>2018</strong>, C74, .</h5></li>		  
+        </ul>
+		<div class="spacing"></div>	
+		
         <h4><strong style="color:purple">2017</strong></h4>
 		<ul>
+		  <li><h5>Fedor I. Zubkov, Dmitriy F. Mertsalov, Vladimir P. Zaytsev, Alexey V. Varlamov, Atash V. Gurbanov, Pavel V. Dorovatovskii, Tatiana V. Timofeeva, Victor N. Khrustalev, Kamran T. Mahmudov. "Halogen bonding in Wagner-Meerwein rearrangement products," <em>Journal of Molecular Liquids</em>, <strong>2017</strong>, , .</h5></li>			
 		  <li><h5>Shabari Nath Bejagam, Marina S. Fonari, Boris B. Averkiev, Victor N. Khrustalev, Jennifer Lindline, Tatiana V. Timofeeva. "Adducts of N-Heterocyclic Drugs, Niacin, Allopurinol, and Amiloride, with 2,4-Pyridinedicarboxylic Acid Coformer," <em>Cryst. Growth Des.</em>, <strong>2017</strong>, 17, 4237−4245.</h5></li>
 		  <li><h5>Siyuan Zhang, Junxiang Zhang, Maged Abdelsamie, Qinqin Shi, Yadong Zhang, Timothy C. Parker, Evgheni V. Jucov, Tatiana V. Timofeeva, Aram Amassian, Guillermo C. Bazan, Simon B. Blakey, Stephen Barlow, Seth R. Marder. "Intermediate-Sized Conjugated Donor Molecules for Organic Solar Cells: Comparison of Benzodithiophene and Benzobisthiazole-Based Cores," <em>Chem. Mater.</em>, <strong>2017</strong>, 29, 7880−7887.</h5></li>
 		  <li><h5>Arcadius V. Krivoshein, Sergey V. Lindeman, Tatiana V. Timofeeva, Victor N. Khrustalev. "Racemic and enantiopure forms of 3-ethyl-3-phenylpyrrolidin-2-one adopt very different crystal structures," <em>Chirality</em>, <strong>2017</strong>, 1-11.</h5></li>

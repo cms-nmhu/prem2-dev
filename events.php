@@ -35,6 +35,45 @@
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 
         <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/josh-goldberger.jpg">
+          <h4 style="display:inline; vertical-align:top">April 6, 2018    </h4> 
+		  <br>
+		  <br>
+          <h4 style="display:inline"><b>PhD student Josh Goldberger from Ohio State University gives a presentation on topic "Group 14 Semiconductor Materials at the Atomic Scale"</b></h4>
+          <br>
+        </li>
+        <br>
+		<br>
+        <br>
+		<br>
+
+        <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/adam-ahmed.png">
+          <h4 style="display:inline; vertical-align:top">April 5, 2018    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#apr5-2018"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>PhD student Adam Ahmed from Ohio State University gives a presentation on topic "Skyrmion formation and stabilization in novel chiral magnetic materials"</b></h4>
+          <br>
+        </li>
+        <br>
+        <br>
+		<br>
+		<br>	  
+	  
+        <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/carola-purser.jpg">
+          <h4 style="display:inline; vertical-align:top">April 5, 2018    </h4> 
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>PhD student Carola M. Purser from Ohio State University gives a presentation on topic "Novel approaches for sensing magnetic resonance using nitrogen-vacancy centers in diamond"</b></h4>
+          <br>
+        </li>
+        <br>
+        <br>
+		<br>
+		<br>		  
+	  
+        <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/ying-bing-jiang.png">
           <h4 style="display:inline; vertical-align:top">November 1, 2017    </h4> 
 		  <br>
@@ -142,6 +181,42 @@
     </div>
 
     <?php include "footer.html" ?>
+	
+    <div class="modal fade" id="apr5-2018" style="display:none" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div id="apr5images" class="carousel slide" data-ride="carousel">
+
+            <ol class="carousel-indicators">
+              <li data-target="#apr5images" data-slide-to="0" class="active"></li>
+              <li data-target="#apr5images" data-slide-to="1"></li>
+              <li data-target="#apr5images" data-slide-to="2"></li>
+            </ol>
+
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="events/2018-04-05/osu-students-visit-nmhu-2018-1.jpg">
+              </div>
+              <div class="item">
+                <img src="events/2018-04-05/osu-students-visit-nmhu-2018-2.jpg">
+              </div>
+              <div class="item">
+                <img src="events/2018-04-05/osu-students-visit-nmhu-2018-3.jpg">
+              </div>
+            </div>
+
+            <a class="left carousel-control" href="#apr5images" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#apr5images" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div>
+      </div> 
+    </div>		
 	
     <div class="modal fade" id="jan27-2017" style="display:none" aria-hidden="true">
       <div class="modal-dialog">

@@ -153,16 +153,7 @@
 		 </center>
 		</div>
 	  </div>	
-	  <br>		  
-	  
-	  <div class="row">
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/narendra-boppana-poster.png" target="_blank"><img width="100%" src="posters/narendra-boppana-poster_resize.png"></a>
-		  </div>
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/onnica-pino-poster.png" target="_blank"><img width="100%" src="posters/onnica-pino-poster_resize.png"></a>
-		  </div>
-	  </div>	  
+	  <br>		  	  
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
 	  <div class="row">	  
