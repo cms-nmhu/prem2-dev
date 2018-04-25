@@ -45,6 +45,8 @@
         <br>
 		<br>
         <br>
+        <br>
+        <br>
 		<br>
 
         <li class="col-md-12">
@@ -58,9 +60,8 @@
         </li>
         <br>
         <br>
-        <br>
-        <br>
-        
+    
+
 		<br>
 		<br>	  
 	  
