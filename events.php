@@ -39,7 +39,7 @@
           <h4 style="display:inline; vertical-align:top">April 6, 2018    </h4> 
 		  <br>
 		  <br>
-          <h4 style="display:inline"><b>PhD student Josh Goldberger from Ohio State University gives a presentation on topic "Group 14 Semiconductor Materials at the Atomic Scale"</b></h4>
+          <h4 style="display:inline"><b>Dr. Josh Goldberger from Ohio State University gives a presentation on topic "Group 14 Semiconductor Materials at the Atomic Scale"</b></h4>
           <br>
         </li>
         <br>
@@ -55,7 +55,7 @@
       <br>
 		  <br>
 
-          <h4 style="display:inline"><b>PhD student Adam Ahmed from Ohio State University gives a presentation on topic "Skyrmion formation and stabilization in novel chiral magnetic materials"</b></h4>
+          <h4 style="display:inline"><b>Dr. Adam Ahmed from Ohio State University gives a presentation on topic "Skyrmion formation and stabilization in novel chiral magnetic materials"</b></h4>
           <br>
         </li>
         <br>
