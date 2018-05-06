@@ -109,7 +109,17 @@
 		  </div>
 	  </div>	  
 	  
+	  <h3><strong style="color:purple">2018</strong></h3>
+	  <div class="spacing"></div>
 	  
+	  <h4><strong style="color:purple">NMHU's 16th Annual Research Day</strong>, Las Vegas, NM, April 5-6, 2018</h4>
+        <ul>
+          <li>Carola M. Purser. <em>“Novel approaches for sensing magnetic resonance using nitrogen-vacancy centers in diamond”</em></li>
+		  <li>Adam Ahmed. <em>“Skyrmion formation and stabilization in novel chiral magnetic materials”</em></li>
+		  <li>Josh Goldberger. <em>“Group 14 Semiconductor Materials at the Atomic Scale”</em></li>
+        </ul>
+		<div class="spacing"></div>	
+
 	  <h3><strong style="color:purple">2017</strong></h3>
 	  <div class="spacing"></div>
 	  
