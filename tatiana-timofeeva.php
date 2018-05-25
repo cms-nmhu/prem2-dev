@@ -51,394 +51,6 @@
       </div>
 	 </div> 
 	  
-	  <h3 class="col-md-12 text-center" style="color:purple">Research Highlights</h3>
-	  <div class="row">
-		<div class="col-md-12 col-xs-12">
-		 <center>
-          <div id="tatiana-site-visit" class="carousel slide" data-ride="carousel">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-              <li data-target="#tatiana-site-visit" data-slide-to="0"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="1"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="2"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="3"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="4"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="5"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="6"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="7"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="8"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="9"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="10"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="11"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="12"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="13"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="14"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="15"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="16"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="17"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="18"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="19"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="20"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="21"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="22"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="23"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="24"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="25"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="26"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="27"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="28"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="29"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="30"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="31"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="32"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="33"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="34"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="35"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="36"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="37"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="38"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="39"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="40"></li>
-			  <li data-target="#tatiana-site-visit" data-slide-to="41"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="42"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="43"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="44"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="45"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="46"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="47"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="48"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="49"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="50"></li>
-              <li data-target="#tatiana-site-visit" data-slide-to="51"></li>			  
-            </ol>
-
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox">
-              <div class="item active">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_001.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_002.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_003.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_004.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_005.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_006.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_007.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_008.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_009.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_010.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_011.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_012.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_013.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_014.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_015.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_016.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_017.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_018.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_019.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_020.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_021.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_022.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_023.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_024.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_025.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_026.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_027.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_028.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_029.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_030.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_031.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_032.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_033.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_034.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_035.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_036.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_037.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_038.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_039.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_040.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_041.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_042.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_043.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_044.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_045.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_046.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_047.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_048.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_049.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_050.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_051.png">
-              </div>
-              <div class="item">
-                <img src="talks/tatiana-timofeeva-nsf-site-visit/tatiana-timofeeva-nsf-site-visit_052.png">
-              </div>
-            </div>
-
-            <!-- Controls -->
-            <a class="left carousel-control" href="#tatiana-site-visit" role="button" data-slide="prev">
-              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#tatiana-site-visit" role="button" data-slide="next">
-              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </a>
-          </div>
-		 </center>
-		</div>
-	  </div>	
-	  <br>	
-	  
-	  <div class="row">
-		<div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-          <div id="boris-site-visit" class="carousel slide" data-ride="carousel">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-              <li data-target="#boris-site-visit" data-slide-to="0"></li>
-              <li data-target="#boris-site-visit" data-slide-to="1"></li>
-              <li data-target="#boris-site-visit" data-slide-to="2"></li>
-              <li data-target="#boris-site-visit" data-slide-to="3"></li>
-              <li data-target="#boris-site-visit" data-slide-to="4"></li>
-              <li data-target="#boris-site-visit" data-slide-to="5"></li>
-              <li data-target="#boris-site-visit" data-slide-to="6"></li>
-              <li data-target="#boris-site-visit" data-slide-to="7"></li>
-              <li data-target="#boris-site-visit" data-slide-to="8"></li>		  
-            </ol>
-
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox">
-              <div class="item active">
-                <img src="talks/boris-averkiev-nsf-site-visit/boris-averkiev-nsf-site-visit_001.png">
-              </div>
-              <div class="item">
-                <img src="talks/boris-averkiev-nsf-site-visit/boris-averkiev-nsf-site-visit_002.png">
-              </div>
-              <div class="item">
-                <img src="talks/boris-averkiev-nsf-site-visit/boris-averkiev-nsf-site-visit_003.png">
-              </div>
-              <div class="item">
-                <img src="talks/boris-averkiev-nsf-site-visit/boris-averkiev-nsf-site-visit_004.png">
-              </div>
-              <div class="item">
-                <img src="talks/boris-averkiev-nsf-site-visit/boris-averkiev-nsf-site-visit_005.png">
-              </div>
-              <div class="item">
-                <img src="talks/boris-averkiev-nsf-site-visit/boris-averkiev-nsf-site-visit_006.png">
-              </div>
-              <div class="item">
-                <img src="talks/boris-averkiev-nsf-site-visit/boris-averkiev-nsf-site-visit_007.png">
-              </div>
-              <div class="item">
-                <img src="talks/boris-averkiev-nsf-site-visit/boris-averkiev-nsf-site-visit_008.png">
-              </div>
-              <div class="item">
-                <img src="talks/boris-averkiev-nsf-site-visit/boris-averkiev-nsf-site-visit_009.png">
-              </div>
-            </div>
-
-            <!-- Controls -->
-            <a class="left carousel-control" href="#boris-site-visit" role="button" data-slide="prev">
-              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#boris-site-visit" role="button" data-slide="next">
-              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </a>
-          </div>		
-		</div>
-		
-		<div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-          <div id="yulia-site-visit" class="carousel slide" data-ride="carousel">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-              <li data-target="#yulia-site-visit" data-slide-to="0" class="active"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="1"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="2"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="3"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="4"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="5"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="6"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="7"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="8"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="9"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="10"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="11"></li>
-              <li data-target="#yulia-site-visit" data-slide-to="12"></li>
-			  <li data-target="#yulia-site-visit" data-slide-to="13"></li>
-			  <li data-target="#yulia-site-visit" data-slide-to="14"></li>
-			  <li data-target="#yulia-site-visit" data-slide-to="15"></li>
-			  <li data-target="#yulia-site-visit" data-slide-to="16"></li>
-            </ol>
-
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox">
-              <div class="item active">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_001.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_002.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_003.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_004.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_005.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_006.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_007.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_008.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_009.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_010.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_011.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_012.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_013.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_014.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_015.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_016.png">
-              </div>
-              <div class="item">
-                <img src="talks/yulia-getmanenko-nsf-site-visit/yulia-getmanenko-nsf-site-visit_017.png">
-              </div>			  
-            </div>
-
-            <!-- Controls -->
-            <a class="left carousel-control" href="#yulia-site-visit" role="button" data-slide="prev">
-              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#yulia-site-visit" role="button" data-slide="next">
-              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </a>
-          </div>
-		</div>
-	  </div>
-	  
-  
-	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
 	  <div class="row">
 	  <div class="col-md-6 content">
@@ -485,6 +97,7 @@
 		</div>
 		<br>
 		<br>
+		<br>
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img src="images/georgii-bogdanov.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -525,25 +138,26 @@
 	  </div>
 	  
 	  <div class="col-md-6 content">	
-		<div class="row">		
+	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img src="images/xu-wang.jpg" width="120px" class="pull-left" style="margin-right:15px">
+			<img style="margin-right:15px" class="pull-left" src="images/evgheni-jucov.jpg" width="120px">
 		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Xu Wang</h4>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
 			<br>
-		    <h6 style="display:inline">BS in Polymer Science and Engineering, Hebei University of Technology, Tianjin, China</h6>
+		    <h6 style="display:inline">BS and MS in Physics, Moldova State University</h6>		
+			<br>			
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>	
+			<br>			
+		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>			
+			<br>			
 			<br>	
-		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>				
-			<br>
-			<br>	
-			<h5 style="display:inline">Stockroom Manager</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">X-ray structural studies of organometallic dopants for organic semiconductors</h5>
+			<h5 style="display:inline">PREM webmaster</h5>
 			<br>
 		  </div>
 		</div>  
+		<br>
+		<br>
 		<br>
 		<div class="row">		
 		  <div class="col-md-3">
@@ -654,25 +268,25 @@
 		  </div> 
 		</div>
 		<br>	
+		<br>
 		<br>	
-	  	<div class="row">		  
+		<div class="row">		
 		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/evgheni-jucov.jpg" width="120px">
+			<img src="images/xu-wang.jpg" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
-          <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Xu Wang</h4>
 			<br>
-		    <h6 style="display:inline">BS and MS in Physics, Moldova State University</h6>		
-			<br>			
-		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>	
-			<br>			
-		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>			
-			<br>			
+		    <h6 style="display:inline">BS in Polymer Science and Engineering, Hebei University of Technology, Tianjin, China</h6>
 			<br>	
-			<h5 style="display:inline">PhD student in Materials Science and Engineering at North Carolina State University, Raleigh, NC</h5>
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>				
+			<br>
+			<br>	
+			<h5 style="display:inline">Stockroom Manager at NMHU</h5>
+			<br>
 			<br>
 		  </div>
-		</div>  
+		</div>  		
 		<br>  
 		<br>		
 	  	<div class="row">			
@@ -741,7 +355,8 @@
 			<br>
 			<h5 style="display:inline"></h5>
 		  </div>
-		</div> 			
+		</div> 	
+	    <br>		
 	  </div>	
 
 	  <div class="col-md-6 content">	
