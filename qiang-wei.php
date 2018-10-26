@@ -47,7 +47,7 @@
         <h5><strong>Role in PREM</strong> includes the synthesis of the metal-organic frameworks (MOFs) and metal-organic aerogels (MOA) designed for applications in gas adsorption/separation and different sensors.</h5>
       </div>
 	  
-      <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
+      <h3 class="col-md-12 text-center" style="color:purple">Former Research Group Members</h3>
 	  <div class="row">
 		  <div class="col-md-9 content">	  
 			<div class="row">	  
@@ -57,21 +57,22 @@
 			  <div class="col-md-10 content">		  
 				<h4 style="display:inline; vertical-align:top; font-weight:bold">Taoguang Qu</h4>
 				<br>			
-				<h5 style="display:inline">Graduate Student</h5>
-				<br>
-				<h5 style="display:inline">Major in Chemistry</h5>
+				<h5 style="display:inline">Graduate Student at New Mexico Institute of Mining and Technology, Socorro, NM</h5>
 				<br>
 				<br>
-				<h5 style="display:inline">Synthesis of the metal-organic frameworks (MOFs) and metal-organic aerogels (MOA) for applications in gas adsorption/separation and different sensors</h5>
+				<h5 style="display:inline"></h5>
 				<br>	
 			  </div> 
 			</div>
-		  </div>		 
+		  </div>	
+		  <br>	
 		  <div class="col-md-3 content">	  
 			<div class="row">	  
 			</div>
 		  </div>	
-	  </div>	
+		  <br>
+	  </div>
+	  </br>	
     </div>
 
     <?php include "footer.html" ?>

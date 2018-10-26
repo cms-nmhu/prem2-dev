@@ -31,37 +31,60 @@
 		<center><iframe src="https://calendar.google.com/calendar/embed?src=s9e3064n3dabsst4j0raqu7ud8%40group.calendar.google.com&ctz=America/Denver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></center>
 	  </div>-->
 	
-      <h2 class="text-center" style="color:purple">News and Events</h2>
+      <h2 class="text-center" style="color:purple">Events</h2>
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 
+
+
+        <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/daniel-lesse.png">
+          <h4 style="display:inline; vertical-align:top">September 27, 2018    </h4> 
+		  <br>
+		  <br>
+          <h4 style="display:inline"><b>Undergraduate student Daniel Lesse</b> from <b>New Mexico Highlands University</b> talks about his experience at REU Program at Ohio State University and gives a presentation on topic <b>"Catalytic hydrogenation of phenylacetylene"</b></h4>
+          <br>
+        </li>
+        <br>
+		<br>
+        <br>		
+	  
+        <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/deepak-patil.JPG">
+          <h4 style="display:inline; vertical-align:top">September 13, 2018    </h4> 
+		  <br>
+		  <br>
+          <h4 style="display:inline"><b>Dr. Deepak Patil</b> from <b>New Mexico Highlands University</b> gives a presentation on topic <b>"Synthesis of Bimetallic Magnetic MOFs for efficient removal of dyes from effluents"</b></h4>
+          <br>
+        </li>
+        <br>
+		<br>
+        <br>
+		<br>	  
+		<br>		
+	  
         <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/josh-goldberger.jpg">
           <h4 style="display:inline; vertical-align:top">April 6, 2018    </h4> 
 		  <br>
 		  <br>
-          <h4 style="display:inline"><b>Dr. Josh Goldberger from Ohio State University gives a presentation on topic "Group 14 Semiconductor Materials at the Atomic Scale"</b></h4>
+          <h4 style="display:inline"><b>Dr. Josh Goldberger</b> from <b>Ohio State University</b> gives a presentation on topic <b>"Group 14 Semiconductor Materials at the Atomic Scale"</b></h4>
           <br>
         </li>
         <br>
 		<br>
-        <br>
-        <br>
         <br>
 		<br>
 
         <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/adam-ahmed.png">
-          <h4 style="display:inline; vertical-align:top">April 5, 2018    </h4>
-      <br>
+          <h4 style="display:inline; vertical-align:top">April 5, 2018    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#apr5-2018"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
+          <br>
 		  <br>
-
-          <h4 style="display:inline"><b>Dr. Adam Ahmed from Ohio State University gives a presentation on topic "Skyrmion formation and stabilization in novel chiral magnetic materials"</b></h4>
+          <h4 style="display:inline"><b>Dr. Adam Ahmed</b> from <b>Ohio State University</b> gives a presentation on topic <b>"Skyrmion formation and stabilization in novel chiral magnetic materials"</b></h4>
           <br>
         </li>
         <br>
         <br>
-    
-
 		<br>
 		<br>	  
 	  
@@ -70,7 +93,7 @@
           <h4 style="display:inline; vertical-align:top">April 5, 2018    </h4> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>PhD student Carola M. Purser from Ohio State University gives a presentation on topic "Novel approaches for sensing magnetic resonance using nitrogen-vacancy centers in diamond"</b></h4>
+          <h4 style="display:inline"><b>PhD student Carola M. Purser</b> from <b>Ohio State University</b> gives a presentation on topic <b>"Novel approaches for sensing magnetic resonance using nitrogen-vacancy centers in diamond"</b></h4>
           <br>
         </li>
         <br>
@@ -83,7 +106,7 @@
           <h4 style="display:inline; vertical-align:top">November 1, 2017    </h4> 
 		  <br>
 		  <br>
-          <h4 style="display:inline"><b>Dr. Ying-Bing Jiang from University of New Mexico gives a presentation on topic "Atomic layer deposition and its application in high-performance membranes"</b></h4>
+          <h4 style="display:inline"><b>Dr. Ying-Bing Jiang</b> from <b>University of New Mexico</b> gives a presentation on topic <b>"Atomic layer deposition and its application in high-performance membranes"</b></h4>
           <br>
         </li>
         <br>
@@ -95,7 +118,7 @@
           <h4 style="display:inline; vertical-align:top">October 21-22, 2017    </h4> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>Dr. Ilia A. Guzei conducts a workshop "OLEX2 Software for Crystal Structure Solution"</b></h4>
+          <h4 style="display:inline"><b>Dr. Ilia A. Guzei</b> conducts a workshop <b>"OLEX2 Software for Crystal Structure Solution"</b></h4>
           <br>
         </li>
         <br>
@@ -108,14 +131,14 @@
           <h4 style="display:inline; vertical-align:top">January 27, 2017    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#jan27-2017"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>Dr. Inna Dubchak (Senior Scientist at Genomics Division & DOE Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA) gives a presentation on topic "Computational analysis of genomic data"</b></h4>
+          <h4 style="display:inline"><b>Dr. Inna Dubchak</b> (Senior Scientist at Genomics Division & DOE Joint Genome Institute, <b>Lawrence Berkeley National Laboratory</b>, Berkeley, CA) gives a presentation on topic <b>"Computational analysis of genomic data"</b></h4>
           <br>
         </li>
         <br>
         <br>	  
 	  
         <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="images/nmhulogoEvents.jpg">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/nmhulogoEvents.png">
           <h4 style="display:inline; vertical-align:top">April 29, 2016    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#apr29-2016"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
@@ -125,13 +148,14 @@
         </li>
         <br>
         <br>	
+		<br>
 		
         <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/jessica-winter.JPG">
           <h4 style="display:inline; vertical-align:top">April 26, 2016    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#apr26-2016"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>PREM Co-PI Dr. Jessica Winter from The Ohio State University visits NMHU and gives a presentation on topic "Ordered Templating in Nanoparticle Composites"</b></h4>
+          <h4 style="display:inline"><b>PREM Co-PI Dr. Jessica Winter</b> from <b>The Ohio State University</b> visits NMHU and gives a presentation on topic <b>"Ordered Templating in Nanoparticle Composites"</b></h4>
           <br>
         </li>
         <br>
@@ -143,7 +167,7 @@
           <h4 style="display:inline; vertical-align:top">April 22, 2016    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#apr22-2016"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>Dr. Richard Colbaugh and Dr. Kristin Glass (Periander Ltd, Santa Fe, NM) visit NMHU and give a presentation on topic "Combining plasmonic biosensors and machine learning for human health applications"</b></h4>
+          <h4 style="display:inline"><b>Dr. Richard Colbaugh</b> and <b>Dr. Kristin Glass</b> (Periander Ltd, Santa Fe, NM) visit NMHU and give a presentation on topic <b>"Combining plasmonic biosensors and machine learning for human health applications"</b></h4>
           <br>
         </li>
         <br>
@@ -154,7 +178,7 @@
           <h4 style="display:inline; vertical-align:top">February 16, 2016    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#feb16-2016"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>PREM Co-PI Dr. P. Chris Hammel from The Ohio State University visits NMHU and gives a presentation on topic "Pure Spin Transport in Diverse Materials Systems"</b></h4>
+          <h4 style="display:inline"><b>PREM Co-PI Dr. P. Chris Hammel</b> from <b>The Ohio State University</b> visits NMHU and gives a presentation on topic <b>"Pure Spin Transport in Diverse Materials Systems"</b></h4>
           <br>
         </li>
         <br>
@@ -167,21 +191,10 @@
           <h4 style="display:inline; vertical-align:top">October 16, 2015    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#oct16-2015"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>PREM Co-PI Dr. Ezekiel Johnston-Halperin from The Ohio State University visits NMHU and gives a presentation on topic "Organic Spintronics: using organic-based magnets for flexible, low-cost, low-power electronics"</b></h4>
+          <h4 style="display:inline"><b>PREM Co-PI Dr. Ezekiel Johnston-Halperin</b> from <b>The Ohio State University</b> visits NMHU and gives a presentation on topic <b>"Organic Spintronics: using organic-based magnets for flexible, low-cost, low-power electronics"</b></h4>
           <br>
         </li>
         <br>
-        <br>
-		<br>
-		
-        <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="images/nmhulogoEvents.jpg">
-          <h4 style="display:inline; vertical-align:top">September 1, 2015    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#sep1-2015"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
-          <br>
-		  <br>
-          <h4 style="display:inline"><b><a href="http://www.nmhu.edu/highlands-awarded-3-3-million-national-science-foundation-grant" target="_blank">Highlands awarded $3.3 million National Science Foundation Grant</a></b></h4>
-          <br>
-        </li>
       </ul>
     </div>
 

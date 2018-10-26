@@ -55,10 +55,10 @@
 	  <div class="col-md-6 content">	
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
-			<img style="margin-right:15px" class="pull-left" src="images/billy-romero.jpg" width="120px">
+			<img style="margin-right:15px" class="pull-left" src="images/sindy-lauricella.JPG" width="120px">
 		  </div> 	
 		  <div class="col-md-9 content">
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Billy Romero</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sindy Lauricella</h4>
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
@@ -68,8 +68,13 @@
 			<h5 style="display:inline">Magnetic properties studies of the different compounds</h5>
 			<br>
 		  </div>
-		</div>  
+		</div> 
 	    <br>
+
+        <br>		
+	  </div>	
+
+	  <div class="col-md-6 content">	
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/jose-sandoval.JPG" width="120px">
@@ -85,24 +90,41 @@
 			<h5 style="display:inline">Magnetic properties studies of the different compounds</h5>
 			<br>
 		  </div>
+		</div>   
+	    <br>
+	  </div>	  
+	  
+      <h3 class="col-md-12 text-center" style="color:purple">Former Members</h3>
+	  <div class="col-md-6 content">	
+	  	<div class="row">		  
+		  <div class="col-md-3 content">
+			<img style="margin-right:15px" class="pull-left" src="images/billy-romero.jpg" width="120px">
+		  </div> 	
+		  <div class="col-md-9 content">
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Billy Romero</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
+			<br>
+			<br>			
+			<h5 style="display:inline"></h5>
+			<br>
+		  </div>
 		</div>  
-        <br>		
+		</br>	
 	  </div>	
 
 	  <div class="col-md-6 content">	
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
-			<img style="margin-right:15px" class="pull-left" src="images/sindy-lauricella.JPG" width="120px">
+			<img style="margin-right:15px" class="pull-left" src="images/joslynn-rowin.png" width="120px">
 		  </div> 	
 		  <div class="col-md-9 content">
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sindy Lauricella</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Joslynn Rowin</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
+			<h6 style="display:inline">BA in Chemistry, New Mexico Highlands University</h6>
 			<br>
-			<h5 style="display:inline">Major in Environmental Geology</h5>
 			<br>
-			<br>			
-			<h5 style="display:inline">Magnetic properties studies of the different compounds</h5>
+			<h5 style="display:inline">PharmD Student at University of New Mexico, Albuquerque, NM</h5>
 			<br>
 		  </div>
 		</div>  

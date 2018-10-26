@@ -54,26 +54,28 @@
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
 	  <div class="row">	  
 	  <div class="col-md-6 content">	
-		<div class="row">
+	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img src="images/jhansirani-munukuri.jpg" width="120px" class="pull-left" style="margin-right:15px">
+			<img style="margin-right:15px" class="pull-left" src="images/evgheni-jucov.jpg" width="120px">
 		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jhansirani Munukuri</h4>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
 			<br>
-		    <h6 style="display:inline">B.Tech and M.Tech in Computer Science Engineering, Jawaharlal Nehru Technological University, India</h6>		
-			<br>
-			<br>	
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Computer Science</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">PREM webmaster</h5>
+		    <h6 style="display:inline">BS and MS in Physics, Moldova State University, Chisinau, Moldova</h6>		
 			<br>			
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>	
+			<br>			
+		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>			
+			<br>	
 			<br>
-		  </div>	
+			<h5 style="display:inline">MBA Student</h5>
+			<br>			
+			<br>	
+			<h5 style="display:inline">PREM webmaster</h5>
+			<br>
+		  </div>
 		</div>  
+		<br>
 		<br>	  
 	  	<div class="row">		  
 		  <div class="col-md-3">
@@ -98,7 +100,22 @@
 		</div>  
 		<br>  	
 		<br>
-		
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/no-image.png" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jesse Ibarra</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Computer Science, Minor in Combined Sciences</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">MEEP/Python programming simulations involving graphene meta-materials</h5>
+			<br>
+		  </div>			
+	    </div>			
 	  </div>
 	  
 	  <div class="col-md-6 content">	
@@ -164,7 +181,6 @@
 		  </div>
 		</div> 
 		<br>	
-		<br>	
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/ahmad-shabaneh.jpg" width="120px">
@@ -172,10 +188,10 @@
 		  <div class="col-md-9 content">
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Ahmad Shabaneh</h4>
 			<br>
-			<h5 style="display:inline">Graduate Student at NMHU</h5>
+		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>	
 			<br>
 			<br>			
-			<h5 style="display:inline">Working as web-developer</h5>
+			<h5 style="display:inline">Graduate Student at NMHU</h5>
 			<br>
 		  </div>
 		</div>  
@@ -189,19 +205,33 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Zhengyu Pan</h4>
 			<br>	
+		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>	
+			<br>
+			<br>
 			<h5 style="display:inline">Graduate Student at NMHU</h5>
-			<br>
-			<br>
-			<h5 style="display:inline"></h5>
 			<br>
 		  </div>
 		</div>  
-		<br>
-		<br>
-		<br>	  
+		<br>  
 	  </div>		
 
 	  <div class="col-md-6 content">	
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/jhansirani-munukuri.jpg" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jhansirani Munukuri</h4>
+			<br>
+		    <h6 style="display:inline">B.Tech and M.Tech in Computer Science Engineering, Jawaharlal Nehru Technological University, India</h6>		
+			<br>
+			<br>	
+			<h5 style="display:inline">Graduate Student at NMHU</h5>
+			<br>			
+			<br>
+		  </div>	
+		</div> 
+		<br>	
 	  	<div class="row">	  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/jared-leyba.jpg" width="120px">
@@ -223,6 +253,8 @@
 		  </div> 	
 		  <div class="col-md-9 content">
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Juan Guaba</h4>
+			<br>
+		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>									
 			<br>
 			<br>			
 			<h5 style="display:inline">IT and User Support specialist at New Mexico Department of Health, Santa Fe, NM</h5>

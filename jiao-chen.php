@@ -72,8 +72,10 @@
 			<h5 style="display:inline">Graphene quantum dots fluorescence quenching study by various sizes of gold and silver nanoparticles</h5>
 			<br>
 		  </div>
-		</div> 
-		<br>
+		</div> 			
+	  </div>
+	  
+	  <div class="col-md-6 content">	
 	  	<div class="row">			
 		  <div class="col-md-3">
 			<img src="images/zack-schroer.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -89,55 +91,11 @@
 			<h5 style="display:inline">Synthesis of strongly fluorescent graphene quantum dots</h5>
 			<br>
 		  </div>	
-		</div>		
-		<br>
-	
-		<br>			
-	  </div>
-	  
-	  <div class="col-md-6 content">	
-	  	<div class="row">			
-		  <div class="col-md-3">
-			<img src="images/yuliya-ti.png" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Yuliya Ti</h4>
-			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Biochemistry, Minor in Computer Science</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Synthesis of gold nanorods using seed-mediated growth solution</h5>
-			<br>
-		  </div>	
-		</div>			
-		<br>
-		<br>
-		<br>
-		<br>	
-		<div class="row">
-		  <div class="col-md-3">
-			<img src="images/onnica-pino.JPG" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Onnica Pino</h4>
-			<br>	
-			<h5 style="display:inline">Undergraduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Biology</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Preparation and characterization of silver nanoparticle-decorated reduced graphene oxide and its antibacterial application</h5>
-			<br>
-		  </div>	
-		</div>  
+		</div>	 
 		<br>
 		<br>
 		<div class="row">			
 	    </div>
-		<br>
-		<br> 
 	  </div>
 	  </div>	    
 	  
@@ -168,16 +126,28 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Diego Trujillo</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
-			<br>
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Undergraduate Student at University of New Mexico, Albuquerque, NM</h5>
 			<br>
 			<br>
 			<h5 style="display:inline"></h5>
 			<br>
 		  </div>	
 		</div>		
-		<br>			
+		<br>
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/onnica-pino.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Onnica Pino</h4>
+			<br>	
+			<h6 style="display:inline">BS in Biology, New Mexico Highlands University</h6>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+		  </div>	
+		</div> 		
 	  </div>	
 	  
 	  <div class="col-md-6 content">	  
@@ -188,12 +158,10 @@
           <div class="col-md-9 content">		  	
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Proity Akbar</h4>
 			<br>		
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
-			<br>
-			<h5 style="display:inline"></h5>
+			<h6 style="display:inline">BS in Chemistry, New Mexico Highlands University</h6>
 			<br>
 			<br>
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Analytical Chemist at Dow Pharmaceutical Sciences, Petaluma, CA</h5>
 			<br>	
 		  </div>
 		</div> 
@@ -206,15 +174,33 @@
           <div class="col-md-9 content">		  	
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Yueling Xiu</h4>
 			<br>		
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
-			<br>
-			<h5 style="display:inline"></h5>
+			<h6 style="display:inline">BS in Chemistry, New Mexico Highlands University</h6>
 			<br>
 			<br>
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Working at pharmaceutical company in China</h5>
 			<br>	
 		  </div>
+		</div>	
+		<br>
+		<br>
+		<br>
+	  	<div class="row">			
+		  <div class="col-md-3">
+			<img src="images/yuliya-ti.png" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Yuliya Ti</h4>
+			<br>
+			<!--<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Biochemistry, Minor in Computer Science</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Synthesis of gold nanorods using seed-mediated growth solution</h5>-->
+			<br>
+		  </div>	
 		</div>		
+		<br>	
 	  </div>		  	  
     </div>
 

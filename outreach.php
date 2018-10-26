@@ -34,14 +34,14 @@
           <h4 style="display:inline; vertical-align:top">February 1, 2018    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#feb1-2018"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>Michelle McCombs (Center for Emergent Materials (CEM) Program Manager, Education and Outreach Coordinator at The Ohio State University) gives a presentation at ARMAS on topic "Being Successful in a Summer Research Program from the Application Process to the Laboratory"</b></h4>
+          <h4 style="display:inline"><b>Michelle McCombs</b> (Center for Emergent Materials (CEM) Program Manager, Education and Outreach Coordinator at <b>The Ohio State University</b>) gives a presentation at ARMAS on topic <b>"Being Successful in a Summer Research Program from the Application Process to the Laboratory"</b></h4>
           <br>
 		  <br>
         </li>
         <br>		  
 	  
         <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/nmhulogoEvents.png">
           <h4 style="display:inline; vertical-align:top">July 14, 2017    </h4> 
           <br>
 		  <br>
@@ -50,10 +50,11 @@
 		  <br>
         </li>
         <br>
-        <br>	  
+        <br>	
+		<br>	
 	  
         <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/nmhulogoEvents.png">
           <h4 style="display:inline; vertical-align:top">March 11, 2017    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#mar11-2017"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
@@ -62,14 +63,15 @@
 		  <br>
         </li>
         <br>
-        <br>	  
+        <br>	
+        <br>		
 	  
         <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/michelle-mccombs.JPG">
           <h4 style="display:inline; vertical-align:top">January 25, 2017    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#jan25-2017"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>Michelle McCombs (Center for Emergent Materials (CEM) Program Manager, Education and Outreach Coordinator at The Ohio State University) gives a presentation at ARMAS on topic "The REU Opportunities at Ohio State University"</b></h4>
+          <h4 style="display:inline"><b>Michelle McCombs</b> (Center for Emergent Materials (CEM) Program Manager, Education and Outreach Coordinator at <b>The Ohio State University</b>) gives a presentation at ARMAS on topic <b>"The REU Opportunities at Ohio State University"</b></h4>
           <br>
 		  <br>
         </li>
@@ -77,22 +79,18 @@
         <br>		  
 	  
         <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/nmhulogoEvents.png">
           <h4 style="display:inline; vertical-align:top">Summer 2016    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#sum-2016"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>Chemistry Summer Camp for High School Students</b></h4>
-          <br>
-		  <br>
-          <h5 style="display:inline">High school students Sofia Antal, Victoria Sena, and Omar Cano participated at the Chemistry Summer Camp where they performed the research on synthesis and characterization of organic materials</h5>
+          <h4 style="display:inline"><b>High school students Sofia Antal, Victoria Sena, and Omar Cano</b> participated in the <b>Chemistry Summer Camp for High School Students</b> where they performed the research on synthesis and characterization of organic materials</h4>
           <br>		  
 		  <br>
         </li>
         <br>
-        <br>
 
         <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/nmhulogoEvents.png">
           <h4 style="display:inline; vertical-align:top">March 5, 2016</h4> 
           <br>
 		  <br>
@@ -101,6 +99,7 @@
 		  <br>
         </li>
         <br>
+        <br>		
         <br>		
 	  
         <li class="col-md-12">
@@ -118,7 +117,7 @@
         <br>	  			  
 	  
         <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/nmhulogoEvents.png">
           <h4 style="display:inline; vertical-align:top">November 12, 2015    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#nov12-2015"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
@@ -128,9 +127,10 @@
         </li>
         <br>
         <br>
+        <br>		
 		
         <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3 col-xs-12" src="images/nmhulogoEvents.jpg">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/nmhulogoEvents.png">
           <h4 style="display:inline; vertical-align:top">October 9, 2015</h4>
           <br>
 		  <br>

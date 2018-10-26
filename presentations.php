@@ -26,10 +26,61 @@
     <?php include "header.html" ?>
     
     <div class="container" style="background:white">
+	  <h2 class="text-center" style="color:purple">Presentations</h2>
       <div class="col-md-10 col-md-offset-1"> 
+	  
+	  <h3><strong style="color:purple">2018</strong></h3>
+	  <div class="spacing"></div>	  
+	  
+		<h4><strong style="color:purple">International Workshop on Chemical Crystallography and Structural Biology (The Second Struchkov Meeting)</strong>, Moscow, Russia, November 13-16, 2018</h4>
+        <ul>
+		  <li>Georgii Bogdanov, John P. Tillotson, Joseph Perry, Tatiana V. Timofeeva. <em>“Structure and properties of new push-pull molecules”</em><b> (Oral presentation)</b></li>
+        </ul>
+		<div class="spacing"></div>		  
+	  
+		<h4><strong style="color:purple">2018 Sustainable Industrial Processing Summit and Exhibition</strong>, Rio de Janeiro, Brazil, November 2-8, 2018</h4>
+        <ul>
+		  <li>Georgii Bogdanov, Tatiana V. Timofeeva. <em>“Growth of different conformation by vapor deposition”</em></li>
+        </ul>
+		<div class="spacing"></div>	
+
+		<h4><strong style="color:purple">2018 Rocky Mountain Regional Meeting of the American Chemical Society</strong>, Albuquerque, NM, October 26, 2018</h4>
+        <ul>
+		  <li>Georgii Bogdanov, John P. Tillotson, Joseph Perry, Tatiana V. Timofeeva. <em>“Structure and properties of new push-pull molecules”</em><b> (Oral presentation)</b></li>
+		  <li>Sergei Rigin, John Tillotson, Joseph Perry, Victor N. Khrustalev, Georgii Bogdanov, Tatiana Timofeeva. <em>“X-ray and DFT studies of novel thiobarbituric chromophores with nonlinear optical properties”</em></li>
+        </ul>
+		<div class="spacing"></div>				
+		
+		<h4><strong style="color:purple">Solid State Chemistry Conference 2018 (SSC2018)</strong>, Pardubice, Czech Republic, September 16-21, 2018</h4>
+        <ul>
+		  <li>Deepak S. Patil, Maximillian Chibuike, Victoria Sena, Manisha Konale, Tatiana Timofeeva, Bozena Frumarova, Miroslav Vlcek, Ludvik Benes. <em>“Synthesis of Bimetallic Magnetic Metal Organic Frameworks (MMOFs) for Efficient Removal of Dyes from Effluents”</em></li>
+        </ul>
+		<div class="spacing"></div>		
+
+		<h4><strong style="color:purple">68th Annual Meeting of the American Crystallographic Association</strong>, Toronto, Canada, July 20-24, 2018</h4>
+        <ul>
+		  <li>Georgii Bogdanov, Sergei Rigin, Gil Gallegos, Tatiana V. Timofeeva. <em>“Custom setup for organic crystal growth by vapor deposition”</em><b> (Oral presentation)</b></li>
+		  <li>Sergei Rigin, Georgii Bogdanov, Tatiana V. Timofeeva. <em>“Computational analysis of charge-transfer crystalline complexes”</em><b> (Oral presentation)</b></li>
+		  <li>Victoria Sena, Tatiana Timofeeva. <em>“Crystalline Products of CO<sub>2</sub> Capture by Amines”</em></li>		  
+        </ul>
+		<div class="spacing"></div>
+
+		<h4><strong style="color:purple">70th Annual Rocky Mountain Meeting of the Geological Society of America</strong>, Flagstaff, AZ, May 15-17, 2018</h4>
+        <ul>
+		  <li>Daniel Grondin, Michael Petronis, Jennifer Lindline, Billy Romero, Sindy Lauricella. <em>“Preliminary Paleomagnetic Data from the Eastern Mono Basin, California and Nevada”</em></li>
+		  <li>Filip Tomek, Michael Petronis, Amy K. Gilmer, Peter W. Lipman, Marine S. Foucher. <em>“Emplacement Style of a Post-Caldera Intrusion: Insights from Structure and Magnetic Anisotropy”</em></li>
+		  <li>Bakary Kone, Michael Petronis, Jennifer Lindline. <em>“Emplacement of the Cerros Del Rio Intrusion Based on Anisotropy of Magnetic Susceptibility. Paleomagnetic, Magnetic Survey, Petrological, and Photogrammetry Data”</em></li>		  
+        </ul>
+		<div class="spacing"></div>			
 	  
 	  <h3><strong style="color:purple">2017</strong></h3>
 	  <div class="spacing"></div>
+	  
+		<h4><strong style="color:purple">2017 New Mexico Academy of Science Research Symposium</strong>, Albuquerque, NM, November 4, 2017</h4>
+        <ul>
+		  <li>Evgenii Oskolkov, Georgii Bogdanov, Sergei Rigin, Gil Gallegos, Tatiana Timofeeva. <em>“Custom Setup for High-quality Organic Semiconductor Crystal Growth”</em></li>
+        </ul>
+		<div class="spacing"></div>		  
 	  
 		<h4><strong style="color:purple">Frontiers in Optics/Laser Science Conference (FiO/LS)</strong>, Washington, D.C., September 17-21, 2017</h4>
         <ul>
@@ -148,6 +199,12 @@
 		  <li>Proity Nayeeb Akbar, Narendra Boppana, Yueling Xiu, Xu Wang, Jiao Chen. <em>“Development of a Novel Method for the Synthesis of Gold Nanostars”</em></li>
         </ul>
 		<div class="spacing"></div>	  
+		
+		<h4><strong style="color:purple">New Mexico Geological Society Annual Spring Meeting</strong>, Socorro, NM, April 8, 2016</h4>
+        <ul>
+		  <li>S.F. Shields, M.S. Petronis, V. Rapprich, J. Valenta. <em>“Magma Emplacement Processes of the Oligocene Zakupy and Miocene Merunice diatremes, Czech Republic: Revealed via Petrography, Anisotropy of Magnetic Susceptibility, Paleomegnetic, and Ground Magnetometry Data”</em></li>
+        </ul>
+		<div class="spacing"></div>			
 	  
         <h4><strong style="color:purple">12th International Conference of Computational Methods in Sciences and Engineering (ICCMSE 2016)</strong>, Athens, Greece, March 17-20, 2016</h4>
         <ul>

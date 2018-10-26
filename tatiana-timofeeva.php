@@ -78,34 +78,12 @@
 		<br>
 	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img src="images/bianca-valencia.jpg" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Bianca Valencia</h4>
-			<br>
-		    <h6 style="display:inline">BS in Biology, New Mexico Highlands University</h6>		
-			<br>	
-			<br>	
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Synthesis of organic compounds for charge transport and magnetic materials</h5>
-			<br>
-		  </div>
-		</div>
-		<br>
-		<br>
-		<br>
-	  	<div class="row">		  
-		  <div class="col-md-3">
 			<img src="images/georgii-bogdanov.JPG" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Georgii Bogdanov</h4>
 			<br>
-		    <h6 style="display:inline">BS in Optical Engineering, University of Information Technologies, Mechanics and Optics (ITMO University), Saint-Petersburg, Russia</h6>		
+		    <h6 style="display:inline">BS and MS in Optical Engineering, University of Information Technologies, Mechanics and Optics (ITMO University), Saint-Petersburg, Russia</h6>		
 			<br>	
 			<br>	
 			<h5 style="display:inline">Graduate Student</h5>
@@ -131,40 +109,55 @@
 			<h5 style="display:inline">Major in Chemistry</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">X-ray structural studies</h5>
+			<h5 style="display:inline">X-ray structural studies of the crystalline products of CO<sub>2</sub> capture by amines</h5>
 			<br>
 		  </div>			
 	    </div>		
+		<br>
+		<br>		
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/no-image.png" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jenna Bustos</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry, Minor in Biology</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">X-ray structural studies of the crystalline products of CO<sub>2</sub> capture by amines</h5>
+			<br>
+		  </div>			
+	    </div>	
+		<br>
+		<br>		
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/no-image.png" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Abbigale Butler</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">X-ray structural studies of the crystalline products of CO<sub>2</sub> capture by amines</h5>
+			<br>
+		  </div>			
+	    </div>			
 	  </div>
 	  
 	  <div class="col-md-6 content">	
-	  	<div class="row">		  
-		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/evgheni-jucov.jpg" width="120px">
-		  </div>
-          <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
-			<br>
-		    <h6 style="display:inline">BS and MS in Physics, Moldova State University</h6>		
-			<br>			
-		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>	
-			<br>			
-		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>			
-			<br>			
-			<br>	
-			<h5 style="display:inline">PREM webmaster</h5>
-			<br>
-		  </div>
-		</div>  
-		<br>
-		<br>
-		<br>
 		<div class="row">		
 		  <div class="col-md-3">
 			<img src="images/chibuike-maximillian-ifeanyi.JPG" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Chibuike Maximillian Ifeanyi</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Maximillian Chibuike</h4>
 			<br>
 		    <h6 style="display:inline">B.Tech in Industrial Chemistry, Federal University of Technology Owerri, Nigeria</h6>		
 			<br>
@@ -189,6 +182,8 @@
 			<br>
 		    <h6 style="display:inline">BS in Laser Technologies and Instrumentation, University of Information Technologies, Mechanics and Optics (ITMO University), Saint-Petersburg, Russia</h6>		
 			<br>
+		    <h6 style="display:inline">MS in Optical Engineering, ITMO University, Saint-Petersburg, Russia</h6>		
+			<br>	
 			<br>	
 			<h5 style="display:inline">Graduate Student</h5>
 			<br>
@@ -199,6 +194,24 @@
 			<br>
 		  </div>
 		</div> 	 
+		<br>
+		<br>
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/no-image.png" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Beatrice Armijo</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">X-ray structural studies of the crystalline products of CO<sub>2</sub> capture by amines</h5>
+			<br>
+		  </div>			
+	    </div>		
 		<br>
 		<br>		
 	  	<div class="row">			
@@ -228,7 +241,7 @@
 			<img style="margin-right:15px" class="pull-left" src="images/marina-fonari.jpg" width="120px">
 		  </div>
           <div class="col-md-9 content">		  
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Marina Fonari</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Marina S. Fonari</h4>
 			<br>
             <h5>Institute of the Applied Physics, Academy of Sciences of Moldova, Chisinau, Moldova</h5>
             <h5>X-ray structural studies of the charge-transfer, optoelectronic, electron-transport, and NLO materials</h5>		
@@ -241,10 +254,10 @@
 			<img style="margin-right:15px" class="pull-left" src="images/victor-khrustalev.jpg" width="120px">
 		  </div>
           <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Victor Khrustalev</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Victor N. Khrustalev</h4>
 			<br>
-            <h5>Peoples’ Friendship University of Russia (RUDN), Moscow, Russia</h5>			
-            <h5>A.N. Nesmeyanov Institute of Organoelement Compounds (INEOS), Russian Academy of Sciences, Moscow, Russia</h5>
+            <h5>Head of the Inorganic Chemistry Department, Peoples’ Friendship University of Russia (RUDN), Moscow, Russia</h5>	
+            <h5>Head of the Research Institute of Chemistry (RIC) at RUDN, Moscow, Russia</h5>			
             <h5>Structural studies of various types of organic, organoelement and inorganic compounds, investigations of specific non-valent interactions, the nature of the chemical bond and pseudosymmetry</h5>
 		  </div>
 		</div>  	  
@@ -263,12 +276,11 @@
 		    <h6 style="display:inline">PhD in Organic Chemistry, Kent State University</h6>		
 			<br>	
 			<br>
-			<h5 style="display:inline">Visiting Research Scientist at Ohio State University, Columbus, OH</h5>
+			<h5 style="display:inline">Postdoctoral Researcher at The Scripps Research Institute, Jupiter, FL</h5>
 			<br>
 		  </div> 
 		</div>
 		<br>	
-		<br>
 		<br>	
 		<div class="row">		
 		  <div class="col-md-3">
@@ -282,13 +294,12 @@
 		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>				
 			<br>
 			<br>	
-			<h5 style="display:inline">Stockroom Manager at NMHU</h5>
+			<h5 style="display:inline">Analytical Chemist at IM Flash Technologies, Lehi, UT</h5>
 			<br>
 			<br>
 		  </div>
 		</div>  		
-		<br>  
-		<br>		
+		<br>  		
 	  	<div class="row">			
 		  <div class="col-md-3">
 			<img src="images/naseer-ali.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -313,9 +324,7 @@
 		  <div class="col-md-9 content">
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Michelle Tuineau</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
-			<br>
-			<h5 style="display:inline"></h5>
+			<h6 style="display:inline">BA in Chemistry, New Mexico Highlands University</h6>
 			<br>
 			<br>			
 			<h5 style="display:inline"></h5>
@@ -333,9 +342,7 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Geneva Poteet</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
-			<br>
-			<h5 style="display:inline"></h5>
+			<h6 style="display:inline"></h6>
 			<br>
 			<br>
 			<h5 style="display:inline"></h5>
@@ -350,7 +357,7 @@
 		  <div class="col-md-9 content">
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">James Foster</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
+			<h6 style="display:inline"></h6>
 			<br>
 			<br>
 			<h5 style="display:inline"></h5>
@@ -392,7 +399,24 @@
 		  </div>	
 		</div>  
 		<br>	  
-		<br>
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img src="images/bianca-valencia.jpg" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Bianca Valencia</h4>
+			<br>
+		    <h6 style="display:inline">BS in Biology, New Mexico Highlands University</h6>			
+			<br>			
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>			
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
+		  </div>
+		</div>		
+		<br>	 
+		<br>	
 		<div class="row">		 	   
 		  <div class="col-md-3">
 			<img src="images/johnny-tuineau.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -400,9 +424,10 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Johnny Tuineau</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
+			<h6 style="display:inline">BA in Chemistry, New Mexico Highlands University</h6>
 			<br>
-			<h5 style="display:inline"></h5>
+			<br>
+			<h5 style="display:inline">Minority Science and Engineering Improvement Program (MSEIP) Student Engagement Coordinator at NMHU</h5>
 			<br>
 			<br>
 		  </div>
@@ -416,12 +441,10 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Logan Wolfel</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
-			<br>
-			<h5 style="display:inline"></h5>
+			<h6 style="display:inline">BS in Biology, New Mexico Highlands University</h6>
 			<br>
 			<br>
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Graduate Medical Student at University of New Mexico, Albuquerque, NM</h5>
 			<br>
 		  </div>
 		</div> 
