@@ -186,7 +186,7 @@
 		<br>
 	  	<div class="row">			
 		  <div class="col-md-3">
-			<img src="images/yuliya-ti.png" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/yuliya-ti.jpg" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Yuliya Ti</h4>
