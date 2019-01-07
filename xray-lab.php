@@ -42,8 +42,8 @@
 	  </ul>
 	  
 	  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-		<a class="popupimage" href="images/xray-1.jpg"><img width="100%" src="images/xray-1.jpg"></a>
-        <p class="text-center">Bruker single-crystal X-ray diffractometer</p>
+		<a class="popupimage" href="images/xray-1.JPG"><img width="100%" src="images/xray-1.JPG"></a>
+        <p class="text-center">Undergraduate student Maria Armijo is mounting crystal using Bruker single-crystal X-ray diffractometer</p>
       </div>
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
         <a class="popupimage" href="images/xray-2.jpg"><img width="100%" src="images/xray-2.jpg"></a>
@@ -57,6 +57,14 @@
         <a class="popupimage" href="images/xray-4.jpg"><img width="100%" src="images/xray-4.jpg"></a>
         <p class="text-center">Dr. Yulia Getmanenko and graduate student Bianca Valencia working on synthesis of organic compounds for charge transport and magnetic materials</p>
       </div>
+      <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+        <a class="popupimage" href="images/xray-5.png"><img width="100%" src="images/xray-5.png"></a>
+        <p class="text-center">Undergraduate student Beatrice Armijo is synthesizing the crystalline products of CO<sub>2</sub> capture</p>
+      </div>
+      <!--<div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+        <a class="popupimage" href="images/xray-6.JPG"><img width="100%" src="images/xray-6.JPG"></a>
+        <p class="text-center">Graduate student  working on synthesis of organic compounds for charge transport and magnetic materials</p>
+      </div>-->	  
     </div>
 
     <div class="modal fade">

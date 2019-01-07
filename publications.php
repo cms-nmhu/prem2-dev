@@ -28,8 +28,15 @@
     <div class="container" style="background:white">
 	  <h2 class="text-center" style="color:purple">Publications</h2>	
       <div class="col-md-10 col-md-offset-1">
+        <h4><strong style="color:purple">2019</strong></h4>
+        <ul>	
+		  <li><h5>Deepak S. Patil, Manisha Konale, Solenn Cozic, Laurent Calvez, Vitezslav Zima, Tomas Wagner, John S. McCloy, David Le Coq. "Percolation behavior of Ag in Ge<sub>16</sub>Sb<sub>12</sub>Se<sub>72</sub> glassy matrix and its impact on corresponding ionic conductivity," <em>Journal of Alloys and Compounds</em>, <strong>2019</strong>, 782, 375-383.</h5></li>		
+        </ul>
+		<div class="spacing"></div>		  
+	  
         <h4><strong style="color:purple">2018</strong></h4>
         <ul>
+		  <li><h5>Yulia A. Getmanenko, Christopher S. Mullins, Vladimir N. Nesterov, Stephanie Lake, Chad Risko, Ezekiel Johnston-Halperin. "Magnetic ordering in a vanadium-organic coordination polymer using a pyrrolo[2,3-<i>d</i>:5,4-<i>d'</i>]bis(thiazole)-based ligand," <em>RSC Adv.</em>, <strong>2018</strong>, 8, 36223.</h5></li>		
 		  <li><h5>Yulia A. Getmanenko, Taylor G. Allen, Hyeongeu Kim, Joel M. Hales, Bhupinder Sandhu, Marina S. Fonari, Kyrill Yu. Suponitsky, Yadong Zhang, Victor N. Khrustalev, Jonathan D. Matichak, Tatiana V. Timofeeva, Stephen Barlow, San-Hui Chi, Joseph W. Perry, Seth R. Marder. "Linear and Third-Order Nonlinear Optical Properties of Chalcogenopyrylium-Terminated Heptamethine Dyes with Rigid, Bulky Substituent," <em>Adv. Funct. Mater.</em>, <strong>2018</strong>, 1804073.</h5></li>
 		  <li><h5>Arcadius V. Krivoshein, Sergey V. Lindeman, Samuel Bentum, Boris B. Averkiev, Victoria Sena, Tatiana V. Timofeeva. "Molecular arrangements in crystals of racemic and enantiopure forms of N-carbamoyl-2-phenylbutyramide and 2-phenylbutyramide: differences and similarities," <em>Zeitschrift für Kristallographie – Crystalline Materials</em>, <strong>2018</strong>, AoP.</h5></li>
 		  <li><h5>Boris Averkiev, Rohan Isaac, Evgheni V. Jucov, Victor N. Khrustalev, Christian Kloc, Laurie E. McNeil, Tatiana V. Timofeeva. "Evidence of Low-Temperature Phase Transition in Tetracene−Tetracyanoquinodimethane Complex," <em>Cryst. Growth Des.</em>, <strong>2018</strong>, 18, 4095-4102.</h5></li>

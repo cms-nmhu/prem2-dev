@@ -29,6 +29,24 @@
       <h2 class="text-center" style="color:purple">Dr. Tatiana Timofeeva Group</h2>
 	  <div class="row">
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/georgii-bogdanov-poster.png" target="_blank"><img width="100%" src="posters/georgii-bogdanov-poster_resize.png"></a>
+		  </div>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/deepak-patil-poster.png" target="_blank"><img width="100%" src="posters/deepak-patil-poster_resize.png"></a>
+		  </div>
+	  </div>
+
+	  <div class="row">
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/evgenii-oskolkov-poster.png" target="_blank"><img width="100%" src="posters/evgenii-oskolkov-poster_resize.png"></a>
+		  </div>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/sergei-rigin-poster.png" target="_blank"><img width="100%" src="posters/sergei-rigin-poster_resize.png"></a>
+		  </div>
+	  </div>
+	  
+	  <div class="row">
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
 			<a href="posters/evgheni-jucov-poster.png" target="_blank"><img width="100%" src="posters/evgheni-jucov-poster_resize.png"></a>
 		  </div>
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
@@ -73,6 +91,15 @@
 	  </div>		  
 
       <h2 class="text-center" style="color:purple">Dr. Jiao Chen Group</h2>
+	  <div class="row">
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/yuwei-zhang-poster.png" target="_blank"><img width="100%" src="posters/yuwei-zhang-poster_resize.png"></a>
+		  </div>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/zack-schroer-poster.png" target="_blank"><img width="100%" src="posters/zack-schroer-poster_resize.png"></a>
+		  </div>
+	  </div>
+	  
 	  <div class="row">
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
 			<a href="posters/narendra-boppana-poster.png" target="_blank"><img width="100%" src="posters/narendra-boppana-poster_resize.png"></a>

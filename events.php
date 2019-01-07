@@ -34,7 +34,18 @@
       <h2 class="text-center" style="color:purple">Events</h2>
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 
-
+        <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/no-image.png">
+          <h4 style="display:inline; vertical-align:top">January 25, 2019    </h4> 
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>Crystallography Workshop</b> conducted by <b>Dr. Sergey Lindeman</b> from <b>Marquette University</b> (Milwaukee, WI) on topic <b>"General Introduction to Crystallography. Twinning"</b> and by <b>Dr. Arkady Ellern</b> from <b>Iowa State University</b> (Ames, IA) on topic <b>"Crystal Mounting Procedure Using Bruker Diffractometer"</b></h4>
+          <br>
+        </li>
+        <br>
+        <br>
+		<br>
+		<br>
 
         <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/daniel-lesse.png">
@@ -49,7 +60,7 @@
         <br>		
 	  
         <li class="col-md-12">
-          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/deepak-patil.JPG">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/deepak-patil.png">
           <h4 style="display:inline; vertical-align:top">September 13, 2018    </h4> 
 		  <br>
 		  <br>

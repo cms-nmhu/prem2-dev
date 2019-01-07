@@ -57,7 +57,7 @@
 	
 	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img src="images/deepak-patil.JPG" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/deepak-patil.png" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Deepak Patil</h4>
@@ -106,7 +106,7 @@
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
+			<h5 style="display:inline">Major in Chemistry and Geology</h5>
 			<br>
 			<br>
 			<h5 style="display:inline">X-ray structural studies of the crystalline products of CO<sub>2</sub> capture by amines</h5>
@@ -114,10 +114,28 @@
 		  </div>			
 	    </div>		
 		<br>
+		<br>	
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/maria-armijo.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Maria Armijo</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">X-ray structural studies of the crystalline products of CO<sub>2</sub> capture by amines</h5>
+			<br>
+		  </div>			
+	    </div>	
+		<br>
 		<br>		
 		<div class="row">
 		  <div class="col-md-3">
-			<img src="images/no-image.png" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/jenna-bustos.JPG" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jenna Bustos</h4>
@@ -132,29 +150,13 @@
 		  </div>			
 	    </div>	
 		<br>
-		<br>		
-		<div class="row">
-		  <div class="col-md-3">
-			<img src="images/no-image.png" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Abbigale Butler</h4>
-			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">X-ray structural studies of the crystalline products of CO<sub>2</sub> capture by amines</h5>
-			<br>
-		  </div>			
-	    </div>			
+		<br>			
 	  </div>
 	  
 	  <div class="col-md-6 content">	
 		<div class="row">		
 		  <div class="col-md-3">
-			<img src="images/chibuike-maximillian-ifeanyi.JPG" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/maximillian-chibuike.png" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Maximillian Chibuike</h4>
@@ -175,14 +177,12 @@
 		<br>
 		<div class="row">		
 		  <div class="col-md-3">
-			<img src="images/sergei-rigin.JPG" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/sergei-rigin.png" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sergei Rigin</h4>
 			<br>
-		    <h6 style="display:inline">BS in Laser Technologies and Instrumentation, University of Information Technologies, Mechanics and Optics (ITMO University), Saint-Petersburg, Russia</h6>		
-			<br>
-		    <h6 style="display:inline">MS in Optical Engineering, ITMO University, Saint-Petersburg, Russia</h6>		
+		    <h6 style="display:inline">BS in Laser Technologies and Instrumentation; MS in Optical Engineering, University of Information Technologies, Mechanics and Optics (ITMO University), Saint-Petersburg, Russia</h6>		
 			<br>	
 			<br>	
 			<h5 style="display:inline">Graduate Student</h5>
@@ -198,14 +198,33 @@
 		<br>
 		<div class="row">
 		  <div class="col-md-3">
-			<img src="images/no-image.png" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/daniel-lesse.png" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Daniel Lesse</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Chemistry</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Synthesis methods and calculation of organic charge-transfer complexes</h5>
+			<br>
+		  </div>			
+	    </div>	
+		<br>
+		<br>		
+		<br>
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/beatrice-armijo.JPG" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Beatrice Armijo</h4>
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
+			<h5 style="display:inline">Major in Chemistry, Minor in Psychology</h5>
 			<br>
 			<br>
 			<h5 style="display:inline">X-ray structural studies of the crystalline products of CO<sub>2</sub> capture by amines</h5>
@@ -213,7 +232,8 @@
 		  </div>			
 	    </div>		
 		<br>
-		<br>		
+		<br>	
+		<br>	
 	  	<div class="row">			
 		  <div class="col-md-3">
 			<img src="images/sofia-antal.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -307,12 +327,12 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Naseer Ali</h4>
 			<br>
-		    <h6 style="display:inline">BS in Biology, University of New Mexico</h6>	
+		    <h6 style="display:inline">BS in Biology, University of New Mexico, Albuquerque, NM</h6>	
 			<br>			
 		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>			
 			<br>
 			<br>
-			<h5 style="display:inline">Chemistry Instructor at Hamadeh Educational Services, Dearborn Highest, MI</h5>
+			<h5 style="display:inline">Chemistry Instructor at Hamadeh Educational Services, Dearborn Heights, MI</h5>
 			<br>
 		  </div>	
 		</div>	
