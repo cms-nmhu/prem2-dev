@@ -36,6 +36,16 @@
         <h5 class="indented">Room: HSCI-235</h5>
         <h5 class="indented">Email: tvtimofeeva@nmhu.edu</h5>
       </div>
+	  
+      <div class="col-md-9 col-xs-12 col-md-offset-3">
+        <h4>Monique Esquibel</h4>
+        <h5 class="indented">PREM Coordinator</h5>
+        <h5 class="indented">New Mexico Highlands University</h5>
+        <h5 class="indented">Las Vegas, NM 87701</h5>
+        <h5 class="indented">Phone: 505-426-2104</h5>
+        <h5 class="indented">Room: HSCI-133</h5>
+        <h5 class="indented">Email: mesquibel@nmhu.edu</h5>
+      </div>	  
     </div>
     <?php include "footer.html" ?>
 

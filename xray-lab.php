@@ -58,7 +58,7 @@
         <p class="text-center">Dr. Yulia Getmanenko and graduate student Bianca Valencia working on synthesis of organic compounds for charge transport and magnetic materials</p>
       </div>
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-        <a class="popupimage" href="images/xray-5.png"><img width="100%" src="images/xray-5.png"></a>
+        <a class="popupimage" href="images/xray-5.jpg"><img width="100%" src="images/xray-5.jpg"></a>
         <p class="text-center">Undergraduate student Beatrice Armijo is synthesizing the crystalline products of CO<sub>2</sub> capture</p>
       </div>
       <!--<div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">

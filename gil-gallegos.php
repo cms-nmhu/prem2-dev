@@ -52,6 +52,8 @@
 	 </div>		  	  
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
+	  <center><img src="images/gil-gallegos-group.jpg" width="70%"></center>
+	  <br>
 	  <div class="row">	  
 	  <div class="col-md-6 content">	
 	  	<div class="row">		  
@@ -75,8 +77,10 @@
 			<br>
 		  </div>
 		</div>  
+		<br>  	
 		<br>
-		<br>	  
+		<br>  	
+		<br>		
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img style="margin-right:15px" class="pull-left" src="images/luis-garcia.jpg" width="120px">
@@ -95,36 +99,19 @@
 			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
 			<br>
 			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
+			<br>	
+			<br>			
+			<h5 style="display:inline">Secured Oracle Software Developer position at Los Alamos National Laboratory, Los Alamos, NM</h5>		
 			<br>
 		  </div>
-		</div>  
-		<br>  	
-		<br>
+		</div>  		
+		<br>		
 		<div class="row">
 		  <div class="col-md-3">
-			<img src="images/jesse-ibarra.png" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/jesse-ibarra.JPG" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jesse Ibarra</h4>
-			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Computer Science, Minor in Combined Sciences</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">MEEP/Python programming simulations involving graphene meta-materials</h5>
-			<br>
-		  </div>			
-	    </div>			
-	  </div>
-	  
-	  <div class="col-md-6 content">	
-	  	<div class="row">		  
-		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/frederick-sena.JPG" width="120px">
-		  </div>
-          <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Frederick Sena</h4>
 			<br>
 		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>						
 			<br>
@@ -134,11 +121,16 @@
 			<h5 style="display:inline">Major in Computer Science</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">Visualization of crystal structure through computer programming</h5>
-		  </div>
-		</div> 
-	    <br>
-		<br>
+			<h5 style="display:inline">MEEP/Python programming simulations involving graphene meta-materials</h5>
+			<br>
+		  </div>			
+	    </div>	
+		<br>  	
+		<br>		
+		
+	  </div>
+	  
+	  <div class="col-md-6 content">	
 	  	<div class="row">			
 		  <div class="col-md-3">
 			<img src="images/henry-chung.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -162,6 +154,31 @@
 		</div>	
 		<br>
 		<br> 
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/frederick-sena.JPG" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Frederick Sena</h4>
+			<br>
+		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>						
+			<br>
+			<br>
+			<h5 style="display:inline">Graduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Computer Science</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
+			<br>
+			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
+			<br>	
+			<br>			
+			<h5 style="display:inline">Secured Oracle Software Developer position at Los Alamos National Laboratory, Los Alamos, NM</h5>
+		  </div>
+		</div> 		
+		<br>
+		<br>		
 	  </div>
 	  </div>
 	  
@@ -177,11 +194,26 @@
 		    <h6 style="display:inline">BS and MS in Computer Science, New Mexico Highlands University</h6>		
 			<br>
 			<br>	
-			<h5 style="display:inline">Working at Los Alamos National Laboratory, Los Alamos, NM</h5>
+			<h5 style="display:inline">Oracle Software Developer at Los Alamos National Laboratory, Los Alamos, NM</h5>
 			<br>
 		  </div>
 		</div> 
 		<br>	
+	  	<!--<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/luis-garcia.jpg" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Luis Garcia</h4>
+			<br>
+		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>						
+			<br>
+			<br>
+			<h5 style="display:inline">Oracle Software Developer at Los Alamos National Laboratory, Los Alamos, NM</h5>			
+			<br>
+		  </div>
+		</div>  		
+		<br>-->
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/ahmad-shabaneh.jpg" width="120px">
@@ -197,8 +229,6 @@
 		  </div>
 		</div>  
 	    <br>
-	
-
 		<div class="row">		
 		  <div class="col-md-3">
 			<img src="images/zhengyu-pan.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -233,6 +263,21 @@
 		  </div>	
 		</div> 
 		<br>	
+	  	<!--<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/frederick-sena.JPG" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Frederick Sena</h4>
+			<br>
+		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>						
+			<br>
+			<br>
+			<h5 style="display:inline">Oracle Software Developer at Los Alamos National Laboratory, Los Alamos, NM</h5>
+		  </div>
+		</div> 		
+		<br>
+		<br>-->
 	  	<div class="row">	  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/jared-leyba.jpg" width="120px">

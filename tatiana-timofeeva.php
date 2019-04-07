@@ -52,22 +52,21 @@
 	 </div> 
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
+	  <center><img src="images/tatiana-timofeeva-group.jpg" width="70%"></center>
+	  <br>
 	  <div class="row">
 	  <div class="col-md-6 content">
-	
 	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img src="images/deepak-patil.png" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/muhammad-usman.jpg" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Deepak Patil</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Muhammad Usman</h4>
 			<br>
-		    <h6 style="display:inline">PhD in Chemistry, University of Pardubice, Pardubice, Czech Republic</h6>		
+		    <h6 style="display:inline">PhD in Chemistry, Academia Sinica, Taipei, Taiwan</h6>		
 			<br>
 			<br>
-			<h5 style="display:inline">Post-doctoral research associate at NMHU</h5>
-			<br>			
-			<h5 style="display:inline">Visiting Scholar at Washington State University</h5>
+			<h5 style="display:inline">Postdoctoral researcher</h5>
 			<br>					
 			<br>
 			<h5 style="display:inline">Synthesis of metal organic framework (MOF): study of their optical and magnetic properties</h5>
@@ -76,9 +75,11 @@
 		</div>
 		<br>
 		<br>
+		<br>
+		<br>
 	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img src="images/georgii-bogdanov.JPG" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/georgii-bogdanov.png" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Georgii Bogdanov</h4>
@@ -150,7 +151,7 @@
 		  </div>			
 	    </div>	
 		<br>
-		<br>			
+		<br>		
 	  </div>
 	  
 	  <div class="col-md-6 content">	
@@ -234,22 +235,24 @@
 		<br>
 		<br>	
 		<br>	
-	  	<div class="row">			
+		<div class="row">
 		  <div class="col-md-3">
-			<img src="images/sofia-antal.JPG" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/jason-marquez.JPG" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sofia Antal</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jason Marquez</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student at University of Colorado Boulder</h5>
+			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
+			<h5 style="display:inline">Major in Chemistry, Minor in Physics</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">Synthesis and physico-chemical studies of cocrystals for potential pharmaceutical applications</h5>
+			<h5 style="display:inline">Synthesis methods and calculation of organic charge-transfer complexes</h5>
 			<br>
-		  </div>	
-		</div>	
+		  </div>			
+	    </div>	
+		<br>
+		<br>			
 	  </div>
 	  </div>
 	  
@@ -302,6 +305,21 @@
 		</div>
 		<br>	
 		<br>	
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img src="images/deepak-patil.png" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Deepak Patil</h4>
+			<br>
+		    <h6 style="display:inline">PhD in Chemistry, University of Pardubice, Pardubice, Czech Republic</h6>		
+			<br>
+			<br>
+			<h5 style="display:inline">Postdoctoral Researcher at Alfred University, Alfred, NY</h5>
+			<br>
+		  </div>
+		</div>
+		<br>	
 		<div class="row">		
 		  <div class="col-md-3">
 			<img src="images/xu-wang.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -320,6 +338,23 @@
 		  </div>
 		</div>  		
 		<br>  		
+		<div class="row">		
+		  <div class="col-md-3">
+			<img src="images/carlos-ordonez.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Carlos Ordonez</h4>
+			<br>	
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>				
+			<br>
+			<br>	
+			<h5 style="display:inline">Process Chemist at IM Flash Technologies, Lehi, UT</h5>
+			<br>
+			<br>
+		  </div>
+		</div>  		
+		<br>  		
+		<br>
 	  	<div class="row">			
 		  <div class="col-md-3">
 			<img src="images/naseer-ali.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -347,7 +382,7 @@
 			<h6 style="display:inline">BA in Chemistry, New Mexico Highlands University</h6>
 			<br>
 			<br>			
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Working in Seattle, WA</h5>
 			<br>
 		  </div>
 		</div>  
@@ -419,6 +454,8 @@
 		  </div>	
 		</div>  
 		<br>	  
+		<br>
+		<br>
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img src="images/bianca-valencia.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -431,12 +468,27 @@
 		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>			
 			<br>
 			<br>
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Analyst at Hall Environmental Analysis Laboratory (HEAL), Albuquerque, NM</h5>
 			<br>
 		  </div>
 		</div>		
-		<br>	 
-		<br>	
+		<br>	 	
+		<div class="row">		
+		  <div class="col-md-3">
+			<img src="images/raul-castaneda.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Luis Raul Castaneda</h4>
+			<br>	
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>				
+			<br>
+			<br>	
+			<h5 style="display:inline">PhD Student at University of Ottawa, Ottawa, Canada</h5>
+			<br>
+			<br>
+		  </div>
+		</div>  		
+		<br>  		
 		<div class="row">		 	   
 		  <div class="col-md-3">
 			<img src="images/johnny-tuineau.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -447,7 +499,7 @@
 			<h6 style="display:inline">BA in Chemistry, New Mexico Highlands University</h6>
 			<br>
 			<br>
-			<h5 style="display:inline">Minority Science and Engineering Improvement Program (MSEIP) Student Engagement Coordinator at NMHU</h5>
+			<h5 style="display:inline">Physician Assistant at Touro University Nevada, Henderson, NV</h5>
 			<br>
 			<br>
 		  </div>
@@ -482,7 +534,21 @@
 			<h5 style="display:inline"></h5>
 			<br>
 		  </div>	
-		</div>		
+		</div>	
+		<br>
+		<br>	
+	  	<div class="row">			
+		  <div class="col-md-3">
+			<img src="images/sofia-antal.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sofia Antal</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student at University of Colorado Boulder</h5>
+			<br>
+			<br>
+		  </div>	
+		</div>			
 	  </div>		  
     </div>
 
