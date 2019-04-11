@@ -30,6 +30,8 @@
       <div class="col-md-10 col-md-offset-1">
         <h4><strong style="color:purple">2019</strong></h4>
         <ul>	
+		  <li><h5>John P. Tillotson, Georgii Bogdanov, Evgheni V. Jucov, Victor N. Khrustalev, Sergei Rigin, Joel M. Hales, Joseph W. Perry, Tatiana V. Timofeeva. "Synthesis, structure, linear and nonlinear properties of Tricyanofuran–Terminated merocyanine dyes," <em>Journal of Molecular Structure</em>, <strong>2019</strong>, In Press.</h5></li>	
+		  <li><h5>Alexander Yu. Mitrofanov, Yoann Rousselin, Victor N. Khrustalev, Andrey V. Cheprakov, Alla Bessmertnykh-Lemeune, Irina P. Beletskaya. "Facile Synthesis and Self-Assembly of Zinc (2-Diethoxyphosphorylethynyl) porphyrins," <em>Eur. J. Inorg. Chem.</em>, <strong>2019</strong>, 1313-1328.</h5></li>	
 		  <li><h5>Siyuan Zhang, Karttikay Moudgil, Evgheni Jucov, Chad Risko, Tatiana V. Timofeeva, Seth R. Marder, Stephen Barlow. "Organometallic hydride-transfer agents as reductants for organic semiconductor molecules," <em>Inorganica Chimica Acta</em>, <strong>2019</strong>, 489, 67-77.</h5></li>
 		  <li><h5>Ananda S. Amarasekara, Shahrukh R. Ali, Harshica Fernando, Victoria Sena, Tatiana V. Timofeeva. "A comparison of homogeneous and heterogeneous Brønsted acid catalysts in the reactions of <i>meso</i>-erythritol with aldehyde/ketones," <em>SN Applied Sciences</em>, <strong>2019</strong>, 1(3), 212.</h5></li>
 		  <li><h5>Deepak S. Patil, Manisha Konale, Solenn Cozic, Laurent Calvez, Vitezslav Zima, Tomas Wagner, John S. McCloy, David Le Coq. "Percolation behavior of Ag in Ge<sub>16</sub>Sb<sub>12</sub>Se<sub>72</sub> glassy matrix and its impact on corresponding ionic conductivity," <em>Journal of Alloys and Compounds</em>, <strong>2019</strong>, 782, 375-383.</h5></li>		
