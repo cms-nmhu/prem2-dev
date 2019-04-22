@@ -55,7 +55,7 @@
       </div>	  
 	  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
         <a class="popupimage" href="images/rock-lab-7.jpg"><img width="100%" src="images/rock-lab-7.jpg"></a>
-        <p class="text-center">Thermal Demagnetizer Model TD-48-SC</p>
+        <p class="text-center">Magnetically shielded cylinder-shaped measurement chamber cooled to superconducting temperatures</p>
       </div>
       <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
         <a class="popupimage" href="images/rock-lab-8.jpg"><img width="100%" src="images/rock-lab-8.jpg"></a>

@@ -233,8 +233,7 @@
 		  </div>			
 	    </div>		
 		<br>
-		<br>	
-		<br>	
+		<br>		
 		<div class="row">
 		  <div class="col-md-3">
 			<img src="images/jason-marquez.JPG" width="120px" class="pull-left" style="margin-right:15px">

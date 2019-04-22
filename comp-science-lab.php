@@ -44,6 +44,10 @@
         <a class="popupimage" href="images/comp-lab-4.JPG"><img width="100%" src="images/comp-lab-4.JPG"></a>
         <p class="text-center">Graduate students Jared Leyba, Luis Garcia and Rosario Vasquez working on computational studies of plasmonic meta-materials</p>
       </div>
+      <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+        <a class="popupimage" href="images/comp-lab-5.JPG"><img width="100%" src="images/comp-lab-5.JPG"></a>
+        <p class="text-center">High-performance computing cluster</p>
+      </div>	  
     </div>
 	
     <div class="modal fade">

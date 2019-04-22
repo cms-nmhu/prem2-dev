@@ -29,6 +29,33 @@
       <h2 class="text-center" style="color:purple">Dr. Tatiana Timofeeva Group</h2>
 	  <div class="row">
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/georgii-bogdanov-john-tillotson-rd19-poster.png" target="_blank"><img width="100%" src="posters/georgii-bogdanov-john-tillotson-rd19-poster_resize.png"></a>
+		  </div>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/sergei-rigin-john-tillotson-rd19-poster.png" target="_blank"><img width="100%" src="posters/sergei-rigin-john-tillotson-rd19-poster_resize.png"></a>
+		  </div>
+	  </div>
+
+	  <div class="row">
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/daniel-lesse-rd19-poster.png" target="_blank"><img width="100%" src="posters/daniel-lesse-rd19-poster_resize.png"></a>
+		  </div>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/beatrice-armijo-rd19-poster.png" target="_blank"><img width="100%" src="posters/beatrice-armijo-rd19-poster_resize.png"></a>
+		  </div>
+	  </div>
+
+	  <div class="row">
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/jenna-bustos-rd19-poster.png" target="_blank"><img width="100%" src="posters/jenna-bustos-rd19-poster_resize.png"></a>
+		  </div>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/victoria-sena-rd19-poster.png" target="_blank"><img width="100%" src="posters/victoria-sena-rd19-poster_resize.png"></a>
+		  </div>
+	  </div>	  
+	  
+	  <div class="row">
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
 			<a href="posters/georgii-bogdanov-poster.png" target="_blank"><img width="100%" src="posters/georgii-bogdanov-poster_resize.png"></a>
 		  </div>
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
@@ -93,10 +120,10 @@
       <h2 class="text-center" style="color:purple">Dr. Jiao Chen Group</h2>
 	  <div class="row">
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/yuwei-zhang-poster.png" target="_blank"><img width="100%" src="posters/yuwei-zhang-poster_resize.png"></a>
+			<a href="posters/yuwei-zhang-pittcon19-poster.png" target="_blank"><img width="100%" src="posters/yuwei-zhang-pittcon19-poster_resize.png"></a>
 		  </div>
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/zack-schroer-poster.png" target="_blank"><img width="100%" src="posters/zack-schroer-poster_resize.png"></a>
+			<a href="posters/zackery-schroer-pittcon19-poster.png" target="_blank"><img width="100%" src="posters/zackery-schroer-pittcon19-poster_resize.png"></a>
 		  </div>
 	  </div>
 	  
@@ -110,6 +137,14 @@
 	  </div>	  
 	  
       <h2 class="text-center" style="color:purple">Dr. Gil Gallegos Group</h2>
+	  <div class="row">
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/jesse-ibarra-rd19-poster.png" target="_blank"><img width="100%" src="posters/jesse-ibarra-rd19-poster_resize.png"></a>
+		  </div>	  
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/henry-chung-rd19-poster.png" target="_blank"><img width="100%" src="posters/henry-chung-rd19-poster_resize.png"></a>
+		  </div>
+	  </div>	  
 	  <div class="row">
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
 			<a href="posters/gil-gallegos-poster.png" target="_blank"><img width="100%" src="posters/gil-gallegos-poster_resize.png"></a>

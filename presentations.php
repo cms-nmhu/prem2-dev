@@ -29,6 +29,31 @@
 	  <h2 class="text-center" style="color:purple">Presentations</h2>
       <div class="col-md-10 col-md-offset-1"> 
 	  
+	  <h3><strong style="color:purple">2019</strong></h3>
+	  <div class="spacing"></div>		  
+	  
+        <h4><strong style="color:purple">The 16th Annual NMHU Faculty and Student Research and Creative Showcase Day</strong>, Las Vegas, NM, April 12, 2019</h4>
+        <ul>
+		  <li>Georgii Bogdanov, John Tillotson, Sergei Rigin, Tatiana Timofeeva. <em>“Synthesis, Structure, Linear and Nonlinear Properties of Tricyanofuran–Terminated Merocyanine Dyes”</em></li>	
+		  <li>Sergei Rigin, Georgii Bogdanov, John Tillotson, Tatiana Timofeeva. <em>“Polymorphic diversity of thiobarbituric acid derivatives”</em></li>		  
+		  <li>Daniel Lesse, Sergei Rigin, Tatiana Timofeeva. <em>“Co-Crystallization of Benzoquinone Derivatives with Multi-Ring Aromatics: Experimental Design, Technique, and Analysis”</em></li>
+		  <li>Beatrice Armijo, Sergei Rigin, Tatiana Timofeeva. <em>“Single Crystal X-ray Analysis of Novel Phenylbutyramide Polymorph”</em></li>		  
+		  <li>Jenna Bustos, Georgii Bogdanov, Tatiana Timofeeva. <em>“X-ray Structural Study of Two-Photon Absorption Materials for Potential Use in Photodynamic Therapy”</em></li>
+		  <li>Victoria Sena and Tatiana Timofeeva. <em>“Carbon Dioxide Capture and Sequestration by Amines”</em></li>		  
+		  <li>Maximillian Chibuike, Deepak Patil, Tatiana Timofeeva. <em>“Synthesis and characterization of Iron containing MOFs for environmental remediation”</em></li>
+		  <li>Henry Chung, Jesse Ibarra, Jared Leyba, Gil Gallegos. <em>“Plasmonic Simulation Prediction Using Convolutional Neural Network”</em></li>
+		  <li>Jesse Ibarra, Henry Chung, Jared Leyba, Gil Gallegos. <em>“Waveform Prediction for Plasmonic Modeling Using Machine Learning”</em></li>
+		  <li>Yuwei Zhang and Jiao Chen. <em>“Size Effect of Gold Nanoparticles on Graphene Quantum Dots’ Fluorescence Intensity”</em></li>		  
+        </ul>
+		<div class="spacing"></div>	  
+	  
+        <h4><strong style="color:purple">Pittcon 2019 Conference & Expo</strong>, Philadelphia, PA, March 17-21, 2019</h4>
+        <ul>
+		  <li>Yuwei Zhang, Zackery S. Schroer, Jiao Chen. <em>“Fluorescence quenching effect of gold nanoparticles on graphene quantum dots”</em></li>
+          <li>Zackery S. Schroer, Xu Wu, Jiao Chen, Julia Xiaojun Zhao. <em>“Facile Synthesis of Highly Fluorescent Graphene Quantum Dots and their Excellent Stability in Various Controlled Experiments”</em></li>
+        </ul>
+		<div class="spacing"></div>		  
+	  
 	  <h3><strong style="color:purple">2018</strong></h3>
 	  <div class="spacing"></div>	  
 	  
@@ -40,7 +65,7 @@
 	  
 		<h4><strong style="color:purple">2018 Sustainable Industrial Processing Summit and Exhibition</strong>, Rio de Janeiro, Brazil, November 2-8, 2018</h4>
         <ul>
-		  <li>Georgii Bogdanov, Tatiana V. Timofeeva. <em>“Growth of different conformation by vapor deposition”</em></li>
+		  <li>Georgii Bogdanov, Tatiana V. Timofeeva. <em>“Growth of different polymorphs by vapor deposition”</em></li>
         </ul>
 		<div class="spacing"></div>	
 
@@ -48,6 +73,9 @@
         <ul>
 		  <li>Georgii Bogdanov, John P. Tillotson, Joseph Perry, Tatiana V. Timofeeva. <em>“Structure and properties of new push-pull molecules”</em><b> (Oral presentation)</b></li>
 		  <li>Sergei Rigin, John Tillotson, Joseph Perry, Victor N. Khrustalev, Georgii Bogdanov, Tatiana Timofeeva. <em>“X-ray and DFT studies of novel thiobarbituric chromophores with nonlinear optical properties”</em></li>
+		  <li>Maximillian Chibuike, Deepak S. Patil, Tatiana Timofeeva. <em>“Synthesis and characterization of iron containing MOFs for environmental remediation”</em></li>
+		  <li>Yuwei Zhang, Zackery Schroer, Jiao Chen. <em>“Fluorescence quenching effect of gold nanoparticles on graphene quantum dots”</em></li>		  
+		  <li>Zackery Schroer, Xu Wang, Jiao Chen. <em>“Facile Synthesis of Highly Fluorescent Graphene Quantum Dots and their Excellent Stability in Various Controlled Experiments”</em></li>
         </ul>
 		<div class="spacing"></div>				
 		

@@ -35,11 +35,11 @@
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 
         <li class="col-md-12">
-          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/no-image.png">
-          <h4 style="display:inline; vertical-align:top">January 25, 2019    </h4> 
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/sergey-lindeman.JPG">
+          <h4 style="display:inline; vertical-align:top">January 25, 2019    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#jan25-2019"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline"><b>Crystallography Workshop</b> conducted by <b>Dr. Sergey Lindeman</b> from <b>Marquette University</b> (Milwaukee, WI) on topic <b>"General Introduction to Crystallography. Twinning"</b> and by <b>Dr. Arkady Ellern</b> from <b>Iowa State University</b> (Ames, IA) on topic <b>"Crystal Mounting Procedure Using Bruker Diffractometer"</b></h4>
+          <h4 style="display:inline"><b>Crystallography Workshop</b> conducted by <b>Dr. Sergey Lindeman</b> from <b>Marquette University</b> (Milwaukee, WI) on topic <b>"General Introduction to Crystallography. Twinning"</b></h4>
           <br>
         </li>
         <br>
@@ -47,6 +47,19 @@
 		<br>
 		<br>
 
+        <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/arkady-ellern.JPG">
+          <h4 style="display:inline; vertical-align:top">January 25, 2019    </h4> 
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>Crystallography Workshop</b> conducted by <b>Dr. Arkady Ellern</b> from <b>Iowa State University</b> (Ames, IA) on topic <b>"Crystal Mounting Procedure Using Bruker Diffractometer"</b></h4>
+          <br>
+        </li>
+        <br>
+        <br>
+		<br>
+		<br>		
+		
         <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/daniel-lesse.png">
           <h4 style="display:inline; vertical-align:top">September 27, 2018    </h4> 
@@ -210,6 +223,54 @@
     </div>
 
     <?php include "footer.html" ?>
+	
+    <div class="modal fade" id="jan25-2019" style="display:none" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div id="jan25images" class="carousel slide" data-ride="carousel">
+
+            <ol class="carousel-indicators">
+              <li data-target="#jan25images" data-slide-to="0" class="active"></li>
+              <li data-target="#jan25images" data-slide-to="1"></li>
+              <li data-target="#jan25images" data-slide-to="2"></li>
+              <li data-target="#jan25images" data-slide-to="3"></li>
+			  <li data-target="#jan25images" data-slide-to="4"></li>
+			  <li data-target="#jan25images" data-slide-to="5"></li>
+            </ol>
+
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="events/2019-01-25/crystallography-workshop-2019-01.jpg">
+              </div>
+              <div class="item">
+                <img src="events/2019-01-25/crystallography-workshop-2019-02.jpg">
+              </div>
+              <div class="item">
+                <img src="events/2019-01-25/crystallography-workshop-2019-03.jpg">
+              </div>
+              <div class="item">
+                <img src="events/2019-01-25/crystallography-workshop-2019-04.jpg">
+              </div>
+              <div class="item">
+                <img src="events/2019-01-25/crystallography-workshop-2019-05.jpg">
+              </div>
+              <div class="item">
+                <img src="events/2019-01-25/crystallography-workshop-2019-06.jpg">
+              </div>			  
+            </div>
+
+            <a class="left carousel-control" href="#jan25images" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#jan25images" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div>
+      </div> 
+    </div>		
 	
     <div class="modal fade" id="apr5-2018" style="display:none" aria-hidden="true">
       <div class="modal-dialog">
