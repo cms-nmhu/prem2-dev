@@ -52,6 +52,7 @@
 	 </div>		  	  
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
+	  <div class="row">	 
 	  <div class="col-md-6 content">	
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
@@ -60,7 +61,7 @@
 		  <div class="col-md-9 content">
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sindy Lauricella</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
+			<h5 style="display:inline">Graduate Student</h5>
 			<br>
 			<h5 style="display:inline">Major in Environmental Geology</h5>
 			<br>
@@ -70,31 +71,17 @@
 		  </div>
 		</div> 
 	    <br>
-
-        <br>		
+		
 	  </div>	
+	  </div>
 
-	  <div class="col-md-6 content">	
-	  	<div class="row">		  
-		  <div class="col-md-3 content">
-			<img style="margin-right:15px" class="pull-left" src="images/jose-sandoval.JPG" width="120px">
-		  </div> 	
-		  <div class="col-md-9 content">
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jose Antonio Cervantes Sandoval</h4>
-			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Environmental Geology</h5>
-			<br>
-			<br>			
-			<h5 style="display:inline">Magnetic properties studies of the different compounds</h5>
-			<br>
-		  </div>
-		</div>   
+	  <!--<div class="col-md-6 content">	
+  
 	    <br>
-	  </div>	  
+	  </div>-->	  
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Former Members</h3>
+	  <div class="row">	 
 	  <div class="col-md-6 content">	
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
@@ -111,6 +98,19 @@
 		  </div>
 		</div>  
 		</br>	
+	  	<div class="row">		  
+		  <div class="col-md-3 content">
+			<img style="margin-right:15px" class="pull-left" src="images/jose-sandoval.JPG" width="120px">
+		  </div> 	
+		  <div class="col-md-9 content">
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jose Cervantes Sandoval</h4>
+			<br>	
+			<br>	
+			<h5 style="display:inline">Working at Catalina Island Conservancy, Long Beach, CA</h5>
+			<br>
+		  </div>
+		</div> 
+		<br>	
 	  </div>	
 
 	  <div class="col-md-6 content">	
@@ -129,7 +129,8 @@
 		  </div>
 		</div>  
 	    <br>
-	  </div>	  
+	  </div>	
+      </div>	  
     </div>
 
     <?php include "footer.html" ?>
