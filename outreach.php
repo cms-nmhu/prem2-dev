@@ -30,6 +30,20 @@
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 	  
         <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/girls-can.JPG">
+          <h4 style="display:inline; vertical-align:top">May 16, 2019    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#may16-2019"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>American Association of University's Women Girls Can! event</b></h4>
+          <br>
+		  <br>
+        </li>
+        <br>
+        <br>	
+        <br>	  
+		<br>
+	  
+        <li class="col-md-12">
           <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="images/mesa.png">
           <h4 style="display:inline; vertical-align:top">February 28, 2019    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#feb28-2019"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
@@ -92,7 +106,7 @@
         <br>		  
 	  
         <li class="col-md-12">
-          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/nmhulogoEvents.png">
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="images/summer-camp.jpg">
           <h4 style="display:inline; vertical-align:top">Summer 2016    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#sum-2016"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
@@ -130,7 +144,7 @@
         <br>	  			  
 	  
         <li class="col-md-12">
-          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/nmhulogoEvents.png">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/stem-day.JPG">
           <h4 style="display:inline; vertical-align:top">November 12, 2015    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#nov12-2015"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
@@ -143,7 +157,7 @@
         <br>		
 		
         <li class="col-md-12">
-          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/nmhulogoEvents.png">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/jennifer-lindline.jpg">
           <h4 style="display:inline; vertical-align:top">October 9, 2015</h4>
           <br>
 		  <br>
@@ -199,6 +213,88 @@
         </div>
       </div> 
     </div>-->	
+
+    <div class="modal fade" id="may16-2019" style="display:none" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div id="may16images" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#may16images" data-slide-to="0" class="active"></li>
+              <li data-target="#may16images" data-slide-to="1"></li>
+              <li data-target="#may16images" data-slide-to="2"></li>
+              <li data-target="#may16images" data-slide-to="3"></li>
+              <li data-target="#may16images" data-slide-to="4"></li>
+              <li data-target="#may16images" data-slide-to="5"></li>
+              <li data-target="#may16images" data-slide-to="6"></li>
+              <li data-target="#may16images" data-slide-to="7"></li>
+              <li data-target="#may16images" data-slide-to="8"></li>
+              <li data-target="#may16images" data-slide-to="9"></li>
+              <li data-target="#may16images" data-slide-to="10"></li>
+              <li data-target="#may16images" data-slide-to="11"></li>
+              <li data-target="#may16images" data-slide-to="12"></li>
+              <li data-target="#may16images" data-slide-to="13"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="outreach/2019-05-16/girls-can-01.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-02.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-03.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-04.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-05.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-06.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-07.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-08.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-09.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-10.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-11.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-12.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-13.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2019-05-16/girls-can-14.JPG">
+              </div>
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#may16images" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#may16images" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div><!-- end modal-content -->
+      </div> <!-- end modal-dialog -->
+    </div> <!-- end Modal -->	
 
     <div class="modal fade" id="feb28-2019" style="display:none" aria-hidden="true">
       <div class="modal-dialog">
