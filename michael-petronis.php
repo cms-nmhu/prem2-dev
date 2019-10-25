@@ -105,7 +105,9 @@
 		  <div class="col-md-9 content">
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jose Cervantes Sandoval</h4>
 			<br>	
+			<h6 style="display:inline">BS in Environmental Geology, New Mexico Highlands University</h6>			
 			<br>	
+			<br>			
 			<h5 style="display:inline">Working at Catalina Island Conservancy, Long Beach, CA</h5>
 			<br>
 		  </div>

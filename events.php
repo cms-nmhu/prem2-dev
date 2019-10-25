@@ -35,6 +35,33 @@
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 
         <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/paulo-oemig.jpg">
+          <h4 style="display:inline; vertical-align:top">October 23, 2019    </h4> 
+		  <br>
+		  <br>
+          <h4 style="display:inline"><b>Dr. Paulo Oemig</b> (Director at <b>New Mexico Space Grant Consortium & NASA EPSCoR</b> at Las Cruces, NM) gives a presentation about <b>the opportunities within New Mexico Space Grant for STEM students</b></h4>
+          <br>
+        </li>
+        <br>
+		<br>
+        <br>
+		<br>
+		<br>
+
+        <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/erik-yukl.JPG">
+          <h4 style="display:inline; vertical-align:top">October 16, 2019    </h4> 
+		  <br>
+		  <br>
+          <h4 style="display:inline"><b>Dr. Erik Yukl</b> from <b>New Mexico State University</b> gives a presentation on topic <b>"Graduate Opportunities in Chemistry and Biochemistry at NMSU: Structure and Function of Bacterial Metalloproteins"</b></h4>
+          <br>
+        </li>
+        <br>
+		<br>
+        <br>
+		<br>	  
+
+        <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/sergey-lindeman.JPG">
           <h4 style="display:inline; vertical-align:top">January 25, 2019    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#jan25-2019"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>

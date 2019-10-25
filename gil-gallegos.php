@@ -83,12 +83,12 @@
 		<br>		
 	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/luis-garcia.jpg" width="120px">
+			<img style="margin-right:15px" class="pull-left" src="images/viktor-glebov.JPG" width="120px">
 		  </div>
           <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Luis Garcia</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Viktor Glebov</h4>
 			<br>
-		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>						
+		    <h6 style="display:inline">BS and MS in Optotechnics, University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, Russia</h6>						
 			<br>
 			<br>
 			<h5 style="display:inline">Graduate Student</h5>
@@ -96,16 +96,12 @@
 			<h5 style="display:inline">Major in Computer Science</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
-			<br>
-			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
+			<h5 style="display:inline">Using machine learning in materials science</h5>			
 			<br>	
-			<br>			
-			<h5 style="display:inline">Secured Oracle Software Developer position at Los Alamos National Laboratory, Los Alamos, NM</h5>		
-			<br>
 		  </div>
 		</div>  		
-		<br>		
+		<br>	
+		<br>	
 		<div class="row">
 		  <div class="col-md-3">
 			<img src="images/jesse-ibarra.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -156,12 +152,12 @@
 		<br> 
 	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/frederick-sena.JPG" width="120px">
+			<img style="margin-right:15px" class="pull-left" src="images/svetlana-riabova.JPG" width="120px">
 		  </div>
           <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Frederick Sena</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Svetlana Riabova</h4>
 			<br>
-		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>						
+		    <h6 style="display:inline">BS in Applied Mathematics in Economics, Saint Petersburg State University of Economics, Saint Petersburg, Russia</h6>						
 			<br>
 			<br>
 			<h5 style="display:inline">Graduate Student</h5>
@@ -169,12 +165,29 @@
 			<h5 style="display:inline">Major in Computer Science</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
+			<h5 style="display:inline">Using machine learning in materials science</h5>
 			<br>
-			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
+		  </div>
+		</div> 		
+		<br>
+		<br>		
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/christopher-torres.JPG" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Christopher Torres</h4>
+			<br>
+		    <h6 style="display:inline">BA in Mathematics, New Mexico Highlands University</h6>						
+			<br>
+			<br>
+			<h5 style="display:inline">Graduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Computer Science</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Using machine learning in materials science</h5>
 			<br>	
-			<br>			
-			<h5 style="display:inline">Secured Oracle Software Developer position at Los Alamos National Laboratory, Los Alamos, NM</h5>
 		  </div>
 		</div> 		
 		<br>
@@ -184,6 +197,21 @@
 	  
       <h3 class="col-md-12 text-center" style="color:purple">Former Members</h3>
 	  <div class="col-md-6 content">	
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/luis-garcia.jpg" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Luis Garcia</h4>
+			<br>
+		    <h6 style="display:inline">BS and MS in Computer Science, New Mexico Highlands University</h6>						
+			<br>
+			<br>
+			<h5 style="display:inline">Oracle Software Developer at Los Alamos National Laboratory, Los Alamos, NM</h5>
+			<br>	
+		  </div>
+		</div>  
+		<br>	
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/rosario-vasquez.jpg" width="120px">
@@ -199,21 +227,6 @@
 		  </div>
 		</div> 
 		<br>	
-	  	<!--<div class="row">		  
-		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/luis-garcia.jpg" width="120px">
-		  </div>
-          <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Luis Garcia</h4>
-			<br>
-		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>						
-			<br>
-			<br>
-			<h5 style="display:inline">Oracle Software Developer at Los Alamos National Laboratory, Los Alamos, NM</h5>			
-			<br>
-		  </div>
-		</div>  		
-		<br>-->
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/ahmad-shabaneh.jpg" width="120px">
@@ -247,6 +260,22 @@
 	  </div>		
 
 	  <div class="col-md-6 content">	
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/frederick-sena.JPG" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Frederick Sena</h4>
+			<br>
+		    <h6 style="display:inline">BS and MS in Computer Science, New Mexico Highlands University</h6>						
+			<br>
+			<br>
+			<h5 style="display:inline">Oracle Software Developer at Los Alamos National Laboratory, Los Alamos, NM</h5>
+			<br>
+		  </div>
+		</div> 	
+		<br>	
+		<br>
 		<div class="row">
 		  <div class="col-md-3">
 			<img src="images/jhansirani-munukuri.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -256,28 +285,15 @@
 			<br>
 		    <h6 style="display:inline">B.Tech and M.Tech in Computer Science Engineering, Jawaharlal Nehru Technological University, India</h6>		
 			<br>
+		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>				
+			<br>
 			<br>	
-			<h5 style="display:inline">Graduate Student at NMHU</h5>
+			<h5 style="display:inline">Optional Practical Training (OPT), Odessa, TX</h5>
 			<br>			
 			<br>
 		  </div>	
 		</div> 
 		<br>	
-	  	<!--<div class="row">		  
-		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/frederick-sena.JPG" width="120px">
-		  </div>
-          <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Frederick Sena</h4>
-			<br>
-		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>						
-			<br>
-			<br>
-			<h5 style="display:inline">Oracle Software Developer at Los Alamos National Laboratory, Los Alamos, NM</h5>
-		  </div>
-		</div> 		
-		<br>
-		<br>-->
 	  	<div class="row">	  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/jared-leyba.jpg" width="120px">
@@ -288,7 +304,7 @@
 		    <h6 style="display:inline">BS and MS in Computer Science, New Mexico Highlands University</h6>								
 			<br>				
 			<br>			
-			<h5 style="display:inline">Visiting Professor of Computer Science at NMHU</h5>
+			<h5 style="display:inline">Research Scientist at Sandia National Laboratories, Albuquerque, NM</h5>
 			<br>
 		  </div> 
 		</div>

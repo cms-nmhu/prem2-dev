@@ -75,16 +75,14 @@
 		</div>
 		<br>
 		<br>
-		<br>
-		<br>
 	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img src="images/georgii-bogdanov.png" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/evgenii-oskolkov.JPG" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Georgii Bogdanov</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgenii Oskolkov</h4>
 			<br>
-		    <h6 style="display:inline">BS and MS in Optical Engineering, University of Information Technologies, Mechanics and Optics (ITMO University), Saint-Petersburg, Russia</h6>		
+		    <h6 style="display:inline">BS in Optics of Nanostructures; MS in Molecular Bio- and Nanophotonics, University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, Russia</h6>		
 			<br>	
 			<br>	
 			<h5 style="display:inline">Graduate Student</h5>
@@ -114,7 +112,6 @@
 			<br>
 		  </div>			
 	    </div>		
-		<br>
 		<br>	
 		<div class="row">
 		  <div class="col-md-3">
@@ -132,8 +129,7 @@
 			<br>
 		  </div>			
 	    </div>	
-		<br>
-		<br>		
+		<br>	
 		<div class="row">
 		  <div class="col-md-3">
 			<img src="images/jenna-bustos.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -176,27 +172,6 @@
 		</div> 
 		<br>
 		<br>
-		<div class="row">		
-		  <div class="col-md-3">
-			<img src="images/sergei-rigin.png" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sergei Rigin</h4>
-			<br>
-		    <h6 style="display:inline">BS in Laser Technologies and Instrumentation; MS in Optical Engineering, University of Information Technologies, Mechanics and Optics (ITMO University), Saint-Petersburg, Russia</h6>		
-			<br>	
-			<br>	
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Synthesis methods and calculation of organic charge-transfer complexes</h5>
-			<br>
-		  </div>
-		</div> 	 
-		<br>
-		<br>
 		<div class="row">
 		  <div class="col-md-3">
 			<img src="images/daniel-lesse.png" width="120px" class="pull-left" style="margin-right:15px">
@@ -216,6 +191,9 @@
 		<br>
 		<br>		
 		<br>
+		<br>
+		<br>	
+		<br>		
 		<div class="row">
 		  <div class="col-md-3">
 			<img src="images/beatrice-armijo.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -319,6 +297,24 @@
 		  </div>
 		</div>
 		<br>	
+		<div class="row">		  
+		  <div class="col-md-3">
+			<img src="images/georgii-bogdanov.png" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Georgii Bogdanov</h4>
+			<br>
+		    <h6 style="display:inline">BS and MS in Optical Engineering, University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, Russia</h6>		
+			<br>	
+			<h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>
+			<br>
+			<br>
+			<h5 style="display:inline">PhD Student at University of California Irvine, Irvine, CA</h5>
+			<br>
+		  </div>
+		</div>		
+		<br>
+		<br>			
 		<div class="row">		
 		  <div class="col-md-3">
 			<img src="images/xu-wang.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -431,7 +427,7 @@
 		    <h6 style="display:inline">PhD in Chemistry, Utah State University</h6>		
 			<br>	
 			<br>	
-			<h5 style="display:inline">Chemistry Instructor at Stockton University, Galloway, NJ</h5>
+			<h5 style="display:inline">Chemistry Instructor at Kansas State University, Manhattan, KS</h5>
 			<br>
 		  </div>
 		</div>  
@@ -454,7 +450,24 @@
 		</div>  
 		<br>	  
 		<br>
+		<div class="row">		
+		  <div class="col-md-3">
+			<img src="images/sergei-rigin.png" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sergei Rigin</h4>
+			<br>
+		    <h6 style="display:inline">BS in Laser Technologies and Instrumentation; MS in Optical Engineering, University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, Russia</h6>		
+			<br>		
+			<h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>
+			<br>
+			<br>
+			<h5 style="display:inline">PhD Student at North Carolina State University, Raleigh, NC</h5>
+			<br>
+		  </div>
+		</div> 	 
 		<br>
+		<br>		
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img src="images/bianca-valencia.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -471,7 +484,8 @@
 			<br>
 		  </div>
 		</div>		
-		<br>	 	
+		<br>	
+		<br>	
 		<div class="row">		
 		  <div class="col-md-3">
 			<img src="images/raul-castaneda.JPG" width="120px" class="pull-left" style="margin-right:15px">

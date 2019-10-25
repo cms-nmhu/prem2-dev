@@ -49,11 +49,11 @@
         <br>
         <h5><strong>Role in PREM</strong> includes to develope an ensemble of metallic nanoparticle-modified graphene metamaterials and then study their unique properties for applications in different fields. Gold and silver nanoparticles are chosen as the two main metallic nanoparticles to be decorated on the graphene metamaterials.</h5>
       </div>
-	 </div>
-	  	    
-      <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
-	  <div class="row">	  
-	  <div class="col-md-6 content"> 
+	 </div>	    
+	  
+      <h3 class="col-md-12 text-center" style="color:purple">Former Research Group Members</h3> 	  
+	  
+	  <div class="col-md-6 content">	
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img style="margin-right:15px" class="pull-left" src="images/yuwei-zhang.jpg" width="120px">
@@ -63,45 +63,14 @@
 			<br>
 		    <h6 style="display:inline">BS in Chemical Engineering and Technology, North China University of Science and Technology, Tangshan, China</h6>						
 			<br>
-			<br>
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
+			<h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>
 			<br>
 			<br>
-			<h5 style="display:inline">Graphene quantum dots fluorescence quenching study by various sizes of gold and silver nanoparticles</h5>
+			<h5 style="display:inline">PhD Student at University of North Dakota, Grand Forks, ND</h5>
 			<br>
 		  </div>
-		</div> 			
-	  </div>
-	  
-	  <div class="col-md-6 content">	
-	  	<div class="row">			
-		  <div class="col-md-3">
-			<img src="images/zack-schroer.jpg" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Zack Schroer</h4>
-			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Synthesis of strongly fluorescent graphene quantum dots</h5>
-			<br>
-		  </div>	
-		</div>	 
-		<br>
-		<br>
-		<div class="row">			
-	    </div>
-	  </div>
-	  </div>	    
-	  
-      <h3 class="col-md-12 text-center" style="color:purple">Former Members</h3> 	  
-	  
-	  <div class="col-md-6 content">	    
+		</div> 	
+		<br>	
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img style="margin-right:15px" class="pull-left" src="images/narendra-boppana.jpg" width="120px">
@@ -141,7 +110,7 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Onnica Pino</h4>
 			<br>	
-			<h6 style="display:inline">BS in Biology, New Mexico Highlands University</h6>
+			<h6 style="display:inline">BS in Chemistry, New Mexico Highlands University</h6>
 			<br>
 			<br>
 			<h5 style="display:inline"></h5>
@@ -183,7 +152,17 @@
 		</div>	
 		<br>
 		<br>
-		<br>
+	  	<div class="row">			
+		  <div class="col-md-3">
+			<img src="images/zack-schroer.jpg" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Zackery Schroer</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
+		  </div>	
+		</div>	 
+		<br>	
 	  	<div class="row">			
 		  <div class="col-md-3">
 			<img src="images/yuliya-ti.jpg" width="120px" class="pull-left" style="margin-right:15px">
