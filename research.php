@@ -28,6 +28,21 @@
     <div class="container" style="background:white">
       <h2 class="text-center" style="color:purple">Dr. Tatiana Timofeeva Group</h2>
 	  <div class="row">
+		  <div class="col-md-12 col-xs-12">
+			<center><a href="posters/muhammad-usman-boston19-poster.png" target="_blank"><img width="50%" src="posters/muhammad-usman-boston19-poster_resize.png"></a></center>
+		  </div>
+	  </div>
+	  
+	  <div class="row">
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/victoria-sena-boston19-poster.png" target="_blank"><img width="100%" src="posters/victoria-sena-boston19-poster_resize.png"></a>
+		  </div>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/beatrice-armijo-boston19-poster.png" target="_blank"><img width="100%" src="posters/beatrice-armijo-boston19-poster_resize.png"></a>
+		  </div>
+	  </div>
+	  
+	  <div class="row">
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
 			<a href="posters/georgii-bogdanov-john-tillotson-rd19-poster.png" target="_blank"><img width="100%" src="posters/georgii-bogdanov-john-tillotson-rd19-poster_resize.png"></a>
 		  </div>
@@ -116,33 +131,14 @@
 			<a href="posters/james-foster-poster.png" target="_blank"><img width="100%" src="posters/james-foster-poster_resize.png"></a>
 		  </div>
 	  </div>		  
-
-      <h2 class="text-center" style="color:purple">Dr. Jiao Chen Group</h2>
-	  <div class="row">
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/yuwei-zhang-pittcon19-poster.png" target="_blank"><img width="100%" src="posters/yuwei-zhang-pittcon19-poster_resize.png"></a>
-		  </div>
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/zackery-schroer-pittcon19-poster.png" target="_blank"><img width="100%" src="posters/zackery-schroer-pittcon19-poster_resize.png"></a>
-		  </div>
-	  </div>
-	  
-	  <div class="row">
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/narendra-boppana-poster.png" target="_blank"><img width="100%" src="posters/narendra-boppana-poster_resize.png"></a>
-		  </div>
-		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/onnica-pino-poster.png" target="_blank"><img width="100%" src="posters/onnica-pino-poster_resize.png"></a>
-		  </div>
-	  </div>	  
 	  
       <h2 class="text-center" style="color:purple">Dr. Gil Gallegos Group</h2>
 	  <div class="row">
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/jesse-ibarra-rd19-poster.png" target="_blank"><img width="100%" src="posters/jesse-ibarra-rd19-poster_resize.png"></a>
+			<a href="posters/jesse-ibarra-boston19-poster.png" target="_blank"><img width="100%" src="posters/jesse-ibarra-boston19-poster_resize.png"></a>
 		  </div>	  
 		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
-			<a href="posters/henry-chung-rd19-poster.png" target="_blank"><img width="100%" src="posters/henry-chung-rd19-poster_resize.png"></a>
+			<a href="posters/henry-chung-boston19-poster.png" target="_blank"><img width="100%" src="posters/henry-chung-boston19-poster_resize.png"></a>
 		  </div>
 	  </div>	  
 	  <div class="row">
@@ -162,22 +158,36 @@
 		  </div>		  	  
 	  </div>
 
-      <h2 class="text-center" style="color:purple">Dr. Michael Petronis Group</h2>
+      <h2 class="text-center" style="color:purple">Dr. Michael Petronis Group</h2> 
 	  <div class="row">
-		  <div class="col-md-12 col-xs-12">
-			<center><a href="posters/billy-romero-poster.png" target="_blank"><img width="50%" src="posters/billy-romero-poster_resize.png"></a></center>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/sindy-lauricella-boston19-poster.png" target="_blank"><img width="100%" src="posters/sindy-lauricella-boston19-poster_resize.png"></a>
 		  </div>
-	  </div>	       
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/billy-romero-poster.png" target="_blank"><img width="100%" src="posters/billy-romero-poster_resize.png"></a>
+		  </div>
+	  </div>	  
+
+      <h2 class="text-center" style="color:purple">Dr. Jiao Chen Group</h2>
+	  <div class="row">
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/yuwei-zhang-pittcon19-poster.png" target="_blank"><img width="100%" src="posters/yuwei-zhang-pittcon19-poster_resize.png"></a>
+		  </div>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/zackery-schroer-pittcon19-poster.png" target="_blank"><img width="100%" src="posters/zackery-schroer-pittcon19-poster_resize.png"></a>
+		  </div>
+	  </div>
+	  
+	  <div class="row">
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/narendra-boppana-poster.png" target="_blank"><img width="100%" src="posters/narendra-boppana-poster_resize.png"></a>
+		  </div>
+		  <div class="col-md-6 col-xs-12" style="margin:0 0 10px 0">
+			<a href="posters/onnica-pino-poster.png" target="_blank"><img width="100%" src="posters/onnica-pino-poster_resize.png"></a>
+		  </div>
+	  </div>	  
     </div>
 	
-    <div class="modal fade">
-      <div class="modal-dialog">
-        <div class="modal-content">	
-			<img width="110%" src="">
-		</div>
-	  </div>
-	</div> 		
-
     <?php include "footer.html" ?>
 
     <!-- Bootstrap core JavaScript
