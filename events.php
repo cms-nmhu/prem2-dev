@@ -35,6 +35,20 @@
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 
         <li class="col-md-12">
+          <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/pamela-peralta-yahya.jpg">
+          <h4 style="display:inline; vertical-align:top">January 29, 2020    </h4> 
+		  <br>
+		  <br>
+          <h4 style="display:inline"><b>Dr. Pamela Peralta-Yahya</b> from <b>Georgia Institute of Technology</b> (Atlanta, GA) gives a presentation on topic <b>"GPCR-based sensors for biomedical applications"</b></h4>
+          <br>
+        </li>
+        <br>
+		<br>
+        <br>
+		<br>
+		<br>
+
+        <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2" src="images/paulo-oemig.jpg">
           <h4 style="display:inline; vertical-align:top">October 23, 2019    </h4> 
 		  <br>
@@ -53,7 +67,7 @@
           <h4 style="display:inline; vertical-align:top">October 16, 2019    </h4> 
 		  <br>
 		  <br>
-          <h4 style="display:inline"><b>Dr. Erik Yukl</b> from <b>New Mexico State University</b> gives a presentation on topic <b>"Graduate Opportunities in Chemistry and Biochemistry at NMSU: Structure and Function of Bacterial Metalloproteins"</b></h4>
+          <h4 style="display:inline"><b>Dr. Erik Yukl</b> from <b>New Mexico State University</b> (Las Cruces, NM) gives a presentation on topic <b>"Graduate Opportunities in Chemistry and Biochemistry at NMSU: Structure and Function of Bacterial Metalloproteins"</b></h4>
           <br>
         </li>
         <br>

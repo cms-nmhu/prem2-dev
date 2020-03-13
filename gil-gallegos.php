@@ -237,7 +237,7 @@
 		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>	
 			<br>
 			<br>			
-			<h5 style="display:inline">Graduate Student at NMHU</h5>
+			<h5 style="display:inline">Web-developer</h5>
 			<br>
 		  </div>
 		</div>  
@@ -252,7 +252,7 @@
 		    <h6 style="display:inline">BS in Computer Science, New Mexico Highlands University</h6>	
 			<br>
 			<br>
-			<h5 style="display:inline">Graduate Student at NMHU</h5>
+			<h5 style="display:inline"></h5>
 			<br>
 		  </div>
 		</div>  
@@ -288,7 +288,7 @@
 		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>				
 			<br>
 			<br>	
-			<h5 style="display:inline">Optional Practical Training (OPT), Odessa, TX</h5>
+			<h5 style="display:inline">Java Full Stack Developer at Tech Mahindra, Middletown, NJ</h5>
 			<br>			
 			<br>
 		  </div>	

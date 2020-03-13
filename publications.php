@@ -30,6 +30,7 @@
       <div class="col-md-10 col-md-offset-1">
         <h4><strong style="color:purple">2019</strong></h4>
         <ul>	
+		  <li><h5>Tatiana V. Timofeeva, Victoria Sena, Boris B. Averkiev, Shabari N. Bejagam, Muhammad Usman, Arcadius V. Krivoshein. "Unusual polymorphs of <em>rac</em>-3-phenylpyrrolidine-2,5-dione with <em>Z′</em> = 1, 2, and 3," <em>CrystEngComm</em>, <strong>2019</strong>, 21, 6819-6829.</h5></li>
 		  <li><h5>Zackery S. Schroer, Yingfen Wu, Yuqian Xing, Xu Wu, Xiao Liu, Xu Wang, Onnica G. Pino, Chuanmin Zhou, Colin Combs, Qinqin Pu, Min Wu, Julia Xiaojun Zhao, Jiao Chen. "Nitrogen–Sulfur-Doped Graphene Quantum Dots with Metal Ion-Resistance for Bioimaging," <em>ACS Appl. Nano Mater.</em>, <strong>2019</strong>, 2(11), 6858-6865.</h5></li>
 		  <li><h5>Filip Tomek, Amy K. Gilmer, Michael S. Petronis, Peter W. Lipman, Marine S. Foucher. "Protracted multipulse emplacement of a post‐resurgent pluton: the case of Platoro caldera complex (Southern Rocky Mountain volcanic field, Colorado)," <em>Geochem. Geophy. Geosy.</em>, <strong>2019</strong>, 20, doi:10.1029/2019GC008477.</h5></li>
 		  <li><h5>Raghunath R. Dasari, Xu Wang, Ren A. Wiscons, Hamna F. Haneef, Ajith Ashokan, Yadong Zhang, Marina S. Fonari, Stephen Barlow, Veaceslav Coropceanu, Tatiana V. Timofeeva, Oana D. Jurchescu, Jean-Luc Brédas, Adam J. Matzger, Seth R. Marder. "Charge-Transport Properties of F<sub>6</sub>TNAP-Based Charge-Transfer Cocrystals," <em>Adv. Funct. Mater.</em>, <strong>2019</strong>, 1904858, doi:10.1002/adfm.201904858.</h5></li>
