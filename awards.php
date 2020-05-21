@@ -29,6 +29,10 @@
 	  <h2 class="text-center" style="color:purple">News & Awards</h2>
       <div class="col-md-10 col-md-offset-1">
 		<ul>
+		  <li><h5><b>Dr. Gil Gallegos</b>, <b>Dr. Tatiana Timofeeva</b>, and <b>Dr. Orit Tamir</b> received the "RAPID: Machine Learning Methods to Understand, Predict and Reduce the Spread of COVID-19 in Small Communities" NSF Award ($185,747)</h5></li>	
+		  <li><h5><b>Dr. Michael Petronis</b> received the "Acquisition of a Lake Shore Cryotronics Vibrating Sample Magnetometer" NSF Award ($153,915)</h5></li>
+		  <li><h5>Undergraduate students <b>Megan Begay</b> and <b>Letisha Mailboy</b> received $100 book scholarships from the New Mexico Geological Society</h5></li>
+          <li><h5>Undergraduate student <b>Daniel Lesse</b> participated in the ACA Summer Course in Chemical Crystallography 2019 at Northwestern University, Evanston, IL</h5></li>			
 		  <li><h5>Undergraduate student <b>Victoria Sena</b> received the NSF STEM scholarship</h5></li>	  
 		  <li><h5><b>Dr. Miki Ii</b>, <b>Dr. Richard Medina</b>, <b>Dr. Jiao Chen</b>, <b>Elizabeth Ratzlaff</b>, and <b>Dr. Jennifer Lindline</b> received the "Inclusion of Data Science and Research in a STEM Scholarship Program" NSF Award ($661,868)</h5></li>		
 		  <li><h5><b>Dr. Deepak Patil</b> and graduate students <b>Georgii Bogdanov</b> and <b>Sergei Rigin</b> participated in the ACA Summer Course in Chemical Crystallography 2018 at University of Notre Dame, Notre Dame, IN</h5></li>		

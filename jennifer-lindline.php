@@ -49,16 +49,55 @@
         <h5><strong>Role in PREM</strong> includes the magnetic properties studies of the metal-organic frameworks (MOFs) and metal-organic aerogels (MOA) synthesized for applications in gas adsorption/separation and different sensors.</h5>
       </div>
 	  
-      <!--<h3 class="col-md-10 col-xs-12 col-md-offset-2 text-center" style="color:purple">Research Group Members</h3>
-		  <div class="col-lg-5 col-lg-offset-2 col-xs-12 col-md-12" style="margin-top:20px">
-			<img style="margin-right:15px" class="pull-left" src="images/trevor-anthony.jpg">
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Trevor Anthony</h4>
+      <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
+	  <div class="row">	  
+	  <div class="col-md-6 content">			
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/no-image.JPG" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Megan Begay</h4>
 			<br>
-			<h5 style="display:inline">Magnetic properties studies of the metal-organic frameworks (MOFs)</h5>
+			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-		  </div>-->
-      </div>
-    </div>
+			<h5 style="display:inline">Major in Geology</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Bi-weekly water quality monitoring of the Upper Pecos River. Measuring amounts of physico-chemical parameters and assessing trends over time. Collecting stream sediment and analyzing for heavy metals and metalloids</h5>			
+			<br>	
+		  </div>
+		</div>  		
+		<br>	
+		<br>	
+				
+	  </div>
+	  
+	  <div class="col-md-6 content">	 
+	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img style="margin-right:15px" class="pull-left" src="images/no-image.JPG" width="120px">
+		  </div>
+          <div class="col-md-9 content">		  	
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Letisha Mailboy</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student</h5>
+			<br>
+			<h5 style="display:inline">Major in Geology</h5>
+			<br>
+			<br>
+			<h5 style="display:inline">Bi-weekly water quality monitoring of the Upper Pecos River. Measuring amounts of physico-chemical parameters and assessing trends over time. Collecting stream sediment and analyzing for heavy metals and metalloids</h5>
+			<br>
+		  </div>
+		</div> 		
+		<br>
+		<br>		
+	
+		<br>
+		<br>		
+	  </div>
+	  </div>
+	</div>  
 
     <?php include "footer.html" ?>
     

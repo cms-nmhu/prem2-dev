@@ -30,6 +30,33 @@
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 	  
         <li class="col-md-12">
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="images/zoom-meeting.png">
+          <h4 style="display:inline; vertical-align:top">May 6, 2020    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#may6-2020"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
+          <br>
+		  <br>
+          <h4 style="display:inline"><b>ZOOM meeting of PREM Chemistry and Computer Science graduates with current students</b></h4>
+          <br>
+		  <br>
+        </li>
+        <br>
+        <br>	
+        <br>	  
+		<br>
+	  
+        <li class="col-md-12">
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="images/mesa.png">
+          <h4 style="display:inline; vertical-align:top">March 7, 2020    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#mar7-2020"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
+          <br>
+		  <br>
+          <h4 style="display:inline">Graduate Chemistry and Computer Science students <b>Viktor Glebov</b>, <b>Tatiana Kornilova</b>, <b>Evgenii Oskolkov</b>, and <b>Bailey Wallace</b> served as judges for the <b>2020 New Mexico high school students’ science fair</b></h4>
+          <br>
+		  <br>
+        </li>
+        <br>
+        <br>	
+        <br>	  
+	  
+        <li class="col-md-12">
           <img style="margin:0 7% 10px 3%" class="pull-left col-md-2 col-xs-12" src="images/girls-can.JPG">
           <h4 style="display:inline; vertical-align:top">May 16, 2019    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#may16-2019"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>

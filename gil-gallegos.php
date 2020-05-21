@@ -55,32 +55,7 @@
 	  <center><img src="images/gil-gallegos-group.jpg" width="70%"></center>
 	  <br>
 	  <div class="row">	  
-	  <div class="col-md-6 content">	
-	  	<div class="row">		  
-		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/evgheni-jucov.jpg" width="120px">
-		  </div>
-          <div class="col-md-9 content">		  	
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgheni Jucov</h4>
-			<br>
-		    <h6 style="display:inline">BS and MS in Physics, Moldova State University, Chisinau, Moldova</h6>		
-			<br>			
-		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>	
-			<br>			
-		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>			
-			<br>	
-			<br>
-			<h5 style="display:inline">MBA Student</h5>
-			<br>			
-			<br>	
-			<h5 style="display:inline">PREM webmaster</h5>
-			<br>
-		  </div>
-		</div>  
-		<br>  	
-		<br>
-		<br>  	
-		<br>		
+	  <div class="col-md-6 content">			
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img style="margin-right:15px" class="pull-left" src="images/viktor-glebov.JPG" width="120px">
@@ -123,10 +98,6 @@
 	    </div>	
 		<br>  	
 		<br>		
-		
-	  </div>
-	  
-	  <div class="col-md-6 content">	
 	  	<div class="row">			
 		  <div class="col-md-3">
 			<img src="images/henry-chung.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -144,12 +115,13 @@
 			<br>
 			<h5 style="display:inline">Computational modeling and simulation of the plasmonic meta-materials</h5>
 			<br>
-			<h5 style="display:inline">Conducting research in machine learning through the use of autoencoders along with ensemble algorithms to improve classification accuracy</h5>			
-			<br>
 		  </div>	
 		</div>	
 		<br>
-		<br> 
+		<br>		
+	  </div>
+	  
+	  <div class="col-md-6 content">	 
 	  	<div class="row">		  
 		  <div class="col-md-3">
 			<img style="margin-right:15px" class="pull-left" src="images/svetlana-riabova.JPG" width="120px">
@@ -288,7 +260,7 @@
 		    <h6 style="display:inline">MS in Computer Science, New Mexico Highlands University</h6>				
 			<br>
 			<br>	
-			<h5 style="display:inline">Java Full Stack Developer at Tech Mahindra, Middletown, NJ</h5>
+			<h5 style="display:inline">Java Full Stack Developer at Tech Mahindra (serving AT&T), Middletown, NJ</h5>
 			<br>			
 			<br>
 		  </div>	

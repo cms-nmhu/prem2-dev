@@ -29,8 +29,49 @@
 	  <h2 class="text-center" style="color:purple">Presentations</h2>
       <div class="col-md-10 col-md-offset-1"> 
 	  
+	  <h3><strong style="color:purple">2020</strong></h3>
+	  <div class="spacing"></div>		  
+	  
+        <h4><strong style="color:purple">EGU General Assembly 2020</strong>, Online, May 4-8, 2020</h4>	  
+        <ul>
+		  <li>William McCarthy, Vincent Twomey, Craig Magee, Michael Petronis. <em>“Unravelling magma emplacement through palaeomagnetic backstripping of an intrusion-induced forced fold: A case study from the Sandfell Laccolith, SE Iceland”</em></li>			  
+        </ul>
+		<div class="spacing"></div>		  
+	  
+		<h4><strong style="color:purple">17th Annual NMHU Faculty and Student Research and Creative Showcase Day</strong>, Online, April 10, 2020</h4>
+        <ul>
+		  <li>Oskolkov Evgenii, Tatiana Timofeeva. <em>“Crystal Structure and DFT Studies of Carbazole- and 1,3,4-Oxadiazole-Derived Materials for Thermally Activated Delayed Fluorescence Applications”</em></li>
+		  <li>Viktor Glebov, Svetlana Riabova, Gil R. Gallegos. <em>“Machine Learning Models As An Instrument For Analysis Of Spread Of COVID-19”</em></li>
+		  <li>Johnson Adio & Jennifer Lindline. <em>“2014-2018 Water Quality Study of the Mora River at the Rio Mora National Wildlife Refuge, Mora County, New Mexico”</em></li>
+		  <li>Ryan Mann & Jennifer Lindline. <em>“2018-2019 Water Quantity and Quality Study of the Lower Santa Fe River, Santa Fe County, New Mexico”</em></li>
+		  <li>Megan Begay, Letisha Mailboy, Jennifer Lindline. <em>“Water Quality Monitoring of the Upper Pecos River”</em></li>
+		  <li>Luke Romero, Michael Petronis, Marek Awdankiewcz, Vladoslav Rapprich. <em>“Emplacement of Pennsylvanian to Permian Rhyolite Tuffs in The Intra-Sudetic Basin, SW Poland and NE Czech Republic”</em></li>
+		  <li>Suzanne Rice, Michael S. Petronis, Vlado Rapprich, Jennifer Lindline, Joe Zebrowski. <em>“Emplacement Conditions of The Volcanic Complex at Radobýl, Czech Republik”</em></li>
+		  <li>Sindy Lauricella, Michael Petronis, Vladoslav Rapprich, Jan Valenta, Jennifer Lindline. <em>“The Origin of Magma Evolution and Paleomagnetic Data Bearing on the Krasny Vrch Maar Diatreme Volcano, in northern Bohemia, Czech Republic”</em></li>
+        </ul>
+		<div class="spacing"></div>		  
+	  
 	  <h3><strong style="color:purple">2019</strong></h3>
 	  <div class="spacing"></div>		  
+	  
+        <h4><strong style="color:purple">2019 Materials Research Society Fall Meeting & Exhibit</strong>, Boston, MA, December 1-6, 2019</h4>
+        <ul>
+		  <li>Muhammad Usman, Maximillian Chibuike, Tatiana V. Timofeeva. <em>“Metal–Organic Frameworks as Environment-Friendly White Light Emitters”</em></li>		
+		  <li>Victoria Sena and Tatiana Timofeeva. <em>“Synthesis and Crystalline Structures of Carbamate Derivatives via Reactions of Amine with CO<sub>2</sub> and CS<sub>2</sub>”</em></li>		  
+		  <li>Beatrice Armijo, Victoria Sena, Jenna Bustos, Tatiana Timofeeva. <em>“Single Crystal X-ray Structural Analysis of 1,4-dimethoxy-2,5-bis-[2-(4-nitrophenyl)ethyl]benzene and 2-acetylphenyl-4-nitrobenzoate”</em></li>
+		  <li>Henry Chung, Jesse Ibarra, Gil Gallegos. <em>“Convolutional Neural Network Prediction of Spectrum Absorption with Gold Nanoparticles using the Genetic Algorithm”</em></li>
+		  <li>Jesse Ibarra, Henry Chung, Gil Gallegos. <em>“Waveform Prediction for Plasmonic Modeling Using Machine Learning”</em></li>
+		  <li>Sindy Lauricella, Michael Petronis, Vladoslav Rapprich, Jan Valenta, Jennifer Lindline. <em>“Paleomagnetic and Anisotropy of Magnetic Susceptibility Data Bearing on the Growth of the Krasny Vrch Maar-Diatreme, Czech Republic”</em></li>		  
+        </ul>
+		<div class="spacing"></div>		  
+	  
+        <h4><strong style="color:purple">Geological Society of America Annual Meeting & Exposition</strong>, Phoenix, AZ, September 22-25, 2019</h4>	  
+        <ul>
+		  <li>Johnson Adio, Jennifer Lindline, Michael Petronis, Edward Martinez. <em>“Water quality monitoring and assessment of the Rio Mora at the Rio Mora National Wildlife Refuge, Mora County, NM”</em></li>		
+		  <li>Sindy Lauricella, Michael Petronis, Vladislav Rapprich, Jan Valenta, Jennifer Lindline. <em>“Paleomagnetic and anisotropy of magnetic susceptibility data bearing on the growth of the Krasny Vrch Maar-Diatreme, Czech Republic”</em></li>		  
+		  <li>Jennifer Lindline, Richard Pratt, Michael Petronis. <em>“Mantle source identification for Middle Miocene magmatism on the eastern flank of the Rio Grande Rift, northeastern New Mexico”</em></li>		  
+        </ul>
+		<div class="spacing"></div>		  
 	  
         <h4><strong style="color:purple">The 16th Annual NMHU Faculty and Student Research and Creative Showcase Day</strong>, Las Vegas, NM, April 12, 2019</h4>
         <ul>

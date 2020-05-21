@@ -28,6 +28,13 @@
     <div class="container" style="background:white">
 	  <h2 class="text-center" style="color:purple">Publications</h2>	
       <div class="col-md-10 col-md-offset-1">
+        <h4><strong style="color:purple">2020</strong></h4>
+        <ul>
+		  <li><h5>Georgii Bogdanov, Jenna Bustos, Viktor Glebov, Evgenii Oskolkov, John P. Tillotson, Tatiana V. Timofeeva. "Molecular and crystal structure, lattice energy and DFT calculations of two 2’-(nitrobenzoyloxy)acetophenone isomers," <em>Acta Cryst.</em>, <strong>2020</strong>, Exx, doi:10.1107/S2056989020006295.</h5></li>
+		  <li><h5>Sergei Rigin, John Tillotson, Joseph Perry, Victor N. Khrustalev, Georgii Bogdanov, Tatiana V. Timofeeva. "Polymorphism of Merocyanine Dyes Homologues with 1,3-Diethyl-2-thiobarbituric Acid Acceptor and <i>p</i>-Dimethylaminobenzene Donor and Different Polymethine Chains Connecting Them," <em>Cryst. Growth Des.</em>, <strong>2020</strong>, 20(1), 167-177.</h5></li>
+        </ul>
+		<div class="spacing"></div>	
+		
         <h4><strong style="color:purple">2019</strong></h4>
         <ul>	
 		  <li><h5>Tatiana V. Timofeeva, Victoria Sena, Boris B. Averkiev, Shabari N. Bejagam, Muhammad Usman, Arcadius V. Krivoshein. "Unusual polymorphs of <em>rac</em>-3-phenylpyrrolidine-2,5-dione with <em>Z′</em> = 1, 2, and 3," <em>CrystEngComm</em>, <strong>2019</strong>, 21, 6819-6829.</h5></li>
@@ -42,7 +49,7 @@
 		  <li><h5>Filip Tomek, František Vacek, Jiří Žák, Michael S. Petronis, Kryštof Verner, Marine S. Foucher. "Polykinematic foreland basins initiated during orthogonal convergence and terminated by orogen-oblique strike-slip faulting: An example from the northeastern Variscan belt," <em>Tectonophysics</em>, <strong>2019</strong>, 766, 379-397.</h5></li>
 		  <li><h5>Hio-Ieng Un, Shawn A. Gregory, Swagat K. Mohapatra, Miao Xiong, Elena Longhi, Yang Lu, Sergei Rigin, Samik Jhulki, Chi-Yuan Yang, Tatiana V. Timofeeva, Jie-Yu Wang, Shannon K. Yee, Stephen Barlow, Seth R. Marder. "Understanding the Effects of Molecular Dopant on n-Type Organic Thermoelectric Properties," <em>Adv. Energy Mater.</em>, <strong>2019</strong>, 1900817, doi:10.1002/aenm.201900817.</h5></li>
 		  <li><h5>Sergei Rigin, Beatrice Armijo, Arcadius V. Krivoshein, Marina Fonari, Tatiana Timofeeva. "Crystal structure and Hirshfeld surface analysis of new polymorph of racemic 2-phenylbutyramide," <em>Acta Cryst.</em>, <strong>2019</strong>, E75, 826-829.</h5></li>
-		  <li><h5>M. S. Petronis, P. J. Zebrowski, S. F. Shields, C. J. Pluhar, J. R. Lindeman. "Vertical Axis Rotation Across the Eastern Mono Basin and West‐Central Walker Lane Revealed by Paleomagnetic Data From the Jack Springs Tuff," <em>Geochem. Geophy. Geosy.</em>, <strong>2019</strong>, 20, doi:10.1029/2018GC007682.</h5></li>
+		  <li><h5>M. S. Petronis, P. J. Zebrowski, S. F. Shields, C. J. Pluhar, J. R. Lindeman. "Vertical Axis Rotation Across the Eastern Mono Basin and West‐Central Walker Lane Revealed by Paleomagnetic Data From the Jack Springs Tuff," <em>Geochem. Geophy. Geosy.</em>, <strong>2019</strong>, 20(4), 1854-1888.</h5></li>
 		  <li><h5>John P. Tillotson, Georgii Bogdanov, Evgheni V. Jucov, Victor N. Khrustalev, Sergei Rigin, Joel M. Hales, Joseph W. Perry, Tatiana V. Timofeeva. "Synthesis, structure, linear and nonlinear properties of Tricyanofuran–Terminated merocyanine dyes," <em>J. Mol. Struct.</em>, <strong>2019</strong>, 1189, 146-154.</h5></li>	
 		  <li><h5>Alexander Yu. Mitrofanov, Yoann Rousselin, Victor N. Khrustalev, Andrey V. Cheprakov, Alla Bessmertnykh-Lemeune, Irina P. Beletskaya. "Facile Synthesis and Self-Assembly of Zinc (2-Diethoxyphosphorylethynyl) porphyrins," <em>Eur. J. Inorg. Chem.</em>, <strong>2019</strong>, 1313-1328.</h5></li>	
 		  <li><h5>Siyuan Zhang, Karttikay Moudgil, Evgheni Jucov, Chad Risko, Tatiana V. Timofeeva, Seth R. Marder, Stephen Barlow. "Organometallic hydride-transfer agents as reductants for organic semiconductor molecules," <em>Inorg. Chim. Acta</em>, <strong>2019</strong>, 489, 67-77.</h5></li>
