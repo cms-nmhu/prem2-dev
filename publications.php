@@ -30,7 +30,9 @@
       <div class="col-md-10 col-md-offset-1">
         <h4><strong style="color:purple">2020</strong></h4>
         <ul>
-		  <li><h5>Georgii Bogdanov, Jenna Bustos, Viktor Glebov, Evgenii Oskolkov, John P. Tillotson, Tatiana V. Timofeeva. "Molecular and crystal structure, lattice energy and DFT calculations of two 2’-(nitrobenzoyloxy)acetophenone isomers," <em>Acta Cryst.</em>, <strong>2020</strong>, Exx, doi:10.1107/S2056989020006295.</h5></li>
+		  <li><h5>Marie-Hélène Tremblay, Andrew M. Zeidell, Sergei Rigin, Colin Tyznik, John Bacsa, Yadong Zhang, Khaled Al Kurdi, Oana D. Jurchescu, Tatiana V. Timofeeva, Stephen Barlow, Seth R. Marder. "Structural Diversity in 2,2′-[Naphthalene-1,8:4,5-bis(dicarboximide)-<i>N</i>,<i>N′</i>-diyl]-bis(ethylammonium) Iodoplumbates," <em>Inorg. Chem.</em>, <strong>2020</strong>, 59(12), 8070-8080.</h5></li>
+		  <li><h5>Georgii Bogdanov, Evgenii Oskolkov, Jenna Bustos, Viktor Glebov, John P.Tillotson, Tatiana V. Timofeeva. "Molecular and crystal structure, optical propertiesand DFT studies of 1,4-dimethoxy-2,5-bis[2-(4-nitrophenyl)ethenyl]benzene," <em>Acta Cryst.</em>, <strong>2020</strong>, E76, 940-943.</h5></li>
+		  <li><h5>Georgii Bogdanov, Jenna Bustos, Viktor Glebov, Evgenii Oskolkov, John P. Tillotson, Tatiana V. Timofeeva. "Molecular and crystal structure, lattice energy and DFT calculations of two 2’-(nitrobenzoyloxy)acetophenone isomers," <em>Acta Cryst.</em>, <strong>2020</strong>, E76, 857-861.</h5></li>
 		  <li><h5>Sergei Rigin, John Tillotson, Joseph Perry, Victor N. Khrustalev, Georgii Bogdanov, Tatiana V. Timofeeva. "Polymorphism of Merocyanine Dyes Homologues with 1,3-Diethyl-2-thiobarbituric Acid Acceptor and <i>p</i>-Dimethylaminobenzene Donor and Different Polymethine Chains Connecting Them," <em>Cryst. Growth Des.</em>, <strong>2020</strong>, 20(1), 167-177.</h5></li>
         </ul>
 		<div class="spacing"></div>	

@@ -44,7 +44,7 @@
         <h5 class="indented">Las Vegas, NM 87701</h5>
         <h5 class="indented">Phone: 505-426-2006</h5>
         <h5 class="indented">Room: HSCI-212</h5>
-        <h5 class="indented">E-mail: ejucov@nmhu.edu</h5>
+        <h5 class="indented">E-mail: evjucov@nmhu.edu</h5>
       </div>	  
     </div>
     <?php include "footer.html" ?>

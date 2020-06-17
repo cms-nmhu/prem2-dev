@@ -30,7 +30,7 @@
       <ul class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:20px; list-style:none">
 	  
         <li class="col-md-12">
-          <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="images/zoom-meeting.png">
+          <img style="margin:0 15px 10px 0" class="pull-left col-md-3" src="outreach/2020-05-06/zoom-meeting-1.png">
           <h4 style="display:inline; vertical-align:top">May 6, 2020    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#may6-2020"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
@@ -48,7 +48,7 @@
           <h4 style="display:inline; vertical-align:top">March 7, 2020    </h4> <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#mar7-2020"><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> Pictures</button> 
           <br>
 		  <br>
-          <h4 style="display:inline">Graduate Chemistry and Computer Science students <b>Viktor Glebov</b>, <b>Tatiana Kornilova</b>, <b>Evgenii Oskolkov</b>, and <b>Bailey Wallace</b> served as judges for the <b>2020 New Mexico high school students’ science fair</b></h4>
+          <h4 style="display:inline">Graduate Chemistry and Computer Science students <b>Viktor Glebov</b>, <b>Tatiana Kornilova</b>, <b>Evgenii Oskolkov</b>, and <b>Bailey Wallace</b> served as judges for the <b>2020 New Mexico Junior Academy of Science Research Paper Competition</b></h4>
           <br>
 		  <br>
         </li>
@@ -197,49 +197,93 @@
 
     <?php include "footer.html" ?>
 	
-    <!--<div class="modal fade" id="nov19-2015" style="display:none" aria-hidden="true">
+    <div class="modal fade" id="may6-2020" style="display:none" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
-          <div id="nov19images" class="carousel slide" data-ride="carousel">
+          <div id="may6images" class="carousel slide" data-ride="carousel">
 
             <ol class="carousel-indicators">
-              <li data-target="#nov19images" data-slide-to="0" class="active"></li>
-              <li data-target="#nov19images" data-slide-to="1"></li>
-              <li data-target="#nov19images" data-slide-to="2"></li>
-              <li data-target="#nov19images" data-slide-to="3"></li>
-              <li data-target="#nov19images" data-slide-to="4"></li>
+              <li data-target="#may6images" data-slide-to="0" class="active"></li>
+              <li data-target="#may6images" data-slide-to="1"></li>
             </ol>
 
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="outreach/2015-11-19/tatiana-timofeeva-presents-at-armas-1.JPG">
+                <img src="outreach/2020-05-06/zoom-meeting-1.png">
               </div>
               <div class="item">
-                <img src="outreach/2015-11-19/tatiana-timofeeva-presents-at-armas-2.JPG">
-              </div>
-              <div class="item">
-                <img src="outreach/2015-11-19/tatiana-timofeeva-presents-at-armas-3.JPG">
-              </div>
-              <div class="item">
-                <img src="outreach/2015-11-19/tatiana-timofeeva-presents-at-armas-4.JPG">
-              </div>
-              <div class="item">
-                <img src="outreach/2015-11-19/tatiana-timofeeva-presents-at-armas-5.JPG">
+                <img src="outreach/2020-05-06/zoom-meeting-2.png">
               </div>
             </div>
 
-            <a class="left carousel-control" href="#nov19images" role="button" data-slide="prev">
+            <a class="left carousel-control" href="#may6images" role="button" data-slide="prev">
               <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
             </a>
-            <a class="right carousel-control" href="#nov19images" role="button" data-slide="next">
+            <a class="right carousel-control" href="#may6images" role="button" data-slide="next">
               <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
               <span class="sr-only">Next</span>
             </a>
           </div>
         </div>
       </div> 
-    </div>-->	
+    </div>	
+	
+    <div class="modal fade" id="mar7-2020" style="display:none" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div id="mar7images" class="carousel slide" data-ride="carousel">
+
+            <ol class="carousel-indicators">
+              <li data-target="#mar7images" data-slide-to="0" class="active"></li>
+              <li data-target="#mar7images" data-slide-to="1"></li>
+              <li data-target="#mar7images" data-slide-to="2"></li>
+              <li data-target="#mar7images" data-slide-to="3"></li>
+              <li data-target="#mar7images" data-slide-to="4"></li>
+			  <li data-target="#mar7images" data-slide-to="5"></li>
+              <li data-target="#mar7images" data-slide-to="6"></li>
+              <li data-target="#mar7images" data-slide-to="7"></li>
+            </ol>
+
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="outreach/2020-03-07/nmjas-competition-2020-01.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2020-03-07/nmjas-competition-2020-02.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2020-03-07/nmjas-competition-2020-03.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2020-03-07/nmjas-competition-2020-04.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2020-03-07/nmjas-competition-2020-05.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2020-03-07/nmjas-competition-2020-06.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2020-03-07/nmjas-competition-2020-07.JPG">
+              </div>
+              <div class="item">
+                <img src="outreach/2020-03-07/nmjas-competition-2020-08.JPG">
+              </div>			  
+            </div>
+
+            <a class="left carousel-control" href="#mar7images" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#mar7images" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div>
+      </div> 
+    </div>
 
     <div class="modal fade" id="may16-2019" style="display:none" aria-hidden="true">
       <div class="modal-dialog">

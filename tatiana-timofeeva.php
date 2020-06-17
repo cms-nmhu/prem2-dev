@@ -199,18 +199,17 @@
 		  </div>			
 	    </div>	
 		<br>
-		<br>	
-		<br>	
+		<br>		
 		<div class="row">
 		  <div class="col-md-3">
-			<img src="images/no-image.JPG" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/preciosa-chavez.jpg" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Preciosa America Chavez</h4>
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
+			<h5 style="display:inline">Major in Biology, minor in Chemistry</h5>
 			<br>
 			<br>
 			<h5 style="display:inline">X-ray structural studies of the crystalline products of CO<sub>2</sub> capture by amines</h5>

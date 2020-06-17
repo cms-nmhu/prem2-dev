@@ -28,7 +28,7 @@
     <div class="container" style="background:white">
       <div class="col-md-10 col-md-offset-1 col-xs-12" style="margin-top:10px">
         <img src="images/scienceBuilding.jpg" width="100%">
-        <h4>To improve educational and research opportunities in the Hispanic serving (~70% Hispanic student body) New Mexico Highlands University (NMHU) collaborative project between NMHU and Ohio State University (OSU) was developed.</h4>
+        <h4 style="text-align:justify">To improve educational and research opportunities in the Hispanic serving (~70% Hispanic student body) New Mexico Highlands University (NMHU) collaborative project between NMHU and Ohio State University (OSU) was developed.</h4>
         <h3 class="text-center" style="color:purple">Educational Goals</h3>
         <h4 style="text-align:justify">This multi-institutional and multidisciplinary project allows for achieving a higher level of understanding of materials design in areas of electronic, optical and magnetic properties. Faculty in physics, engineering, chemistry and geology with strong expertise in a broad area of materials science will be able to assist students, especially from underrepresented groups, to enter into state-of-the-art materials research via research related education. The NMHU-OSU partnership will systematically impact undergraduate, graduate, postgraduate students and faculty at all partner institutions.</h4>
         <ul>
@@ -40,7 +40,7 @@
           <li>The existing PREM and OSU partnership with Los Alamos and Argonne National Laboratories will allow for NMHU student summer internships.</li>
         </ul>
         <h3 class="text-center" style="color:purple">Research Goals</h3>
-        <h4 style="text-align:justify">The main goals of the proposed partnership led by Prof. Timofeeva (NMHU) and Prof. Johnston-Halperin (OSU) will include understanding the principles of materials design, synthesis, and applications in areas of materials with electronic, optical and magnetic properties.</h4>
+        <h4 style="text-align:justify">The main goals of this partnership led by Prof. Timofeeva (NMHU) and Prof. Johnston-Halperin (OSU) include understanding the principles of materials design, synthesis, and applications in areas of materials with electronic, optical and magnetic properties.</h4>
         <ul>
           <li>A new approach to materials design and crystal engineering will allow for the combination of two or more components in one crystalline material which brings significant alteration of electronic properties of multi-component systems.</li>
           <li>Construction of new porous metalorganic frameworks, which can be doped with magnetic particles, will allow for creation of new sensors, drug delivery systems, magnetic-based cooling systems, and other applications.</li>
