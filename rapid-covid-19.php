@@ -118,7 +118,7 @@
 			<h5 style="display:inline">Major in Computer Science</h5>
 			<br>
 			<br>
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Maintaining, upgrading, and configuring of GPU cluster through the use of cloud computing</h5>
 			<br>
 		  </div>			
 	    </div>	
@@ -162,7 +162,7 @@
 			<h5 style="display:inline">Major in Computer Science</h5>
 			<br>
 			<br>
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Developing predictive models with Python/Wolfram Mathematica, curve clustering, AI/ANN for longitudinal data</h5>
 			<br>
 		  </div>
 		</div> 		

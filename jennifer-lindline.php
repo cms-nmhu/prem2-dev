@@ -54,7 +54,7 @@
 	  <div class="col-md-6 content">			
 	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img style="margin-right:15px" class="pull-left" src="images/no-image.JPG" width="120px">
+			<img style="margin-right:15px" class="pull-left" src="images/megan-begay.jpg" width="120px">
 		  </div>
           <div class="col-md-9 content">		  	
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Megan Begay</h4>
