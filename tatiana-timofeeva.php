@@ -56,66 +56,47 @@
 	  <br>
 	  <div class="row">
 	  <div class="col-md-6 content">
-	  	<div class="row">		  
+		<div class="row">		
 		  <div class="col-md-3">
-			<img src="images/muhammad-usman.jpg" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/raul-castaneda.JPG" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Muhammad Usman</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Luis Raul Castaneda Perea</h4>
+			<br>	
+		    <h6 style="display:inline">PhD in Chemistry, University of Ottawa, Ottawa, Canada</h6>				
 			<br>
-		    <h6 style="display:inline">PhD in Chemistry, Academia Sinica, Taipei, Taiwan</h6>		
+			<br>	
+			<h5 style="display:inline">Postdoctoral Researcher</h5>
 			<br>
-			<br>
-			<h5 style="display:inline">Postdoctoral researcher</h5>
-			<br>					
 			<br>
 			<h5 style="display:inline">Synthesis of metal organic framework (MOF): study of their optical and magnetic properties</h5>
 			<br>
 		  </div>
-		</div>
+		</div>  
 		<br>
 		<br>
 		<br>
-		<br>			
-	  	<div class="row">		  
+		<div class="row">		
 		  <div class="col-md-3">
-			<img src="images/evgenii-oskolkov.JPG" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/lydia-ogebule.JPG" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgenii Oskolkov</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Lydia Ogebule</h4>
 			<br>
-		    <h6 style="display:inline">BS in Optics of Nanostructures; MS in Molecular Bio- and Nanophotonics, University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, Russia</h6>		
-			<br>	
+		    <h6 style="display:inline">BS in Biochemistry, Joseph Ayo Babalola University, Ikeji Arakeji, Osun State, Nigeria</h6>		
+			<br>
 			<br>	
 			<h5 style="display:inline">Graduate Student</h5>
 			<br>
 			<h5 style="display:inline">Major in Chemistry</h5>
 			<br>
 			<br>
-			<h5 style="display:inline">Development of new mechanisms of crystal growth, technical studies of crystallography, X-ray analysis of different types of crystals</h5>
+			<h5 style="display:inline">Metal Organic Framework (MOF) Synthesis and Analysis</h5>
 			<br>
 		  </div>
-		</div>		
+		</div> 
 		<br>
-		<br>		
-		<div class="row">
-		  <div class="col-md-3">
-			<img src="images/jenna-bustos.JPG" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jenna Bustos</h4>
-			<br>
-			<h5 style="display:inline">Undergraduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry, Minor in Biology</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">X-ray structural studies of the crystalline products of CO<sub>2</sub> capture by amines</h5>
-			<br>
-		  </div>			
-	    </div>	
-		<br>
-		<br>	
+		<br>			
 		<div class="row">
 		  <div class="col-md-3">
 			<img src="images/jason-marquez.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -156,30 +137,6 @@
 			<br>
 		  </div>
 		</div> 
-		<br>
-		<br>
-		<div class="row">		
-		  <div class="col-md-3">
-			<img src="images/lydia-ogebule.JPG" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Lydia Ogebule</h4>
-			<br>
-		    <h6 style="display:inline">BS in Biochemistry, Joseph Ayo Babalola University, Ikeji Arakeji, Osun State, Nigeria</h6>		
-			<br>
-			<br>	
-			<h5 style="display:inline">Graduate Student</h5>
-			<br>
-			<h5 style="display:inline">Major in Chemistry</h5>
-			<br>
-			<br>
-			<h5 style="display:inline">Metal Organic Framework (MOF) Synthesis and Analysis</h5>
-			<br>
-		  </div>
-		</div> 
-		<br>
-		<br>	
-		<br>
 		<br>	
 		<br>	
 		<div class="row">
@@ -199,6 +156,7 @@
 		  </div>			
 	    </div>	
 		<br>
+		<br>	
 		<br>		
 		<div class="row">
 		  <div class="col-md-3">
@@ -209,7 +167,7 @@
 			<br>
 			<h5 style="display:inline">Undergraduate Student</h5>
 			<br>
-			<h5 style="display:inline">Major in Biology, minor in Chemistry</h5>
+			<h5 style="display:inline">Major in Biology, Minor in Chemistry</h5>
 			<br>
 			<br>
 			<h5 style="display:inline">X-ray structural studies of the crystalline products of CO<sub>2</sub> capture by amines</h5>
@@ -285,6 +243,7 @@
 		  </div>
 		</div>
 		<br>	
+		<br>		
 		<div class="row">		  
 		  <div class="col-md-3">
 			<img src="images/georgii-bogdanov.png" width="120px" class="pull-left" style="margin-right:15px">
@@ -357,6 +316,41 @@
 		<br>	
 		<br>	
 	  	<div class="row">		  
+		  <div class="col-md-3">
+			<img src="images/evgenii-oskolkov.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Evgenii Oskolkov</h4>
+			<br>
+		    <h6 style="display:inline">BS in Optics of Nanostructures; MS in Molecular Bio- and Nanophotonics, University of Information Technologies, Mechanics and Optics (ITMO University), Saint Petersburg, Russia</h6>		
+			<br>	
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>
+			<br>
+			<br>
+			<h5 style="display:inline">PhD Student at University at Buffalo, Buffalo, NY</h5>
+			<br>
+			<br>
+		  </div>
+		</div>		
+		<br>
+		<br>		
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/jenna-bustos.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jenna Bustos</h4>
+			<br>
+			<h6 style="display:inline">BS in Chemistry and Biology, New Mexico Highlands University</h6>
+			<br>
+			<br>
+			<h5 style="display:inline">PhD Student at Oregon State University, Corvallis, OR</h5>
+			<br>
+		  </div>			
+	    </div>	
+		<br>
+		<br>		
+	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/michelle-tuineau.jpg" width="120px">
 		  </div> 	
@@ -371,7 +365,6 @@
 		  </div>
 		</div>  
 	    <br>
-		<br>
 		<br>
 		<br>
 		<div class="row">		
@@ -389,6 +382,7 @@
 		  </div>
 		</div> 
 		<br>
+		<br>
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/james-foster.jpg" width="120px">
@@ -403,6 +397,7 @@
 		  </div>
 		</div> 	
 	    <br>	
+		<br>
 		<div class="row">
 		  <div class="col-md-3">
 			<img src="images/victoria-sena.JPG" width="120px" class="pull-left" style="margin-right:15px">
@@ -419,17 +414,6 @@
 		  </div>			
 	    </div>		
 		<br>	
-		<div class="row">
-		  <div class="col-md-3">
-			<img src="images/maria-armijo.JPG" width="120px" class="pull-left" style="margin-right:15px">
-		  </div>
-          <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Maria Armijo</h4>
-			<br>
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
-			<br>
-		  </div>			
-	    </div>	
 		<br>			
 	  </div>	
 
@@ -449,22 +433,20 @@
 		  </div>
 		</div>  
 	    <br>
-		<div class="row">
+	  	<div class="row">		  
 		  <div class="col-md-3">
-			<img src="images/shabarinath-bejagam.jpg" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/muhammad-usman.jpg" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Shabari Nath Bejagam</h4>
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Dr. Muhammad Usman</h4>
 			<br>
-		    <h6 style="display:inline">BS in Pharmacy, Talla Padmavathi College of Pharmacy, Warangal, India</h6>		
-			<br>			
-		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>			
+		    <h6 style="display:inline">PhD in Chemistry, Academia Sinica, Taipei, Taiwan</h6>		
 			<br>
 			<br>
-			<h5 style="display:inline">Quality Control Chemist at Evaric Pharmaceuticals Inc, Hauppage, NY</h5>
-			<br>
-		  </div>	
-		</div>  
+			<h5 style="display:inline">Postdoctoral Researcher in China</h5>
+			<br>					
+		  </div>
+		</div>		 
 		<br>	  
 		<br>
 		<div class="row">		
@@ -503,21 +485,23 @@
 		</div>		
 		<br>	
 		<br>	
-		<div class="row">		
+		<br>		
+		<div class="row">
 		  <div class="col-md-3">
-			<img src="images/raul-castaneda.JPG" width="120px" class="pull-left" style="margin-right:15px">
+			<img src="images/shabarinath-bejagam.jpg" width="120px" class="pull-left" style="margin-right:15px">
 		  </div>
           <div class="col-md-9 content">			
-			<h4 style="display:inline; vertical-align:top; font-weight:bold">Luis Raul Castaneda</h4>
-			<br>	
-		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>				
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Shabari Nath Bejagam</h4>
 			<br>
-			<br>	
-			<h5 style="display:inline">PhD Student at University of Ottawa, Ottawa, Canada</h5>
+		    <h6 style="display:inline">BS in Pharmacy, Talla Padmavathi College of Pharmacy, Warangal, India</h6>		
+			<br>			
+		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>			
 			<br>
 			<br>
-		  </div>
-		</div>  		
+			<h5 style="display:inline">Quality Control Chemist at Evaric Pharmaceuticals Inc, Hauppage, NY</h5>
+			<br>
+		  </div>	
+		</div> 				
 		<br>  
 		<div class="row">		
 		  <div class="col-md-3">
@@ -537,6 +521,7 @@
 		  </div>
 		</div> 
 		<br>	
+		<br>		
 		<div class="row">		 	   
 		  <div class="col-md-3">
 			<img src="images/johnny-tuineau.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -553,6 +538,8 @@
 		  </div>
 		</div>  	   
 	    <br>
+		<br>
+		<br>		
 		<div class="row">		
 		  <div class="col-md-3">
 			<img src="images/logan-wolfel.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -569,6 +556,7 @@
 		  </div>
 		</div> 
 		<br>
+		<br>		
 	  	<div class="row">			
 		  <div class="col-md-3">
 			<img src="images/kathryn-storms.jpg" width="120px" class="pull-left" style="margin-right:15px">
@@ -612,7 +600,18 @@
 		  </div>			
 	    </div>		
 		<br>
-		<br>		
+		<br>	
+		<div class="row">
+		  <div class="col-md-3">
+			<img src="images/maria-armijo.JPG" width="120px" class="pull-left" style="margin-right:15px">
+		  </div>
+          <div class="col-md-9 content">			
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Maria Armijo</h4>
+			<br>
+			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
+			<br>
+		  </div>			
+	    </div>			
 	  </div>		  
     </div>
 
