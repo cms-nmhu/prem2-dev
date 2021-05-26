@@ -341,7 +341,7 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Jenna Bustos</h4>
 			<br>
-			<h6 style="display:inline">BS in Chemistry and Biology, New Mexico Highlands University</h6>
+			<h6 style="display:inline">BA in Chemistry and Biology, New Mexico Highlands University</h6>
 			<br>
 			<br>
 			<h5 style="display:inline">PhD Student at Oregon State University, Corvallis, OR</h5>
@@ -405,7 +405,9 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Victoria Sena</h4>
 			<br>
-		    <h6 style="display:inline">BS in Chemistry, New Mexico Highlands University</h6>				
+		    <h6 style="display:inline">BS in Environmental Geology, New Mexico Highlands University</h6>		
+			<br>
+		    <h6 style="display:inline">BA in Chemistry, New Mexico Highlands University</h6>			
 			<br>
 			<br>	
 			<h5 style="display:inline"></h5>
@@ -443,7 +445,7 @@
 		    <h6 style="display:inline">PhD in Chemistry, Academia Sinica, Taipei, Taiwan</h6>		
 			<br>
 			<br>
-			<h5 style="display:inline">Postdoctoral Researcher in China</h5>
+			<h5 style="display:inline">Postdoctoral Researcher at Taipei University, Taiwan</h5>
 			<br>					
 		  </div>
 		</div>		 
@@ -594,8 +596,12 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Beatrice Armijo</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
+			<h6 style="display:inline">BS in Psychology, New Mexico Highlands University</h6>			
 			<br>
+			<h6 style="display:inline">BA in Chemistry, New Mexico Highlands University</h6>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
 			<br>
 		  </div>			
 	    </div>		
@@ -608,7 +614,10 @@
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Maria Armijo</h4>
 			<br>
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
+			<h6 style="display:inline">BA in Chemistry, New Mexico Highlands University</h6>
+			<br>
+			<br>
+			<h5 style="display:inline"></h5>
 			<br>
 		  </div>			
 	    </div>			

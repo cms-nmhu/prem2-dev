@@ -29,10 +29,51 @@
 	  <h2 class="text-center" style="color:purple">Presentations</h2>
       <div class="col-md-10 col-md-offset-1"> 
 	  
+	  <h3><strong style="color:purple">2021</strong></h3>
+	  <div class="spacing"></div>	  
+	  
+        <h4><strong style="color:purple">European Geoscience Union (EGU) General Assembly 2021</strong>, Online, April 19-30, 2021</h4>	  
+        <ul>
+		  <li>William McCarthy, Vincent Twomey, Craig Magee, Michael Petronis, Tobias Mattsson. <em>“Unravelling the dynamics of magma emplacement through palaeomagnetic backstripping of intrusion-induced host rock deformation: Analysis from the Sandfell Laccolith, SE Iceland”</em></li>		
+		  <li>Oliver Dixon, William McCarthy, Nasser Madani, Michael Petronis, Steve McRobbie, Jonathan Cloutier. <em>“Classifying Copper-Molybdenum-Gold Porphyry Deposit Alteration using Magnetic and Spectral data”</em></li>
+        </ul>
+		<div class="spacing"></div>		  
+	  
+		<h4><strong style="color:purple">18th Annual NMHU Faculty and Student Research and Creative Showcase Day</strong>, Online, April 9, 2021</h4>
+        <ul>
+		  <li>Luis Raul Castaneda Perea and Tatiana V. Timofeeva. <em>“Water Soluble Picolamidine Metal Complexes”</em></li>
+		  <li>Lydia Ogebule, Muhammed Usman, Tatiana V. Timofeeva. <em>“Synthesis and Characterization of Thermally Stable Strontium Metal Organic Frameworks (Sr-MOFs)”</em></li>
+		  <li>Tatiana Kornilova, Preciosa America J. Chavez, Tatiana V. Timofeeva. <em>“Improving Solubility of Flavones”</em></li>
+		  <li>Viktor Glebov, Gil Gallegos, Rich Colbaugh, Kristin Glass. <em>“Machine Learning Model to Inform COVID-19 Risk Mitigation Policy”</em></li>
+		  <li>Christopher Torres, Jesse Ibarra, Gil Gallegos. <em>“Analyzing COVID-19 Data by Means of Fast Fourier Transforms Through Autoencoders”</em></li>
+		  <li>Henry Chung, Jesse Ibarra, Gil Gallegos. <em>“Comparing Plasmonic Prediction Between Convolutional Neural Network and Feed Forward Neural Network”</em></li>
+		  <li>Luke Romero, Michael Petronis, Marek Awdankiewcz, Vladoslav Rapprich. <em>“Permian Rhyolite Tuffs Emplacement in The Intra-Sudetic Basin, SW Poland and NE Czech Republic”</em></li>
+		  <li>Suzanne Rice, Michael Petronis, Joseph Zebrowski, Vladislav Rapprich. <em>“Rock Magnetic Data from the Oligocene Radobýl Volcano”</em></li>
+		  <li>Vincent Twomey, William McCarthy, Craig Magee, Michael Petronis, Tobias Mattsson. <em>“Unravelling magma emplacement through palaeomagnetic backstripping of an intrusion-induced forced fold: A case study from the Sandfell Laccolith, SE Iceland”</em></li>
+        </ul>
+		<div class="spacing"></div>		  
+		
+		<h4><strong style="color:purple">The Society for Applied Anthropology Annual Meeting</strong>, Online, March 22-27, 2021</h4>
+        <ul>
+		  <li>Christopher Torres and Orit Tamir. <em>“Contributing Factors to the Spread of Covid-19 Spread on the Navajo Reservation”</em></li>
+		  <li>Viktor Glebov, Gil Gallegos, Rich Colbaugh, Kristin Glass. <em>“Machine Learning Model to Inform COVID-19 Risk Mitigation Policy”</em></li>
+		  <li>Svetlana Riabova and Gil Gallegos. <em>“Machine Learning Time Series Clustering for Understanding COVID-19 Spread in the US and Navajo Nation”</em></li>
+		  <li>Jesse Ibarra, Christopher Torres, Gil Gallegos. <em>“Understanding SARS-CoV-2 (COVID-19) Utilizing Autoencoders”</em></li>
+		  <li>Manuel Steele, Gil Gallegos, Orit Tamir. <em>“Modeling the Spread of COVID-19 on the Navajo Reservation”</em></li>
+        </ul>
+		<div class="spacing"></div>			
+		
+		<h4><strong style="color:purple">Magnetic Interactions 2021</strong>, Online, January 7-8, 2021</h4>
+        <ul>
+		  <li>Vincent Twomey, William McCarthy, Craig Magee, Michael Petronis, Tobias Mattsson. <em>“Unravelling magma emplacement: A case study from the Sandfell Laccolith, SE Iceland”</em></li>
+		  <li>Suzanne Rice, Michael Petronis, Joseph Zebrowski, Vladislav Rapprich. <em>“Magnetic Data from the Oligocene Radobýl Volcano, Czech Republic”</em></li>
+        </ul>
+		<div class="spacing"></div>			
+	  
 	  <h3><strong style="color:purple">2020</strong></h3>
 	  <div class="spacing"></div>		  
 	  
-        <h4><strong style="color:purple">EGU General Assembly 2020</strong>, Online, May 4-8, 2020</h4>	  
+        <h4><strong style="color:purple">European Geoscience Union (EGU) General Assembly 2020</strong>, Online, May 4-8, 2020</h4>	  
         <ul>
 		  <li>William McCarthy, Vincent Twomey, Craig Magee, Michael Petronis. <em>“Unravelling magma emplacement through palaeomagnetic backstripping of an intrusion-induced forced fold: A case study from the Sandfell Laccolith, SE Iceland”</em></li>			  
         </ul>

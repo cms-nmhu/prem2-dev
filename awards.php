@@ -29,6 +29,7 @@
 	  <h2 class="text-center" style="color:purple">News & Awards</h2>
       <div class="col-md-10 col-md-offset-1">
 		<ul>
+		  <li><h5><b>Dr. Michael Petronis</b> received the Fulbright Scholar 2021-2022 Award</h5></li>
 		  <li><h5><b>Dr. Gil Gallegos</b>, <b>Dr. Tatiana Timofeeva</b>, and <b>Dr. Orit Tamir</b> received the "RAPID: Machine Learning Methods to Understand, Predict and Reduce the Spread of COVID-19 in Small Communities" NSF Award ($185,747)</h5></li>	
 		  <li><h5><b>Dr. Michael Petronis</b> received the "Acquisition of a Lake Shore Cryotronics Vibrating Sample Magnetometer" NSF Award ($153,915)</h5></li>
 		  <li><h5>Undergraduate students <b>Megan Begay</b> and <b>Letisha Mailboy</b> received $100 book scholarships from the New Mexico Geological Society</h5></li>

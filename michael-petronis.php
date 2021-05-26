@@ -51,7 +51,7 @@
       </div>
 	 </div>		  	  
 	  
-      <h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
+      <!--<h3 class="col-md-12 text-center" style="color:purple">Research Group Members</h3>
 	  <div class="row">	 
 	  <div class="col-md-6 content">	
 	  	<div class="row">		  
@@ -80,7 +80,7 @@
 	    <br>
 	  </div>-->	  
 	  
-      <h3 class="col-md-12 text-center" style="color:purple">Former Members</h3>
+      <h3 class="col-md-12 text-center" style="color:purple">Former Research Group Members</h3>
 	  <div class="row">	 
 	  <div class="col-md-6 content">	
 	  	<div class="row">		  
@@ -89,11 +89,11 @@
 		  </div> 	
 		  <div class="col-md-9 content">
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Billy Romero</h4>
+			<br>		
+			<h6 style="display:inline">BS in Environmental Geology, New Mexico Highlands University</h6>
 			<br>
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
 			<br>
-			<br>			
-			<h5 style="display:inline"></h5>
+			<h5 style="display:inline">Graduate Student at NMHU</h5>
 			<br>
 		  </div>
 		</div>  
@@ -116,6 +116,21 @@
 	  </div>	
 
 	  <div class="col-md-6 content">	
+	  	<div class="row">		  
+		  <div class="col-md-3 content">
+			<img style="margin-right:15px" class="pull-left" src="images/sindy-lauricella.JPG" width="120px">
+		  </div> 	
+		  <div class="col-md-9 content">
+			<h4 style="display:inline; vertical-align:top; font-weight:bold">Sindy Lauricella</h4>
+			<br>	
+			<h6 style="display:inline">MS in Natural Sciences, New Mexico Highlands University</h6>			
+			<br>	
+			<br>			
+			<h5 style="display:inline">Working at Taney Engineering, Albuquerque, NM</h5>
+			<br>
+		  </div>
+		</div> 	  
+		<br>
 	  	<div class="row">		  
 		  <div class="col-md-3 content">
 			<img style="margin-right:15px" class="pull-left" src="images/joslynn-rowin.png" width="120px">

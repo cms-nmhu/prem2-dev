@@ -83,7 +83,7 @@
 		    <h6 style="display:inline">MS in Chemistry, New Mexico Highlands University</h6>			
 			<br>
 			<br>
-			<h5 style="display:inline">Chemist at Greenwell Energy Solutions, Odessa, TX</h5>
+			<h5 style="display:inline">Chemistry Instructor at The University of Texas of the Permian Basin, Odessa, TX</h5>
 			<br>
 		  </div>
 		</div> 		
@@ -158,8 +158,12 @@
 		  </div>
           <div class="col-md-9 content">			
 			<h4 style="display:inline; vertical-align:top; font-weight:bold">Zackery Schroer</h4>
+			<br>		
+			<h6 style="display:inline">BA in Chemistry, New Mexico Highlands University</h6>
 			<br>
-			<h5 style="display:inline">Undergraduate Student at NMHU</h5>
+			<br>
+			<h5 style="display:inline"></h5>
+			<br>
 		  </div>	
 		</div>	 
 		<br>	
