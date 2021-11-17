@@ -28,8 +28,19 @@
     <div class="container" style="background:white">
 	  <h2 class="text-center" style="color:purple">Publications</h2>	
       <div class="col-md-10 col-md-offset-1">
-        <h4><strong style="color:purple">2020</strong></h4>
+        <h4><strong style="color:purple">2021</strong></h4>
         <ul>
+		  <!--<li><h5> <em></em> <strong>2021</strong>, .</h5></li>-->
+		  <li><h5>Muhammad Usman, Lydia Ogebule, Raul Castaneda, Evgenii Oskolkov, Tatiana Timofeeva. Two metal–organic frameworks based on Sr<sup>2+</sup> and 1,2,4,5-tetrakis(4-carboxyphenyl)benzene linkers. <em>Acta Cryst.</em> <strong>2021</strong>, E77, doi:10.1107/S2056989021.</h5></li>
+		  <li><h5>Liliya A. Khamidullina, Igor S. Puzyrev, Gennady L. Burygin, Pavel V. Dorovatovskii, Yan V. Zubavichus, Anna V. Mitrofanova, Victor N. Khrustalev, Tatiana V. Timofeeva, Pavel A. Slepukhin, Polina D. Tobysheva, Alexander V. Pestov, Euro Solari, Alexander G. Tskhovrebov, Valentine G. Nenajdenko. Unsymmetrical Trifluoromethyl Methoxyphenyl β-Diketones: Effect of the Position of Methoxy Group and Coordination at Cu(II) on Biological Activity. <em>Molecules</em> <strong>2021</strong>, 26, 6466.</h5></li>
+		  <li><h5>Elena Longhi, Chad Risko, John Bacsa, Victor Khrustalev, Sergei Rigin, Karttikay Moudgil, Tatiana V. Timofeeva, Seth R. Marder, Stephen Barlow. Synthesis, structures, and reactivity of isomers of [RuCp*(1,4-(Me<sub>2</sub>N)<sub>2</sub>C<sub>6</sub>H<sub>4</sub>)]<sub>2</sub>. <em>Dalton Trans.</em> <strong>2021</strong>, 50, 13020-13030.</h5></li>
+		  <li><h5>Michael S. Petronis, Marek Awdankiewicz, Jan Valenta, Vlado Rapprich, Joe P. Zebrowski, Ejaz Karim. Eruptive and magma feeding system evolution of Sośnica Hill Volcano (Lower Silesia, SW Poland) revealed from Volcanological, Geophysical, and Rock Magnetic Data. <em>J. Volcanol. Geotherm. Res.</em> <strong>2021</strong>, 419, 107367.</h5></li>
+		  <li><h5>Jiri Zak, Filip Tomek, Martin Svojtka, Frantisek Vacek, Vaclav Kachlik, Lukas Ackerman, Josef Jezek, Michael S. Petronis. Distributed crustal shortening followed by transpressional shearing in the Superior Province, northeastern Canada: A Late Archean analogy to modern accretionary plate margins? <em>Precambrian Res.</em> <strong>2021</strong>, 362, 106322.</h5></li>
+        </ul>
+		<div class="spacing"></div>			  
+		  
+        <h4><strong style="color:purple">2020</strong></h4>
+        <ul>		  
 		  <li><h5>Michael S. Petronis, Rhonda V. Trujillo, Jennifer Lindline, Joseph P. Zebrowski. "Paleomagnetic data bearing on vertical axis rotation of the Rio del Oso dike swarm, western Española Basin, New Mexico," <em>New Mexico Geology</em>, <strong>2020</strong>, 42(2), 61-78.</h5></li>
 		  <li><h5>Muhammad Usman, Maximillian Chibuike, Deepak Patil, Sergei Rigin, Songwei Zhang, Yiying Wu, Jennifer Lindline, Tatiana V. Timofeeva. "Magnetic Behaviour of 3D Metal−Organic Frameworks Constructed via 1,2,4,5-Benzenetetracarboxylate Linker and 4<i>f</i> Ce(III) or 3<i>d</i> Fe(III) Metal Nodes," <em>Inorg. Chem. Comm.</em>, <strong>2020</strong>, 122, 108261.</h5></li>
 		  <li><h5>Evgenii Oskolkov, Tatiana Kornilova, Preciosa America Chavez, John P. Tillotson, Tatiana V. Timofeeva. "Structural (at 100 K) and DFT studies of 2’-nitroflavone," <em>Acta Cryst.</em>, <strong>2020</strong>, E76, 1417-1420.</h5></li>
