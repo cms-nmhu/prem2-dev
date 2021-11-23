@@ -41,7 +41,7 @@
 
 	<h4><strong style="color:purple">2021 Rocky Mountain Regional Meeting of the American Chemical Society</strong>, Tucson, AZ, October 20-23, 2021</h4>
         <ul>
-		  <li>atiana Kornilova, Preciosa America J. Chavez, Raul Castaneda , Tatiana Timofeeva. <em>“abrication and Characterization of Quercetin Cocrystals”</em></li>
+		  <li>Tatiana Kornilova, Preciosa America J. Chavez, Raul Castaneda, Tatiana Timofeeva. <em>“Fabrication and Characterization of Quercetin Cocrystals”</em></li>
         </ul>
 		<div class="spacing"></div>
 
@@ -55,7 +55,7 @@
 		<h4><strong style="color:purple">18th Annual NMHU Faculty and Student Research and Creative Showcase Day</strong>, Online, April 9, 2021</h4>
         <ul>
 		  <li>Luis Raul Castaneda Perea and Tatiana V. Timofeeva. <em>“Water Soluble Picolamidine Metal Complexes”</em></li>
-		  <li>Lydia Ogebule, Muhammed Usman, Tatiana V. Timofeeva. <em>“Synthesis and Characterization of Thermally Stable Strontium Metal Organic Frameworks (Sr-MOFs)”</em></li>
+		  <li>Lydia Ogebule, Muhammad Usman, Tatiana V. Timofeeva. <em>“Synthesis and Characterization of Thermally Stable Strontium Metal Organic Frameworks (Sr-MOFs)”</em></li>
 		  <li>Tatiana Kornilova, Preciosa America J. Chavez, Tatiana V. Timofeeva. <em>“Improving Solubility of Flavones”</em></li>
 		  <li>Viktor Glebov, Gil Gallegos, Rich Colbaugh, Kristin Glass. <em>“Machine Learning Model to Inform COVID-19 Risk Mitigation Policy”</em></li>
 		  <li>Christopher Torres, Jesse Ibarra, Gil Gallegos. <em>“Analyzing COVID-19 Data by Means of Fast Fourier Transforms Through Autoencoders”</em></li>
