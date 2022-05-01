@@ -28,6 +28,14 @@
     <div class="container" style="background:white">
 	  <h2 class="text-center" style="color:purple">Publications</h2>	
       <div class="col-md-10 col-md-offset-1">
+        <h4><strong style="color:purple">2022</strong></h4>
+        <ul>
+		  <!--<li><h5> <em></em> <strong>2022</strong>, .</h5></li>-->
+		  <li><h5>Tatiana Kornilova, Viktor Glebov, Raul Castaneda, Tatiana V. Timofeeva. A new pseudopolymorph of berberine chloride: crystal structure and Hirshfeld surface analysis. <em>Acta Cryst.</em> <strong>2022</strong>, E78, doi:10.1107/S2056989022003309.</h5></li>
+		  <li><h5>Marie-Helene Tremblay, Allyson Boyington, Sergei Rigin, Jie Jiang, John Bacsa, Khaled Al Kurdi, Victor N. Khrustalev, Ruth Pachter, Tatiana V. Timofeeva, Nathan Jui, Stephen Barlow, Seth R. Marder. Hybrid Organic Lead Iodides: Role of Organic Cation Structure in Obtaining 1D Chains of Face-Sharing Octahedra vs 2D Perovskites. <em>Chem. Mater.</em> <strong>2022</strong>, 34, 935-946.</h5></li>	
+        </ul>
+		<div class="spacing"></div>	
+		
         <h4><strong style="color:purple">2021</strong></h4>
         <ul>
 		  <!--<li><h5> <em></em> <strong>2021</strong>, .</h5></li>-->
